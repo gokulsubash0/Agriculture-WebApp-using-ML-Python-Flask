@@ -1,0 +1,1819 @@
+{
+  "intents": [
+    {
+      "tag": "Greeting",
+      "patterns": [
+        "Hi",
+        "Hello!",
+        "Hey",
+        "Namaste"
+      ],
+      "responses": [
+        "Hello, Thanks for visiting.",
+        "Good to see you.",
+        "Hi there, how can I help?",
+        "Hello"
+      ]
+    },
+    {
+      "tag": "Thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "Thank you so much"
+      ],
+      "responses": [
+        "Happy to help!",
+        "Any time!",
+        "My pleasure."
+      ]
+    },
+    {
+      "tag": "Askinghelp",
+      "patterns": [
+        "I need help!",
+        "Need help!",
+        "Help me please",
+        "Help me",
+        "Can you do something for me?",
+        "Answer my question"
+      ],
+      "responses": [
+        "I'm here to help you.",
+        "I can help you.",
+        "I'm here to solve your queries."
+      ]
+    },
+    {
+      "tag": "RiceRainfall",
+      "patterns": [
+        "How much rainfall does rice require?",
+        "Rainfall for rice",
+        "Rice rainfall requirements",
+        "Rice rainfall",
+        "What is the required amount of rain for rice?"
+      ],
+      "responses": [
+        "Rice requires a minimum rainfall of 115 cm. Although the regions having average annual rainfall between 175 to 300 cm are the most suitable."
+      ]
+    },
+    {
+      "tag": "RiceSoil",
+      "patterns": [
+        "What type of soil is suitable for rice?",
+        "Rice is suitable for which soil",
+        "Soil for rice",
+        "Best soil for rice",
+        "Suitable soil"
+      ],
+      "responses": [
+        "Rice is suitable for Red soil and Black cotton soil."
+      ]
+    },
+    {
+      "tag": "RiceIrrigation",
+      "patterns": [
+        "What is the amount of water required to grow rice",
+        "Irrigation amount for rice",
+        "Required water for rice cultivation of rice",
+        "Amount of water required to cultivate rice"
+      ],
+      "responses": [
+        "Rice requires 800 mm to 1,200 mm of water with extremes between 520 mm and 2,550 mm during the growing season."
+      ]
+    },
+    {
+      "tag": "RiceSowing_time",
+      "patterns": [
+        "When should we sow rice",
+        "Which all months are suitable for sowing rice",
+        "Suitable time to sow rice",
+        "Months for sowing rice",
+        "When to sow rice",
+        "Sowing time of rice"
+      ],
+      "responses": [
+        "The sowing time of Madhu, Mahaveer and Puspha rice are Kharif (April - September), Rabi (October - December), Summer/Zaid (January - March).\n  The sowing time of Abilash, Intan and Hemavati rice are Kharif (April - September)."
+      ]
+    },
+    {
+      "tag": "RiceMaturity_time",
+      "patterns": [
+        "How long does it take for rice to grow",
+        "Maturity time of rice",
+        "Time taken by rice to mature",
+        "What is the time taken by rice to mature",
+        "Rice maturity time"
+      ],
+      "responses": [
+        "Time taken by rice to mature is 160-170 days."
+      ]
+    },
+    {
+      "tag": "RiceSeed_rate",
+      "patterns": [
+        "What is the seed requirement for rice",
+        "Rice seed requirement",
+        "Seed rate of rice",
+        "What is the seed rate of rice"
+      ],
+      "responses": [
+        "Seed requirement of rice is 20 kg per hectare"
+      ]
+    },
+    {
+      "tag": "RiceFertilizer",
+      "patterns": [
+        "Which fertilizers should be used for rice",
+        "Fertilizers for rice",
+        "How to apply the fertilizers for rice",
+        "Rice Fertilizers",
+        "Fertilizers suitable for rice",
+        "Best fertilizers for rice"
+      ],
+      "responses": [
+        "Apply TNAU Rainfed rice MN mixture 12.5 kg/ha as EFYM at 1:10 ratio incubated for 30 days at friable moisture."
+      ]
+    },
+    {
+      "tag": "RicePesticide",
+      "patterns": [
+        "Which pesticides should be used for rice",
+        "Pesticides for rice",
+        "Rice pesticides",
+        "Pesticides suitable for rice",
+        "Best pesticides for rice"
+      ],
+      "responses": [
+        "Lambda-cyhalothrin,malathion and zeta-cypermethrin are all broad-spectrum pesticides used on rice."
+      ]
+    },
+    {
+      "tag": "RiceLocation",
+      "patterns": [
+        "Where can you grow rice",
+        "Where can rice be grown",
+        "Locaton at which rice can be grown",
+        "Location for rice",
+        "Best place to grow rice",
+        "Best location for rice"
+      ],
+      "responses": [
+        "Suitable zone in Karnataka are Hill Zone."
+      ]
+    },
+    {
+      "tag": "RagiRainfall",
+      "patterns": [
+        "How much rainfall does ragi require?",
+        "Rainfall for ragi",
+        "Ragi rainfall requirements",
+        "Ragi rainfall",
+        "What is the required amount of rain for ragi?"
+      ],
+      "responses": [
+        "It requires 800 mm to 1,200 mm of water with extremes between 520 mm and 2,550 mm during the growing season."
+      ]
+    },
+    {
+      "tag": "RagiSoil",
+      "patterns": [
+        "What type of soil is suitable for ragi?",
+        "Ragi is suitable for which soil",
+        "Soil for ragi",
+        "Best soil for ragi",
+        "Suitable soil"
+      ],
+      "responses": [
+        "It is cultivated mostly in red lateritic soils."
+      ]
+    },
+    {
+      "tag": "RagiIrrigation",
+      "patterns": [
+        "What is the amount of water required to grow ragi",
+        "Irrigation amount for ragi",
+        "Required water for ragi cultivation of ragi",
+        "Amount of water required to cultivate ragi"
+      ],
+      "responses": [
+        "It is suited for cultivation in areas with annual rainfall of 700-1200mm. it does not tolerate heavy rainfall and requires a dry spell at the time of grain ripening. "
+      ]
+    },
+    {
+      "tag": "RagiSowing_time",
+      "patterns": [
+        "When should we sow ragi",
+        "Which all months are suitable for sowing ragi",
+        "Suitable time to sow ragi",
+        "Months for sowing ragi",
+        "When to sow ragi",
+        "Sowing time of ragi"
+      ],
+      "responses": [
+        "The sowing time is between Kar or Early Kharif (April - August),Kharif (July - November),Late kharif (August - November) ,Rabi (October -September) Summer (January - May)"
+      ]
+    },
+    {
+      "tag": "RagiMaturity_time",
+      "patterns": [
+        "How long does it take for ragi to grow",
+        "Maturity time of ragi",
+        "Time taken by ragi to mature",
+        "What is the time taken by ragi to mature",
+        "Ragi maturity time"
+      ],
+      "responses": [
+        "Time taken to mature is 90-95 days."
+      ]
+    },
+    {
+      "tag": "RagiSeed_rate",
+      "patterns": [
+        "What is the seed requirement for ragi",
+        "Ragi seed requirement",
+        "Seed rate of ragi",
+        "What is the seed rate of ragi"
+      ],
+      "responses": [
+        "Seed requirement is 10 to 15 kg per hectare"
+      ]
+    },
+    {
+      "tag": "RagiFertilizer",
+      "patterns": [
+        "Which fertilizers should be used for ragi",
+        "Fertilizers for ragi",
+        "How to apply the fertilizers for ragi",
+        "Ragi fertilizers",
+        "Fertilizers suitable for ragi",
+        "Best fertilizers for ragi"
+      ],
+      "responses": [
+        "50% of recommended nitrogen is to be applied at sowing and the remaining 50% in two equal splits at 25-30 and 40-45 days after sowing."
+      ]
+    },
+    {
+      "tag": "RagiPesticide",
+      "patterns": [
+        "Which pesticides should be used for ragi",
+        "Pesticides for ragi",
+        "Ragi pesticides",
+        "Pesticides suitable for ragi",
+        "Best pesticides for ragi"
+      ],
+      "responses": [
+        "Any  one of the insecticides- monocrotophos 1.6 ml,Chlorpyriphos 2.5 ml or Quinalphos 2.5 ml or Acephate 1 gm or Carbaryl 3 gm or Cartap hydrochloride2 gm/lit to be sprayed  two times at 10 days interval or apply cartap hydrochloride 4G 10Kg/acre"
+      ]
+    },
+    {
+      "tag": "RagiLocation",
+      "patterns": [
+        "Where can you grow ragi",
+        "Where can ragi be grown",
+        "Locaton at which ragi can be grown",
+        "Location for ragi",
+        "Best place to grow ragi",
+        "Best location for ragi"
+      ],
+      "responses": [
+        "Suitable region in Karnataka are Bangalore,Kolar,Tumkur,Shimoga,Mysore,Davanagere etc."
+      ]
+    },
+    {
+      "tag": "JowarRainfall",
+      "patterns": [
+        "How much rainfall does jowar require?",
+        "Rainfall for jowar",
+        "Jowar rainfall requirements",
+        "Jowar rainfall",
+        "What is the required amount of rain for jowar?"
+      ],
+      "responses": [
+        "It thrives well at a temperature between 25 C and 32 C but below 16 C is not good for the crop. Jowar crop requires rainfall about 40 cm annually."
+      ]
+    },
+    {
+      "tag": "JowarSoil",
+      "patterns": [
+        "What type of soil is suitable for jowar?",
+        "Jowar is suitable for which soil",
+        "Soil for jowar",
+        "Best soil for jowar",
+        "Suitable soil"
+      ],
+      "responses": [
+        "Grows well in loam soils having good drainage. Soil pH range of 6 to 7.5 is ideal for its cultivation and better growth."
+      ]
+    },
+    {
+      "tag": "JowarIrrigation",
+      "patterns": [
+        "What is the amount of water required to grow jowar",
+        "Irrigation amount for jowar",
+        "Required water for jowar cultivation of jowar",
+        "Amount of water required to cultivate jowar"
+      ],
+      "responses": [
+        "It requires 450 to 650 l of water "
+      ]
+    },
+    {
+      "tag": "JowarSowing_time",
+      "patterns": [
+        "When should we sow jowar",
+        "Which all months are suitable for sowing jowar",
+        "Suitable time to sow jowar",
+        "Months for sowing jowar",
+        "When to sow jowar",
+        "Sowing time of jowar"
+      ],
+      "responses": [
+        "The sowing time is between 5th September to 15th October."
+      ]
+    },
+    {
+      "tag": "JowarMaturity_time",
+      "patterns": [
+        "How long does it take for jowar to grow",
+        "Maturity time of jowar",
+        "Time taken by jowar to mature",
+        "What is the time taken by jowar to mature",
+        "Jowar maturity time"
+      ],
+      "responses": [
+        "Time taken to mature is 180-240 days."
+      ]
+    },
+    {
+      "tag": "JowarSeed_rate",
+      "patterns": [
+        "What is the seed requirement for jowar",
+        "Jowar seed requirement",
+        "Seed rate of jowar",
+        "What is the seed rate of jowar"
+      ],
+      "responses": [
+        "Seed requirement is 8 kg seed/ha"
+      ]
+    },
+    {
+      "tag": "JowarFertilizer",
+      "patterns": [
+        "Which fertilizers should be used for jowar",
+        "Fertilizers for jowar",
+        "How to apply the fertilizers for jowar",
+        "Jowar fertilizers",
+        "Fertilizers suitable for jowar",
+        "Best fertilizers for jowar"
+      ],
+      "responses": [
+        "Recommended dose of fertilizer for sweet sorghum in soils with normal fertility levels is 80kg of nitrogen,60 kg of phosphorous and 40 kg of potassium."
+      ]
+    },
+    {
+      "tag": "JowarPesticide",
+      "patterns": [
+        "Which pesticides should be used for jowar",
+        "Pesticides for jowar",
+        "Jowar pesticides",
+        "Pesticides suitable for jowar",
+        "Best pesticides for jowar"
+      ],
+      "responses": [
+        "Shoot fly can be managed by the soil application of Carbofuran 3G at 8 to 10 kg/ha."
+      ]
+    },
+    {
+      "tag": "JowarLocation",
+      "patterns": [
+        "Where can you grow jowar",
+        "Where can jowar be grown",
+        "Locaton at which jowar can be grown",
+        "Location for jowar",
+        "Best place to grow jowar",
+        "Best location for jowar"
+      ],
+      "responses": [
+        "Predominantly grown in districts of Northern Karnataka."
+      ]
+    },
+    {
+      "tag": "MaizeRainfall",
+      "patterns": [
+        "How much rainfall does maize require?",
+        "Rainfall for maize",
+        "Maize rainfall requirements",
+        "Maize rainfall",
+        "What is the required amount of rain for maize?"
+      ],
+      "responses": [
+        "It mostly in grown regions having annual rainfall between 60 cm to 110 cm."
+      ]
+    },
+    {
+      "tag": "MaizeSoil",
+      "patterns": [
+        "What type of soil is suitable for maize?",
+        "Maize is suitable for which soil",
+        "Soil for maize",
+        "Best soil for maize",
+        "Suitable soil"
+      ],
+      "responses": [
+        "Best suitable soil is deep, red rich soils, where there is abundant nitrogen."
+      ]
+    },
+    {
+      "tag": "MaizeIrrigation",
+      "patterns": [
+        "What is the amount of water required to grow maize",
+        "Irrigation amount for maize",
+        "Required water for maize cultivation of maize",
+        "Amount of water required to cultivate maize"
+      ],
+      "responses": [
+        "It requires 500 to 800 liter of water"
+      ]
+    },
+    {
+      "tag": "MaizeSowing_time",
+      "patterns": [
+        "When should we sow maize",
+        "Which all months are suitable for sowing maize",
+        "Suitable time to sow maize",
+        "Months for sowing maize",
+        "When to sow maize",
+        "Sowing time of maize"
+      ],
+      "responses": [
+        "The sowing time is between May - August."
+      ]
+    },
+    {
+      "tag": "MaizeMaturity_time",
+      "patterns": [
+        "How long does it take for maize to grow",
+        "Maturity time of maize",
+        "Time taken by maize to mature",
+        "What is the time taken by maize to mature",
+        "Maize maturity time"
+      ],
+      "responses": [
+        "Time taken to mature is 120  days."
+      ]
+    },
+    {
+      "tag": "MaizeSeed_rate",
+      "patterns": [
+        "What is the seed requirement for maize",
+        "Maize seed requirement",
+        "Seed rate of maize",
+        "What is the seed rate of maize"
+      ],
+      "responses": [
+        "Seed requirement is 25 kg/ha"
+      ]
+    },
+    {
+      "tag": "MaizeFertilizer",
+      "patterns": [
+        "Which fertilizers should be used for maize",
+        "Fertilizers for maize",
+        "How to apply the fertilizers for maize",
+        "Maize fertilizers",
+        "Fertilizers suitable for maize",
+        "Best fertilizers for maize"
+      ],
+      "responses": [
+        "Apply TNAU MN mixture  30 kg /ha"
+      ]
+    },
+    {
+      "tag": "MaizePesticide",
+      "patterns": [
+        "Which pesticides should be used for maize",
+        "Pesticides for maize",
+        "Maize pesticides",
+        "Pesticides suitable for maize",
+        "Best pesticides for maize"
+      ],
+      "responses": [
+        "Fungicides are used as pesticide."
+      ]
+    },
+    {
+      "tag": "MaizeLocation",
+      "patterns": [
+        "Where can you grow maize",
+        "Where can maize be grown",
+        "Locaton at which maize can be grown",
+        "Location for maize",
+        "Best place to grow maize",
+        "Best location for maize"
+      ],
+      "responses": [
+        "It is grown all around Kranataka."
+      ]
+    },
+    {
+      "tag": "PulsesRainfall",
+      "patterns": [
+        "How much rainfall does pulses require?",
+        "Rainfall for pulses",
+        "Pulses rainfall requirements",
+        "Pulses rainfall",
+        "What is the required amount of rain for pulses?"
+      ],
+      "responses": [
+        "It requires a moderate amount of rainfall of 25-75 cms."
+      ]
+    },
+    {
+      "tag": "PulsesSoil",
+      "patterns": [
+        "What type of soil is suitable for pulses?",
+        "Pulses is suitable for which soil",
+        "Soil for pulses",
+        "Best soil for pulses",
+        "Suitable soil"
+      ],
+      "responses": [
+        "The most ideal soil would be a well drained loam with a pH range from 4.7 to 7.5. "
+      ]
+    },
+    {
+      "tag": "PulsesIrrigation",
+      "patterns": [
+        "What is the amount of water required to grow pulses",
+        "Irrigation amount for pulses",
+        "Required water for pulses cultivation of pulses",
+        "Amount of water required to cultivate pulses"
+      ],
+      "responses": [
+        "It requires 500 to 700 liter of water"
+      ]
+    },
+    {
+      "tag": "PulsesSowing_time",
+      "patterns": [
+        "When should we sow pulses",
+        "Which all months are suitable for sowing pulses",
+        "Suitable time to sow pulses",
+        "Months for sowing pulses",
+        "When to sow pulses",
+        "Sowing time of pulses"
+      ],
+      "responses": [
+        "The sowing time is between (Kharif) May - August,(Rabi) September - February"
+      ]
+    },
+    {
+      "tag": "PulsesMaturity_time",
+      "patterns": [
+        "How long does it take for pulses to grow",
+        "Maturity time of pulses",
+        "Time taken by pulses to mature",
+        "What is the time taken by pulses to mature",
+        "Pulses maturity time"
+      ],
+      "responses": [
+        "Time taken to mature is 80 to 100 days."
+      ]
+    },
+    {
+      "tag": "PulsesSeed_rate",
+      "patterns": [
+        "What is the seed requirement for pulses",
+        "Pulses seed requirement",
+        "Seed rate of pulses",
+        "What is the seed rate of pulses"
+      ],
+      "responses": [
+        "Seed requirement is 20 kg/ha"
+      ]
+    },
+    {
+      "tag": "PulsesFertilizer",
+      "patterns": [
+        "Which fertilizers should be used for pulses",
+        "Fertilizers for pulses",
+        "How to apply the fertilizers for pulses",
+        "Pulses fertilizers",
+        "Fertilizers suitable for pulses",
+        "Best fertilizers for pulses"
+      ],
+      "responses": [
+        "Apply fertilizers basally before sowing. Rainfed : 12.5 kg N + 25 kg P2O5 + 12.5 kg K2O +10 kg S*/ha,Irrigated : 25 kg N + 50 kg P2O5 + 25 kg K2O + 20 kg S*/ha"
+      ]
+    },
+    {
+      "tag": "PulsesPesticide",
+      "patterns": [
+        "Which pesticides should be used for pulses",
+        "Pesticides for pulses",
+        "Pulses pesticides",
+        "Pesticides suitable for pulses",
+        "Best pesticides for pulses"
+      ],
+      "responses": [
+        "Foliar spray of NAA 40 mg/litre and Salicylic acid 100 mg/litre once at pre-flowering and another at 15 days thereafter"
+      ]
+    },
+    {
+      "tag": "PulsesLocation",
+      "patterns": [
+        "Where can you grow pulses",
+        "Where can pulses be grown",
+        "Locaton at which pulses can be grown",
+        "Location for pulses",
+        "Best place to grow pulses",
+        "Best location for pulses"
+      ],
+      "responses": [
+        "Suitable zone in Karnataka are West Coast Plains and Hills Region."
+      ]
+    },
+    {
+      "tag": "CashewRainfall",
+      "patterns": [
+        "How much rainfall does cashew require?",
+        "Rainfall for cashew",
+        "Cashew rainfall requirements",
+        "Cashew rainfall",
+        "What is the required amount of rain for cashew?"
+      ],
+      "responses": [
+        "Areas where the temperatures range from 20 to 30 C with an annual precipitationof 1000 - 2000 mm"
+      ]
+    },
+    {
+      "tag": "CashewSoil",
+      "patterns": [
+        "What type of soil is suitable for cashew?",
+        "Cashew is suitable for which soil",
+        "Soil for cashew",
+        "Best soil for cashew",
+        "Suitable soil"
+      ],
+      "responses": [
+        "For the best production deep,well-drained sandy or sandy-loam soil is recommended."
+      ]
+    },
+    {
+      "tag": "CashewIrrigation",
+      "patterns": [
+        "What is the amount of water required to grow cashew",
+        "Irrigation amount for cashew",
+        "Required water for cashew cultivation of cashew",
+        "Amount of water required to cultivate cashew"
+      ],
+      "responses": [
+        "Yearly rainfall of 1 000 mm is sufficient for production but 1 500 to 2 000 mm can be regarded as optimal."
+      ]
+    },
+    {
+      "tag": "CashewSowing_time",
+      "patterns": [
+        "When should we sow cashew",
+        "Which all months are suitable for sowing cashew",
+        "Suitable time to sow cashew",
+        "Months for sowing cashew",
+        "When to sow cashew",
+        "Sowing time of cashew"
+      ],
+      "responses": [
+        "The sowing time is throught the year."
+      ]
+    },
+    {
+      "tag": "CashewMaturity_time",
+      "patterns": [
+        "How long does it take for cashew to grow",
+        "Maturity time of cashew",
+        "Time taken by cashew to mature",
+        "What is the time taken by cashew to mature",
+        "Cashew maturity time"
+      ],
+      "responses": [
+        "Its flowering period is from January to April with 2-4 nuts per panicle."
+      ]
+    },
+    {
+      "tag": "CashewSeed_rate",
+      "patterns": [
+        "What is the seed requirement for cashew",
+        "Cashew seed requirement",
+        "Seed rate of cashew",
+        "What is the seed rate of cashew"
+      ],
+      "responses": [
+        "Seed requirement is 160 tree per acre."
+      ]
+    },
+    {
+      "tag": "CashewFertilizer",
+      "patterns": [
+        "Which fertilizers should be used for cashew",
+        "Fertilizers for cashew",
+        "How to apply the fertilizers for cashew",
+        "Cashew fertilizers",
+        "Fertilizers suitable for cashew",
+        "Best fertilizers for cashew"
+      ],
+      "responses": [
+        "10-15 kg of farmyard manure or compost annually is generally recommended forcashew."
+      ]
+    },
+    {
+      "tag": "CashewPesticide",
+      "patterns": [
+        "Which pesticides should be used for cashew",
+        "Pesticides for cashew",
+        "Cashew pesticides",
+        "Pesticides suitable for cashew",
+        "Best pesticides for cashew"
+      ],
+      "responses": [
+        "Organochlorine pesticide are used as Pesticide."
+      ]
+    },
+    {
+      "tag": "CashewLocation",
+      "patterns": [
+        "Where can you grow cashew",
+        "Where can cashew be grown",
+        "Locaton at which cashew can be grown",
+        "Location for cashew",
+        "Best place to grow cashew",
+        "Best location for cashew"
+      ],
+      "responses": [
+        "Suitable zone in Karnataka are Dakshina Kannada,Udupi,Belgaum,Chickballapur,Uttara Kannada,Kodagu and Kolar."
+      ]
+    },
+    {
+      "tag": "CoconutRainfall",
+      "patterns": [
+        "How much rainfall does coconut require?",
+        "Rainfall for coconut",
+        "Coconut rainfall requirements",
+        "Coconut rainfall",
+        "What is the required amount of rain for coconut?"
+      ],
+      "responses": [
+        "A well distributed rainfall of 1300   2300 mm per annum is preferred"
+      ]
+    },
+    {
+      "tag": "CoconutSoil",
+      "patterns": [
+        "What type of soil is suitable for coconut?",
+        "Coconut is suitable for which soil",
+        "Soil for coconut",
+        "Best soil for coconut",
+        "Suitable soil"
+      ],
+      "responses": [
+        "Thrive well under different soil conditions varying from littoral sands to red loams and laterites."
+      ]
+    },
+    {
+      "tag": "CoconutIrrigation",
+      "patterns": [
+        "What is the amount of water required to grow coconut",
+        "Irrigation amount for coconut",
+        "Required water for coconut cultivation of coconut",
+        "Amount of water required to cultivate coconut"
+      ],
+      "responses": [
+        "An adult palm requires 600 to 800 litres of water once in four to seven days."
+      ]
+    },
+    {
+      "tag": "CoconutSowing_time",
+      "patterns": [
+        "When should we sow coconut",
+        "Which all months are suitable for sowing coconut",
+        "Suitable time to sow coconut",
+        "Months for sowing coconut",
+        "When to sow coconut",
+        "Sowing time of coconut"
+      ],
+      "responses": [
+        "The sowing time is throught the year."
+      ]
+    },
+    {
+      "tag": "CoconutMaturity_time",
+      "patterns": [
+        "How long does it take for coconut to grow",
+        "Maturity time of coconut",
+        "Time taken by coconut to mature",
+        "What is the time taken by coconut to mature",
+        "Coconut maturity time"
+      ],
+      "responses": [
+        "It begins to bear in about 8 to 10 years after planting"
+      ]
+    },
+    {
+      "tag": "CoconutSeed_rate",
+      "patterns": [
+        "What is the seed requirement for coconut",
+        "Coconut seed requirement",
+        "Seed rate of coconut",
+        "What is the seed rate of coconut"
+      ],
+      "responses": [
+        "Coconut trees to an extent of 69 trees in one acre of land"
+      ]
+    },
+    {
+      "tag": "CoconutFertilizer",
+      "patterns": [
+        "Which fertilizers should be used for coconut",
+        "Fertilizers for coconut",
+        "How to apply the fertilizers for coconut",
+        "Coconut fertilizers",
+        "Fertilizers suitable for coconut",
+        "Best fertilizers for coconut"
+      ],
+      "responses": [
+        "A foliar fertilizer is the best method for application. "
+      ]
+    },
+    {
+      "tag": "CoconutPesticide",
+      "patterns": [
+        "Which pesticides should be used for coconut",
+        "Pesticides for coconut",
+        "Coconut pesticides",
+        "Pesticides suitable for coconut",
+        "Best pesticides for coconut"
+      ],
+      "responses": [
+        "Hanging two plastic bottles (200 mg. capacity) with the help of a strong plastic yarn or twine yarn filled with kerosene would prevent the insecticide."
+      ]
+    },
+    {
+      "tag": "CoconutLocation",
+      "patterns": [
+        "Where can you grow coconut",
+        "Where can coconut be grown",
+        "Locaton at which coconut can be grown",
+        "Location for coconut",
+        "Best place to grow coconut",
+        "Best location for coconut"
+      ],
+      "responses": [
+        "It is grown all around Kranataka."
+      ]
+    },
+    {
+      "tag": "ArecanutsRainfall",
+      "patterns": [
+        "How much rainfall does arecanut require?",
+        "Rainfall for arecanut",
+        "Arecanut rainfall requirements",
+        "Arecanut rainfall",
+        "What is the required amount of rain for arecanut?"
+      ],
+      "responses": [
+        "Grown in areas receiving annual rainfall of 750 mm in Maidan parts of Karnataka to 4,500 mm "
+      ]
+    },
+    {
+      "tag": "ArecanutsSoil",
+      "patterns": [
+        "What type of soil is suitable for arecanut?",
+        "Arecanut is suitable for which soil",
+        "Soil for arecanut",
+        "Best soil for arecanut",
+        "Suitable soil"
+      ],
+      "responses": [
+        "The depth of soil should be at least 1 m with 4.5-7.6 pH."
+      ]
+    },
+    {
+      "tag": "ArecanutsIrrigation",
+      "patterns": [
+        "What is the amount of water required to grow arecanut",
+        "Irrigation amount for arecanut",
+        "Required water for arecanut cultivation of arecanut",
+        "Amount of water required to cultivate arecanut"
+      ],
+      "responses": [
+        "The average CWR is observed to vary from 19 to 23 litres/day for juvenile to adult arecanut crop."
+      ]
+    },
+    {
+      "tag": "ArecanutsSowing_time",
+      "patterns": [
+        "When should we sow arecanut",
+        "Which all months are suitable for sowing arecanut",
+        "Suitable time to sow arecanut",
+        "Months for sowing arecanut",
+        "When to sow arecanut",
+        "Sowing time of arecanut"
+      ],
+      "responses": [
+        "They are irrigated once in 7 days during November-December,every six days during February and every four days during March-May. "
+      ]
+    },
+    {
+      "tag": "ArecanutsMaturity_time",
+      "patterns": [
+        "How long does it take for arecanut to grow",
+        "Maturity time of arecanut",
+        "Time taken by arecanut to mature",
+        "What is the time taken by arecanut to mature",
+        "Arecanut maturity time"
+      ],
+      "responses": [
+        "Bearing starts after 3-5 years of planting."
+      ]
+    },
+    {
+      "tag": "ArecanutsSeed_rate",
+      "patterns": [
+        "What is the seed requirement for arecanut",
+        "Arecanut seed requirement",
+        "Seed rate of arecanut",
+        "What is the seed rate of arecanut"
+      ],
+      "responses": [
+        "Average of 550 to 600 arecanut trees in one acre of land."
+      ]
+    },
+    {
+      "tag": "ArecanutsFertilizer",
+      "patterns": [
+        "Which fertilizers should be used for arecanut",
+        "Fertilizers for arecanut",
+        "How to apply the fertilizers for arecanut",
+        "Arecanut fertilizers",
+        "Fertilizers suitable for arecanut",
+        "Best fertilizers for arecanut"
+      ],
+      "responses": [
+        "A fertilizer dose of 100g N,40g P2O2 and 140g K2O (200g of urea; 200g of rock phosphate and 230 g of muriate of Potash) per palm per year is recommended."
+      ]
+    },
+    {
+      "tag": "ArecanutsPesticide",
+      "patterns": [
+        "Which pesticides should be used for arecanut",
+        "Pesticides for arecanut",
+        "Arecanut pesticides",
+        "Pesticides suitable for arecanut",
+        "Best pesticides for arecanut"
+      ],
+      "responses": [
+        "Pesticide required for arecanut Annual application of 100 g N (220 g urea),40 g P2O5 (200 g rock phosphate) and 140 g K2O (235 g muriate of potash) in addition to 12 kg each of green leaf and compost per palm per year is recommended. "
+      ]
+    },
+    {
+      "tag": "ArecanutsLocation",
+      "patterns": [
+        "Where can you grow arecanut",
+        "Where can arecanut be grown",
+        "Locaton at which arecanut can be grown",
+        "Location for arecanut",
+        "Best place to grow arecanut",
+        "Best location for arecanut"
+      ],
+      "responses": [
+        "It is largely grown in South Kanara district of Karnataka"
+      ]
+    },
+    {
+      "tag": "ChilliesRainfall",
+      "patterns": [
+        "How much rainfall does chillies require?",
+        "Rainfall for chillies",
+        "Chillies rainfall requirements",
+        "Chillies rainfall",
+        "What is the required amount of rain for chillies?"
+      ],
+      "responses": [
+        "It is grown in areas receiving an annual precipitation of 25-30 inches."
+      ]
+    },
+    {
+      "tag": "ChilliesSoil",
+      "patterns": [
+        "What type of soil is suitable for chillies?",
+        "Chillies is suitable for which soil",
+        "Soil for chillies",
+        "Best soil for chillies",
+        "Suitable soil"
+      ],
+      "responses": [
+        "It is grown in all type of soft but the sandy - loam,clay loam and loam soils are best suited for it"
+      ]
+    },
+    {
+      "tag": "ChilliesIrrigation",
+      "patterns": [
+        "What is the amount of water required to grow chillies",
+        "Irrigation amount for chillies",
+        "Required water for chillies cultivation of chillies",
+        "Amount of water required to cultivate chillies"
+      ],
+      "responses": [
+        "Water requirement of 400 mm to 600 mm."
+      ]
+    },
+    {
+      "tag": "ChilliesSowing_time",
+      "patterns": [
+        "When should we sow chillies",
+        "Which all months are suitable for sowing chillies",
+        "Suitable time to sow chillies",
+        "Months for sowing chillies",
+        "When to sow chillies",
+        "Sowing time of chillies"
+      ],
+      "responses": [
+        "The sowing time is between Kharif (Rainfed) - June   July,Rabi (Irrigated) - Aug   Sept,Summer (Irrigated) - Feb.   March"
+      ]
+    },
+    {
+      "tag": "ChilliesMaturity_time",
+      "patterns": [
+        "How long does it take for chillies to grow",
+        "Maturity time of chillies",
+        "Time taken by chillies to mature",
+        "What is the time taken by chillies to mature",
+        "Chillies maturity time"
+      ],
+      "responses": [
+        "Time taken to mature is 60 to 120 days"
+      ]
+    },
+    {
+      "tag": "ChilliesSeed_rate",
+      "patterns": [
+        "What is the seed requirement for chillies",
+        "Chillies seed requirement",
+        "Seed rate of chillies",
+        "What is the seed rate of chillies"
+      ],
+      "responses": [
+        "Seed requirement is 1.5 kg seed/ha."
+      ]
+    },
+    {
+      "tag": "ChilliesFertilizer",
+      "patterns": [
+        "Which fertilizers should be used for chillies",
+        "Fertilizers for chillies",
+        "How to apply the fertilizers for chillies",
+        "Chillies fertilizers",
+        "Fertilizers suitable for chillies",
+        "Best fertilizers for chillies"
+      ],
+      "responses": [
+        "Nitrogen requirement for chillies is 120 kg/ha."
+      ]
+    },
+    {
+      "tag": "ChilliesPesticide",
+      "patterns": [
+        "Which pesticides should be used for chillies",
+        "Pesticides for chillies",
+        "Chillies pesticides",
+        "Pesticides suitable for chillies",
+        "Best pesticides for chillies"
+      ],
+      "responses": [
+        "Metam potassium are used as pesticide."
+      ]
+    },
+    {
+      "tag": "ChilliesLocation",
+      "patterns": [
+        "Where can you grow chillies",
+        "Where can chillies be grown",
+        "Locaton at which chillies can be grown",
+        "Location for chillies",
+        "Best place to grow chillies",
+        "Best location for chillies"
+      ],
+      "responses": [
+        "It is grown all around Kranataka."
+      ]
+    },
+    {
+      "tag": "CottonRainfall",
+      "patterns": [
+        "How much rainfall does cotton require?",
+        "Rainfall for cotton",
+        "Cotton rainfall requirements",
+        "Cotton rainfall",
+        "What is the required amount of rain for cotton?"
+      ],
+      "responses": [
+        "Annual rainfall of 55-100 cm is ideal for cotton Cultivation"
+      ]
+    },
+    {
+      "tag": "CottonSoil",
+      "patterns": [
+        "What type of soil is suitable for cotton?",
+        "Cotton is suitable for which soil",
+        "Soil for cotton",
+        "Best soil for cotton",
+        "Suitable soil"
+      ],
+      "responses": [
+        "This cotton is suitable for Red soil and Black cotton soil."
+      ]
+    },
+    {
+      "tag": "CottonIrrigation",
+      "patterns": [
+        "What is the amount of water required to grow cotton",
+        "Irrigation amount for cotton",
+        "Required water for cotton cultivation of cotton",
+        "Amount of water required to cultivate cotton"
+      ],
+      "responses": [
+        "Individual cotton plant requires about 10 gallons of water to achieve maximum yield potential. "
+      ]
+    },
+    {
+      "tag": "CottonSowing_time",
+      "patterns": [
+        "When should we sow cotton",
+        "Which all months are suitable for sowing cotton",
+        "Suitable time to sow cotton",
+        "Months for sowing cotton",
+        "When to sow cotton",
+        "Sowing time of cotton"
+      ],
+      "responses": [
+        "The sowing time is between  July -September or February - March"
+      ]
+    },
+    {
+      "tag": "CottonMaturity_time",
+      "patterns": [
+        "How long does it take for cotton to grow",
+        "Maturity time of cotton",
+        "Time taken by cotton to mature",
+        "What is the time taken by cotton to mature",
+        "Cotton maturity time"
+      ],
+      "responses": [
+        "Time taken to mature is approximately 150 to 180 days"
+      ]
+    },
+    {
+      "tag": "CottonSeed_rate",
+      "patterns": [
+        "What is the seed requirement for cotton",
+        "Cotton seed requirement",
+        "Seed rate of cotton",
+        "What is the seed rate of cotton"
+      ],
+      "responses": [
+        "On average 90.000-100.000 plants per hectare."
+      ]
+    },
+    {
+      "tag": "CottonFertilizer",
+      "patterns": [
+        "Which fertilizers should be used for cotton",
+        "Fertilizers for cotton",
+        "How to apply the fertilizers for cotton",
+        "Cotton fertilizers",
+        "Fertilizers suitable for cotton",
+        "Best fertilizers for cotton"
+      ],
+      "responses": [
+        "In Karnataka entire NPK at planting ( rain fed cotton ),Half N and entire P & K planting,remaining N at flowering (irrigated cotton ) N in 4 splits in irrigated hybrid cotton."
+      ]
+    },
+    {
+      "tag": "CottonPesticide",
+      "patterns": [
+        "Which pesticides should be used for cotton",
+        "Pesticides for cotton",
+        "Cotton pesticides",
+        "Pesticides suitable for cotton",
+        "Best pesticides for cotton"
+      ],
+      "responses": [
+        "Cotton growers typically use many of the most hazardous pesticides on the market including aldicarb,phorate,methamidophos and endosulfan."
+      ]
+    },
+    {
+      "tag": "CottonLocation",
+      "patterns": [
+        "Where can you grow cotton",
+        "Where can cotton be grown",
+        "Locaton at which cotton can be grown",
+        "Location for cotton",
+        "Best place to grow cotton",
+        "Best location for cotton"
+      ],
+      "responses": [
+        "High yielding varieties are cultivated in the districts like Raichur,Bagalkot,Bijapur,Bellaiy,Dharwad and Belgaum under irrigated conditions."
+      ]
+    },
+    {
+      "tag": "SugarcaneRainfall",
+      "patterns": [
+        "How much rainfall does sugarcane require?",
+        "Rainfall for sugarcane",
+        "Sugarcane rainfall requirements",
+        "Sugarcane rainfall",
+        "What is the required amount of rain for sugarcane?"
+      ],
+      "responses": [
+        "Rainfall: 100 cm to 175 cm rainfall is ideal for sugarcane production"
+      ]
+    },
+    {
+      "tag": "SugarcaneSoil",
+      "patterns": [
+        "What type of soil is suitable for sugarcane?",
+        "Sugarcane is suitable for which soil",
+        "Soil for sugarcane",
+        "Best soil for sugarcane",
+        "Suitable soil"
+      ],
+      "responses": [
+        "It grows well in deep,well-drained soils of medium fertility of sandy loam soil textures with a pH range from 6.0 to 7.7."
+      ]
+    },
+    {
+      "tag": "SugarcaneIrrigation",
+      "patterns": [
+        "What is the amount of water required to grow sugarcane",
+        "Irrigation amount for sugarcane",
+        "Required water for sugarcane cultivation of sugarcane",
+        "Amount of water required to cultivate sugarcane"
+      ],
+      "responses": [
+        "A crop requires 1500- 2500 mm of available water per year"
+      ]
+    },
+    {
+      "tag": "SugarcaneSowing_time",
+      "patterns": [
+        "When should we sow sugarcane",
+        "Which all months are suitable for sowing sugarcane",
+        "Suitable time to sow sugarcane",
+        "Months for sowing sugarcane",
+        "When to sow sugarcane",
+        "Sowing time of sugarcane"
+      ],
+      "responses": [
+        "In general January to march is the period of planting "
+      ]
+    },
+    {
+      "tag": "SugarcaneMaturity_time",
+      "patterns": [
+        "How long does it take for sugarcane to grow",
+        "Maturity time of sugarcane",
+        "Time taken by sugarcane to mature",
+        "What is the time taken by sugarcane to mature",
+        "Sugarcane maturity time"
+      ],
+      "responses": [
+        "It takes about 12 to 18 months to mature."
+      ]
+    },
+    {
+      "tag": "SugarcaneSeed_rate",
+      "patterns": [
+        "What is the seed requirement for sugarcane",
+        "Sugarcane seed requirement",
+        "Seed rate of sugarcane",
+        "What is the seed rate of sugarcane"
+      ],
+      "responses": [
+        "On an average 36,000 three budded setts or 60 quintal of seed are sufficient for planting one hectare land area."
+      ]
+    },
+    {
+      "tag": "SugarcaneFertilizer",
+      "patterns": [
+        "Which fertilizers should be used for sugarcane",
+        "Fertilizers for sugarcane",
+        "How to apply the fertilizers for sugarcane",
+        "Sugarcane fertilizers",
+        "Fertilizers suitable for sugarcane",
+        "Best fertilizers for sugarcane"
+      ],
+      "responses": [
+        "Apply P fertilizer based on soil test values. Otherwise apply super phosphate (375 kg/ha) along the furrows and incorporate with hand hoe."
+      ]
+    },
+    {
+      "tag": "SugarcanePesticide",
+      "patterns": [
+        "Which pesticides should be used for sugarcane",
+        "Pesticides for sugarcane",
+        "Sugarcane pesticides",
+        "Pesticides suitable for sugarcane",
+        "Best pesticides for sugarcane"
+      ],
+      "responses": [
+        "The insecticides acetamiprid and cypermethrin were used to manage aphids while four different insecticides controlled thrips. ."
+      ]
+    },
+    {
+      "tag": "SugarcaneLocation",
+      "patterns": [
+        "Where can you grow sugarcane",
+        "Where can sugarcane be grown",
+        "Locaton at which sugarcane can be grown",
+        "Location for sugarcane",
+        "Best place to grow sugarcane",
+        "Best location for sugarcane"
+      ],
+      "responses": [
+        "Most of the sugarcane is grown with the help of irrigation. Belgaum,Mandya,Mysore,Bijapur,Shimoga and Chitradurga are important producing districts."
+      ]
+    },
+    {
+      "tag": "TobaccoRainfall",
+      "patterns": [
+        "How much rainfall does tobacco require?",
+        "Rainfall for tobacco",
+        "Tobacco rainfall requirements",
+        "Tobacco rainfall",
+        "What is the required amount of rain for tobacco?"
+      ],
+      "responses": [
+        "For tobacco 50-100cm annual rainfall and 15-20o C temperature during growth period is ideal."
+      ]
+    },
+    {
+      "tag": "TobaccoSoil",
+      "patterns": [
+        "What type of soil is suitable for tobacco?",
+        "Tobacco is suitable for which soil",
+        "Soil for tobacco",
+        "Best soil for tobacco",
+        "Suitable soil"
+      ],
+      "responses": [
+        "Tobacco crop requires light to medium loam soil"
+      ]
+    },
+    {
+      "tag": "TobaccoIrrigation",
+      "patterns": [
+        "What is the amount of water required to grow tobacco",
+        "Irrigation amount for tobacco",
+        "Required water for tobacco cultivation of tobacco",
+        "Amount of water required to cultivate tobacco"
+      ],
+      "responses": [
+        "The tobacco water requirement throughout the growth period ranged from 159.00 to 278.90 mm"
+      ]
+    },
+    {
+      "tag": "TobaccoSowing_time",
+      "patterns": [
+        "When should we sow tobacco",
+        "Which all months are suitable for sowing tobacco",
+        "Suitable time to sow tobacco",
+        "Months for sowing tobacco",
+        "When to sow tobacco",
+        "Sowing time of tobacco"
+      ],
+      "responses": [
+        "The ideal months to plant tobacco are November and December"
+      ]
+    },
+    {
+      "tag": "TobaccoMaturity_time",
+      "patterns": [
+        "How long does it take for tobacco to grow",
+        "Maturity time of tobacco",
+        "Time taken by tobacco to mature",
+        "What is the time taken by tobacco to mature",
+        "Tobacco maturity time"
+      ],
+      "responses": [
+        "Usually matures and is ready for harvest 3 to 5 weeks after topping."
+      ]
+    },
+    {
+      "tag": "TobaccoSeed_rate",
+      "patterns": [
+        "What is the seed requirement for tobacco",
+        "Tobacco seed requirement",
+        "Seed rate of tobacco",
+        "What is the seed rate of tobacco"
+      ],
+      "responses": [
+        "A seed rate of 3-5 kg per hectare."
+      ]
+    },
+    {
+      "tag": "TobaccoFertilizer",
+      "patterns": [
+        "Which fertilizers should be used for tobacco",
+        "Fertilizers for tobacco",
+        "How to apply the fertilizers for tobacco",
+        "Tobacco fertilizers",
+        "Fertilizers suitable for tobacco",
+        "Best fertilizers for tobacco"
+      ],
+      "responses": [
+        "It is reported that 40-90% of the phosphorusrequirement of the plant is met with by applying fertilizer four weeks after the transplanting."
+      ]
+    },
+    {
+      "tag": "TobaccoPesticide",
+      "patterns": [
+        "Which pesticides should be used for tobacco",
+        "Pesticides for tobacco",
+        "Tobacco pesticides",
+        "Pesticides suitable for tobacco",
+        "Best pesticides for tobacco"
+      ],
+      "responses": [
+        "Pyrethroid of the cyano pyrethroid are used as pesticide."
+      ]
+    },
+    {
+      "tag": "TobaccoLocation",
+      "patterns": [
+        "Where can you grow tobacco",
+        "Where can tobacco be grown",
+        "Locaton at which tobacco can be grown",
+        "Location for tobacco",
+        "Best place to grow tobacco",
+        "Best location for tobacco"
+      ],
+      "responses": [
+        "Suitable zone in Karnataka are Mysuru and Hassan."
+      ]
+    },
+    {
+      "tag": "SoyabeanRainfall",
+      "patterns": [
+        "How much rainfall does soyabean require?",
+        "Rainfall for soyabean",
+        "Soyabean rainfall requirements",
+        "Soyabean rainfall",
+        "What is the required amount of rain for soyabean?"
+      ],
+      "responses": [
+        "Requiring a minimum of 400mm"
+      ]
+    },
+    {
+      "tag": "SoyabeanSoil",
+      "patterns": [
+        "What type of soil is suitable for soyabean?",
+        "Soyabean is suitable for which soil",
+        "Soil for soyabean",
+        "Best soil for soyabean",
+        "Suitable soil"
+      ],
+      "responses": [
+        "This soyabean is suitable for Red soil ."
+      ]
+    },
+    {
+      "tag": "SoyabeanIrrigation",
+      "patterns": [
+        "What is the amount of water required to grow soyabean",
+        "Irrigation amount for soyabean",
+        "Required water for soyabean cultivation of soyabean",
+        "Amount of water required to cultivate soyabean"
+      ],
+      "responses": [
+        "Soybeans require from 15 to 25 inches of water per acre per year from planting through maturity depending on planting date,maturity group,location,and weather."
+      ]
+    },
+    {
+      "tag": "SoyabeanSowing_time",
+      "patterns": [
+        "When should we sow soyabean",
+        "Which all months are suitable for sowing soyabean",
+        "Suitable time to sow soyabean",
+        "Months for sowing soyabean",
+        "When to sow soyabean",
+        "Sowing time of soyabean"
+      ],
+      "responses": [
+        "Kharif season time of sowing is onset of monsoon or last week of June to first week of Jully while in spring sowing is done between 15th of February and 15th of March. "
+      ]
+    },
+    {
+      "tag": "SoyabeanMaturity_time",
+      "patterns": [
+        "How long does it take for soyabean to grow",
+        "Maturity time of soyabean",
+        "Time taken by soyabean to mature",
+        "What is the time taken by soyabean to mature",
+        "Soyabean maturity time"
+      ],
+      "responses": [
+        "Soybeans for shelling and fresh use are ready for harvest 45 to 65 days after sowing."
+      ]
+    },
+    {
+      "tag": "SoyabeanSeed_rate",
+      "patterns": [
+        "What is the seed requirement for soyabean",
+        "Soyabean seed requirement",
+        "Seed rate of soyabean",
+        "What is the seed rate of soyabean"
+      ],
+      "responses": [
+        "70-80 kg seed per hectare is required."
+      ]
+    },
+    {
+      "tag": "SoyabeanFertilizer",
+      "patterns": [
+        "Which fertilizers should be used for soyabean",
+        "Fertilizers for soyabean",
+        "How to apply the fertilizers for soyabean",
+        "Soyabean fertilizers",
+        "Fertilizers suitable for soyabean",
+        "Best fertilizers for soyabean"
+      ],
+      "responses": [
+        "The critical level for phosphorus is 15 ppm and the maintenance range for soybeans is 15 ppm,so P soil test levels should be maintained between 15 and 30 ppm. "
+      ]
+    },
+    {
+      "tag": "SoyabeanPesticide",
+      "patterns": [
+        "Which pesticides should be used for soyabean",
+        "Pesticides for soyabean",
+        "Soyabean pesticides",
+        "Pesticides suitable for soyabean",
+        "Best pesticides for soyabean"
+      ],
+      "responses": [
+        "Asana XL are used as pesticide."
+      ]
+    },
+    {
+      "tag": "SoyabeanLocation",
+      "patterns": [
+        "Where can you grow soyabean",
+        "Where can soyabean be grown",
+        "Locaton at which soyabean can be grown",
+        "Location for soyabean",
+        "Best place to grow soyabean",
+        "Best location for soyabean"
+      ],
+      "responses": [
+        "Suitable zone in Karnataka are West Coast Plains and Hills Region."
+      ]
+    },
+    {
+      "tag": "CardamomRainfall",
+      "patterns": [
+        "How much rainfall does cardamom require?",
+        "Rainfall for cardamom",
+        "Cardamom rainfall requirements",
+        "Cardamom rainfall",
+        "What is the required amount of rain for cardamom?"
+      ],
+      "responses": [
+        "Annual rainfall (1500 - 4000 mm) is required."
+      ]
+    },
+    {
+      "tag": "CardamomSoil",
+      "patterns": [
+        "What type of soil is suitable for cardamom?",
+        "Cardamom is suitable for which soil",
+        "Soil for cardamom",
+        "Best soil for cardamom",
+        "Suitable soil"
+      ],
+      "responses": [
+        "This cardamom is suitable for Red soil ."
+      ]
+    },
+    {
+      "tag": "CardamomIrrigation",
+      "patterns": [
+        "What is the amount of water required to grow cardamom",
+        "Irrigation amount for cardamom",
+        "Required water for cardamom cultivation of cardamom",
+        "Amount of water required to cultivate cardamom"
+      ],
+      "responses": [
+        "A crop requires 1500- 4000 mm of available water per year"
+      ]
+    },
+    {
+      "tag": "CardamomSowing_time",
+      "patterns": [
+        "When should we sow cardamom",
+        "Which all months are suitable for sowing cardamom",
+        "Suitable time to sow cardamom",
+        "Months for sowing cardamom",
+        "When to sow cardamom",
+        "Sowing time of cardamom"
+      ],
+      "responses": [
+        "Throughout the cropping season of cardamom,i.e. from August to March approximately 6 picking is done in each 45 days interval."
+      ]
+    },
+    {
+      "tag": "CardamomMaturity_time",
+      "patterns": [
+        "How long does it take for cardamom to grow",
+        "Maturity time of cardamom",
+        "Time taken by cardamom to mature",
+        "What is the time taken by cardamom to mature",
+        "Cardamom maturity time"
+      ],
+      "responses": [
+        "Cardamom plants normally start bearing two years after planting"
+      ]
+    },
+    {
+      "tag": "CardamomSeed_rate",
+      "patterns": [
+        "What is the seed requirement for cardamom",
+        "Cardamom seed requirement",
+        "Seed rate of cardamom",
+        "What is the seed rate of cardamom"
+      ],
+      "responses": [
+        "Seed requirement is 30kg/h."
+      ]
+    },
+    {
+      "tag": "CardamomFertilizer",
+      "patterns": [
+        "Which fertilizers should be used for cardamom",
+        "Fertilizers for cardamom",
+        "How to apply the fertilizers for cardamom",
+        "Cardamom fertilizers",
+        "Fertilizers suitable for cardamom",
+        "Best fertilizers for cardamom"
+      ],
+      "responses": [
+        "A fertilizer NPK dose is 240 kg /ha"
+      ]
+    },
+    {
+      "tag": "CardamomPesticide",
+      "patterns": [
+        "Which pesticides should be used for cardamom",
+        "Pesticides for cardamom",
+        "Cardamom pesticides",
+        "Pesticides suitable for cardamom",
+        "Best pesticides for cardamom"
+      ],
+      "responses": [
+        "Nitrobenzene is another toxic chemical that is liberally used in the flowering season."
+      ]
+    },
+    {
+      "tag": "CardamomLocation",
+      "patterns": [
+        "Where can you grow cardamom",
+        "Where can cardamom be grown",
+        "Locaton at which cardamom can be grown",
+        "Location for cardamom",
+        "Best place to grow cardamom",
+        "Best location for cardamom"
+      ],
+      "responses": [
+        "Suitable zone in Karnataka are West Coast Plains and Hills Region."
+      ]
+    },
+    {
+      "tag": "WheatRainfall",
+      "patterns": [
+        "How much rainfall does wheat require?",
+        "Rainfall for wheat",
+        "Wheat rainfall requirements",
+        "Wheat rainfall",
+        "What is the required amount of rain for wheat?"
+      ],
+      "responses": [
+        "The amount of rainfall required for wheat cultivation varies between 30 cm and 100 cm."
+      ]
+    },
+    {
+      "tag": "WheatSoil",
+      "patterns": [
+        "What type of soil is suitable for wheat?",
+        "Wheat is suitable for which soil",
+        "Soil for wheat",
+        "Best soil for wheat",
+        "Suitable soil"
+      ],
+      "responses": [
+        "This wheat is suitable for Red soil ."
+      ]
+    },
+    {
+      "tag": "WheatIrrigation",
+      "patterns": [
+        "What is the amount of water required to grow wheat",
+        "Irrigation amount for wheat",
+        "Required water for wheat cultivation of wheat",
+        "Amount of water required to cultivate wheat"
+      ],
+      "responses": [
+        "A crop requires 450-650 mm of available water per year"
+      ]
+    },
+    {
+      "tag": "WheatSowing_time",
+      "patterns": [
+        "When should we sow wheat",
+        "Which all months are suitable for sowing wheat",
+        "Suitable time to sow wheat",
+        "Months for sowing wheat",
+        "When to sow wheat",
+        "Sowing time of wheat"
+      ],
+      "responses": [
+        "Sowing of wheat takes place in October to December"
+      ]
+    },
+    {
+      "tag": "WheatMaturity_time",
+      "patterns": [
+        "How long does it take for wheat to grow",
+        "Maturity time of wheat",
+        "Time taken by wheat to mature",
+        "What is the time taken by wheat to mature",
+        "Wheat maturity time"
+      ],
+      "responses": [
+        "Maturity time is around four months."
+      ]
+    },
+    {
+      "tag": "WheatSeed_rate",
+      "patterns": [
+        "What is the seed requirement for wheat",
+        "Wheat seed requirement",
+        "Seed rate of wheat",
+        "What is the seed rate of wheat"
+      ],
+      "responses": [
+        "With an average seed size of 15,000 seeds per pound or 900,000 seeds per bushel"
+      ]
+    },
+    {
+      "tag": "WheatFertilizer",
+      "patterns": [
+        "Which fertilizers should be used for wheat",
+        "Fertilizers for wheat",
+        "How to apply the fertilizers for wheat",
+        "Wheat fertilizers",
+        "Fertilizers suitable for wheat",
+        "Best fertilizers for wheat"
+      ],
+      "responses": [
+        "When applying a starter fertilizer for wheat,application methods and rates are much more flexible with phosphorus than nitrogen."
+      ]
+    },
+    {
+      "tag": "WheatPesticide",
+      "patterns": [
+        "Which pesticides should be used for wheat",
+        "Pesticides for wheat",
+        "Wheat pesticides",
+        "Pesticides suitable for wheat",
+        "Best pesticides for wheat"
+      ],
+      "responses": [
+        "Chlorothalonil,General use insecticide"
+      ]
+    },
+    {
+      "tag": "WheatLocation",
+      "patterns": [
+        "Where can you grow wheat",
+        "Where can wheat be grown",
+        "Locaton at which wheat can be grown",
+        "Location for wheat",
+        "Best place to grow wheat",
+        "Best location for wheat"
+      ],
+      "responses": [
+        "Suitable zone in Karnataka are West Coast Plains and Hills Region."
+      ]
+    }
+  ]
+}
