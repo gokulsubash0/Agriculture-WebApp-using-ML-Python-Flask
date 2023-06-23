@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Predictor</title>
+		<link rel="shortcut icon" href="{{ url_for('static', filename='diabetes-favicon.ico') }}">
+		<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+		<script src="https://kit.fontawesome.com/5f3f547070.js" crossorigin="anonymous"></script>
+		<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+	</head>
+
+    <body>
+
+        <!-- Website Title --> 
+		 <div class="container">
+            <h2 class='container-heading'><span class="heading_font">Results!!!!!</span></h2>
+	    </div>
+		
+		<!-- Result -->
+		<div class="results">
+			<div>
+				<h1> <span class='safe'>The Crop Yield for particular Crop based on District, Season & Area.</span></h1>
+				<h1>{{ prediction }} Tons/hectre</h1>
+			</div>
+			<div>
+				<h1><span class='danger'>The Crop Production for particular Crop based on Yield.</span></h1>
+				<h1>{{ production }} Tons</h1>
+			</div>
+		</div>
+
+		
+
+	</body>
+</html>

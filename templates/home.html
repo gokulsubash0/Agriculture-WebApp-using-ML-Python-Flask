@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Bootstrap Template Atlas</title>
+    <meta name="description" content="Free bootstrap template Atlas">
+    <link rel="icon" href="../static/img2/favicon.png" sizes="32x32" type="image/png">
+    <!-- custom.css -->
+    <link rel="stylesheet" href="../static/css2/custom.css">
+    <!-- bootstrap.min.css -->
+    <link rel="stylesheet" href="../static/css2/bootstrap.min.css">
+	<!-- font-awesome -->
+    <link rel="stylesheet" href="../static/font-awesome-4.7.0/css/font-awesome.min.css">
+    
+    <!-- AOS -->
+    <link rel="stylesheet" href="../static/css2/aos.css">
+</head>
+
+<body>
+    <!-- banner -->
+    <div class="jumbotron jumbotron-fluid" id="banner" style="background-image: url(../static/img2/banner-bk.jpg);">
+        <div class="container text-center text-md-left">
+            <header>
+                <div class="row justify-content-between">
+                    <div class="col-2">
+                        <img src="../static/img2/logo.png" alt="logo">
+                    </div>
+                    <div class="col-6 align-self-center text-right">
+                        <a href="#" class="text-white lead">Get Early Access</a>
+                    </div>
+                </div>
+            </header>
+            <h1 data-aos="fade" data-aos-easing="linear" data-aos-duration="1000" data-aos-once="true" class="display-3 text-white font-weight-bold my-5">
+            	A new way<br>
+            	AI-Powered Farmers Doctor
+            </h1>
+            <p data-aos="fade" data-aos-easing="linear" data-aos-duration="1000" data-aos-once="true" class="lead text-white my-4">
+                Revolutionize your farming experience with the AI-Powered Farming Doctor: 
+                <br> Unleash the future of agriculture with intelligent technology
+            </p>
+            <a href="#" data-aos="fade" data-aos-easing="linear" data-aos-duration="1000" data-aos-once="true" class="btn my-4 font-weight-bold atlas-cta cta-green">Get Started</a>
+        </div>
+    </div>
+    <!-- three-blcok -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+            <!-- the DIV that will contain the widget -->
+<div class="weatherWidget" ></div>
+
+<script>
+   window.weatherWidgetConfig =  window.weatherWidgetConfig || [];
+   window.weatherWidgetConfig.push({
+       selector:".weatherWidget",
+       apiKey:"KF254UTAWT8K7PVFCS2ABDAX9", //Sign up for your personal key
+       location:"Thodupuzha, IND", //Enter an address
+       unitGroup:"metric", //"us" or "metric"
+       forecastDays:5, //how many days forecast to show
+       title:"Thodupuzha,IND", //optional title to show in the 
+       showTitle:true, 
+       showConditions:true
+   });
+  
+   (function() {
+   var d = document, s = d.createElement('script');
+   s.src = 'https://www.visualcrossing.com/widgets/forecast-simple/weather-forecast-widget-simple.js';
+   s.setAttribute('data-timestamp', +new Date());
+   (d.head || d.body).appendChild(s);
+   })();
+</script>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="container my-5 py-2">
+        <h2 class="text-center font-weight-bold my-5">Unlock Precise Agricultural Predictions</h2>
+        
+        
+        
+        
+        
+
+        
+        
+        
+        <div class="row">
+            <div data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000" data-aos-once="false" class="col-md-4 text-center">
+                <a href="{{ url_for('recommend') }}" class="col-md-4 text-center button-link" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000" data-aos-once="false">
+                    <img src="../static/img2/smart-protect-1.jpg" alt="Smart Scan" class="mx-auto"></a>
+                <h4>HarvestMatch</h4>
+                <p>Find out your crop that suits your land.</p>
+            </div>
+            <div data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000" data-aos-once="false" class="col-md-4 text-center">
+                <a href="{{ url_for('yeild') }}" class="col-md-4 text-center button-link" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000" data-aos-once="false">
+                    <img src="../static/img2/smart-protect-2.jpg" alt="Smart Scan" class="mx-auto"></a>
+                <h4>Harvest Prediction</h4>
+                <p>Based on your land and climate</p>
+            </div>
+
+            <div data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000" data-aos-once="false" class="col-md-4 text-center">
+                <a href="{{ url_for('disease') }}" class="col-md-4 text-center button-link" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000" data-aos-once="false">
+                    <img src="../static/img2/smart-protect-3.jpg" alt="Smart Scan" class="mx-auto"></a>
+                    <h4>Plant Disease Scan</h4>
+                    <p>Identify the disease that ruins your crop.</p>
+                  
+                  
+            </div>
+        </div>
+    </div>
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+            
+        
+
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    <!-- contact -->
+    <div class="jumbotron jumbotron-fluid" id="contact" style="background-color: rgba(0, 0, 0.4, 0.8);">
+  <!-- Content of the jumbotron goes here -->
+
+
+        <div class="container my-5">
+            <div class="row justify-content-between">
+                <div class="col-md-6 text-white">
+                    <h2 class="font-weight-bold">Contact Us</h2>
+                    <p class="my-4">
+                        Give your feedbacks
+                        <br> we your suggetions
+                    </p>
+                    <ul class="list-unstyled">
+                        <li>Email : agroai@com</li>
+                        <li>Phone : 8075530329</li>
+                        <li>Address : kerala</li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <form>
+                    	<div class="row">
+	                        <div class="form-group col-md-6">
+	                            <label for="name">Your Name</label>
+	                            <input type="name" class="form-control" id="name">
+	                        </div>
+	                        <div class="form-group col-md-6">
+	                            <label for="Email">Your Email</label>
+	                            <input type="email" class="form-control" id="Email">
+	                        </div>
+	                    </div>
+	                    <div class="form-group">
+	                        <label for="message">Message</label>
+	                        <textarea class="form-control" id="message" rows="3"></textarea>
+	                    </div>
+                        <button type="submit" class="btn font-weight-bold atlas-cta atlas-cta-wide cta-green my-3">Submit</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+   </div>
+
+
+    
+    <!-- AOS -->
+    <script src="../static/js2/aos.js"></script>
+    <script>
+      AOS.init({
+      });
+    </script>
+</body>
+
+</html>

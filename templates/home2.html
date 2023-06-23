@@ -1,0 +1,676 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<head>
+<title>AgroAI | Home </title>
+<!-- custom-theme -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Germinate Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //custom-theme -->
+<link href="../static/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<link href="../static/css/style.css" rel="stylesheet" type="text/css" media="all" />
+<!-- js -->
+<script type="text/javascript" src="../static/js/jquery-2.1.4.min.js"></script>
+<!-- //js -->
+<link href="../static/css/mislider.css" rel="stylesheet" type="text/css" />
+<link href="../static/css/mislider-custom.css" rel="stylesheet" type="text/css" />
+<!-- font-awesome-icons -->
+<link href="../static/css/font-awesome.css" rel="stylesheet"> 
+<!-- //font-awesome-icons -->
+<link href="http://fonts.googleapis.com/css?family=Bree+Serif&amp;subset=latin-ext" rel="stylesheet">
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
+</head>
+	
+<body>
+<script src='../../../../../../ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script><script src="../../../../../../m.servedby-buysellads.com/monetization.js" type="text/javascript"></script>
+<script>
+(function(){
+	if(typeof _bsa !== 'undefined' && _bsa) {
+  		// format, zoneKey, segment:value, options
+  		_bsa.init('flexbar', 'CKYI627U', 'placement:w3layoutscom');
+  	}
+})();
+</script>
+<script>
+(function(){
+if(typeof _bsa !== 'undefined' && _bsa) {
+	// format, zoneKey, segment:value, options
+	_bsa.init('fancybar', 'CKYDL2JN', 'placement:demo');
+}
+})();
+</script>
+<script>
+(function(){
+	if(typeof _bsa !== 'undefined' && _bsa) {
+  		// format, zoneKey, segment:value, options
+  		_bsa.init('stickybox', 'CKYI653J', 'placement:w3layoutscom');
+  	}
+})();
+</script>
+<script>
+	(function(v,d,o,ai){ai=d.createElement("script");ai.defer=true;ai.async=true;ai.src=v.location.protocol+o;d.head.appendChild(ai);})(window, document, "../../../../../../vdo.ai/core/w3layouts/vdo.ai.js");
+	</script>
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','../../../../../../www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-30027142-1', 'w3layouts.com');
+  ga('send', 'pageview');
+</script>
+<body>
+<!-- banner -->
+	<div class="banner">
+		<div class="container">
+			<div class="w3_agileits_banner_main_grid">
+				<div class="w3_agile_logo">
+					<h1><a href="home.html"><span>A</span>groAI<i>Grow healthy products</i></a></h1>
+				</div>
+				
+				<div class="agileits_w3layouts_menu">
+					<div class="shy-menu">
+						<div class="clearfix"> </div>
+					</div>
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+			<div class="w3_banner_info">
+				<div class="w3_banner_info_grid">
+					<h3 class="test" style="font-size: 200;">An AI Based Farmers Assistant System</h3>
+					<h4  style="color: white;font-weight: 100;">A simple ML and DL based website which Recommends the Best Crop to grow, Yield Prediction and the 
+						Diseases caught by your Crops.</h4>
+					
+				</div>
+			</div>
+			<div class="thim-click-to-bottom">
+				<a href="#welcome_bottom" class="scroll">
+					<i class="fa  fa-chevron-down"></i>
+				</a>
+			</div>
+		</div>
+	</div>
+<!-- banner -->
+
+<!-- //bootstrap-pop-up -->
+<!-- banner-bottom -->
+	<div class="banner-bottom">
+		<a href="{{ url_for('recommend') }}"><div class="col-md-4 agileits_banner_bottom_left">
+			<div class="agileinfo_banner_bottom_pos">
+				<div class="w3_agileits_banner_bottom_pos_grid">
+					<div class="col-xs-4 wthree_banner_bottom_grid_left">
+						<div class="agile_banner_bottom_grid_left_grid hvr-radial-out">
+							<i class="fa fa-pagelines" aria-hidden="true"></i>
+						</div>
+					</div>
+					<div class="col-xs-8 wthree_banner_bottom_grid_right">	
+						<h4>Crop Recommendation</h4>
+						<p>Recommend the crops which can be cultivated under given climatic and soil conditions.<p>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+			</div>
+		</a></div>
+		<a href="{{ url_for('yeild') }}"><div class="col-md-4 agileits_banner_bottom_left1">
+			<div class="agileinfo_banner_bottom_pos">
+				<div class="w3_agileits_banner_bottom_pos_grid">
+					<div class="col-xs-4 wthree_banner_bottom_grid_left">
+						<div class="agile_banner_bottom_grid_left_grid hvr-radial-out">
+							<i class="fa fa-certificate" aria-hidden="true"></i>
+						</div>
+					</div>
+					<div class="col-xs-8 wthree_banner_bottom_grid_right">	
+						<h4>Crop Yield Prediction</h4>
+						<p>Predict the yeild of different crops on the basis of seasons different district across Kerala.</p>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+		</a>	</div>
+		</div>
+		<a href="{{ url_for('disease') }}"><div class="col-md-4 agileits_banner_bottom_left2">
+			<div class="agileinfo_banner_bottom_pos">
+				<div class="w3_agileits_banner_bottom_pos_grid">
+					<div class="col-xs-4 wthree_banner_bottom_grid_left">
+						<div class="agile_banner_bottom_grid_left_grid hvr-radial-out">
+							<i class="fa fa-yelp" aria-hidden="true"></i>
+						</div>
+					</div>
+					<div class="col-xs-8 wthree_banner_bottom_grid_right">	
+						<h4>Crop Disease Identification</h4>
+						<p>System help to identify the different leaf diseases on different crops.</p>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+			</div>
+		</div></a>
+		<div class="clearfix"> </div>
+	</div>
+	<a href="{{ url_for('base') }}"><div class="col-md-4 agileits_banner_bottom_left1">
+		<div class="agileinfo_banner_bottom_pos">
+			<div class="w3_agileits_banner_bottom_pos_grid">
+				<div class="col-xs-4 wthree_banner_bottom_grid_left">
+					<div class="agile_banner_bottom_grid_left_grid hvr-radial-out">
+						<i class="fa fa-certificate" aria-hidden="true"></i>
+					</div>
+				</div>
+				<div class="col-xs-8 wthree_banner_bottom_grid_right">	
+					<h4>Crop Yield Prediction</h4>
+					<p>Predict the yeild of different crops on the basis of seasons different district across Kerala.</p>
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+	</a>	</div>
+	</div>
+<!-- //banner-bottom -->
+<!---728x90--->
+
+<!-- welcome -->
+	<div class="welcome">
+		<div class="container">
+			<h3 class="agileits_w3layouts_head">Welcome to our <span>Plantation</span></h3>
+			<div class="w3_agile_image">
+				<img src="../static/images/1.png" alt=" " class="img-responsive" />
+			</div>
+			<p class="agile_para">“The ultimate goal of farming is not the growing of crops, but the cultivation and perfection of human beings.”  
+
+				</p>
+		</div>
+<!---728x90--->
+
+		<div class="mis-stage w3_agileits_welcome_grids"> 
+			<!-- The element to select and apply miSlider to - the class is optional -->
+			<ol class="mis-slider">
+				<li class="mis-slide"> 
+					<figure> 
+						<img src="../static/images/2.png" alt=" " class="img-responsive" />
+						<figcaption>Strawberry</figcaption>
+					</figure>
+				</li>
+				<li class="mis-slide"> 
+					<figure> 
+						<img src="../static/images/3.png" alt=" " class="img-responsive" />
+						<figcaption>Orange</figcaption>
+					</figure>
+				</li>
+				<li class="mis-slide"> 
+					<figure> 
+						<img src="../static/images/4.png" alt=" " class="img-responsive" />
+						<figcaption>Pomegranates</figcaption>
+					</figure>
+				</li>
+				<li class="mis-slide"> 
+					<figure> 
+						<img src="../static/images/5.png" alt=" " class="img-responsive" />
+						<figcaption>Lemon</figcaption>
+					</figure>
+				</li>
+				<li class="mis-slide"> 
+					<figure> 
+						<img src="../static/images/6.png" alt=" " class="img-responsive" />
+						<figcaption>Kiwi Fruits</figcaption>
+					</figure>
+				</li>
+				<li class="mis-slide"> 
+					<figure> 
+						<img src="../static/images/7.png" alt=" " class="img-responsive" />
+						<figcaption>Apples</figcaption>
+					</figure>
+				</li>
+			</ol>
+		</div>
+	</div>
+
+<!-- //footer -->
+<!-- stats -->
+	<script src="../static/js/jquery.waypoints.min.js"></script>
+	<script src="../static/js/jquery.countup.js"></script>
+		<script>
+			$('.counter').countUp();
+		</script>
+<!-- //stats -->
+<!-- mislider -->
+	<script src="../static/js/mislider.js" type="text/javascript"></script>
+	<script type="text/javascript">
+        jQuery(function ($) {
+            var slider = $('.mis-stage').miSlider({
+                //  The height of the stage in px. Options: false or positive integer. false = height is calculated using maximum slide heights. Default: false
+                stageHeight: 380,
+                //  Number of slides visible at one time. Options: false or positive integer. false = Fit as many as possible.  Default: 1
+                slidesOnStage: false,
+                //  The location of the current slide on the stage. Options: 'left', 'right', 'center'. Defualt: 'left'
+                slidePosition: 'center',
+                //  The slide to start on. Options: 'beg', 'mid', 'end' or slide number starting at 1 - '1','2','3', etc. Defualt: 'beg'
+                slideStart: 'mid',
+                //  The relative percentage scaling factor of the current slide - other slides are scaled down. Options: positive number 100 or higher. 100 = No scaling. Defualt: 100
+                slideScaling: 150,
+                //  The vertical offset of the slide center as a percentage of slide height. Options:  positive or negative number. Neg value = up. Pos value = down. 0 = No offset. Default: 0
+                offsetV: -5,
+                //  Center slide contents vertically - Boolean. Default: false
+                centerV: true,
+                //  Opacity of the prev and next button navigation when not transitioning. Options: Number between 0 and 1. 0 (transparent) - 1 (opaque). Default: .5
+                navButtonsOpacity: 1,
+            });
+        });
+    </script>
+<!-- //mislider -->
+<!-- text-effect -->
+		<script type="text/javascript" src="../static/js/jquery.transit.js"></script> 
+		<script type="text/javascript" src="../static/js/jquery.textFx.js"></script> 
+		<script type="text/javascript">
+			$(document).ready(function() {
+					$('.test').textFx({
+						type: 'fadeIn',
+						iChar: 100,
+						iAnim: 1000
+					});
+			});
+		</script>
+<!-- //text-effect -->
+<!-- menu -->
+	<script>
+		$(function() {
+			
+			initDropDowns($("div.shy-menu"));
+
+		});
+
+		function initDropDowns(allMenus) {
+
+			allMenus.children(".shy-menu-hamburger").on("click", function() {
+				
+				var thisTrigger = jQuery(this),
+					thisMenu = thisTrigger.parent(),
+					thisPanel = thisTrigger.next();
+
+				if (thisMenu.hasClass("is-open")) {
+
+					thisMenu.removeClass("is-open");
+
+				} else {			
+					
+					allMenus.removeClass("is-open");	
+					thisMenu.addClass("is-open");
+					thisPanel.on("click", function(e) {
+						e.stopPropagation();
+					});
+				}
+				
+				return false;
+			});
+		}
+	</script>
+<!-- //menu -->
+<!-- start-smoth-scrolling -->
+<script type="text/javascript" src="../static/js/move-top.js"></script>
+<script type="text/javascript" src="../static/js/easing.js"></script>
+<script type="text/javascript">
+	jQuery(document).ready(function($) {
+		$(".scroll").click(function(event){		
+			event.preventDefault();
+			$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+		});
+	});
+</script>
+<!-- start-smoth-scrolling -->
+<!-- for bootstrap working -->
+	<script src="../static/js/bootstrap.js"></script>
+<!-- //for bootstrap working -->
+<!-- here stars scrolling icon -->
+	<script type="text/javascript">
+		$(document).ready(function() {
+			/*
+				var defaults = {
+				containerID: 'toTop', // fading element id
+				containerHoverID: 'toTopHover', // fading element hover id
+				scrollSpeed: 1200,
+				easingType: 'linear' 
+				};
+			*/
+								
+			$().UItoTop({ easingType: 'easeOutQuart' });
+								
+			});
+	</script>
+<!-- //here ends scrolling icon -->
+    
+    
+
+    <style>
+        * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+    font-size: 100%;
+    background: #F1F1F1;
+}
+
+*, html {
+    --primaryGradient: linear-gradient(93.12deg, #581B98 0.52%, #9C1DE7 100%);
+    --secondaryGradient: linear-gradient(268.91deg, #581B98 -2.14%, #9C1DE7 99.69%);
+    --primaryBoxShadow: 0px 10px 15px rgba(0, 0, 0, 0.1);
+    --secondaryBoxShadow: 0px -10px 15px rgba(0, 0, 0, 0.1);
+    --primary: #581B98;
+}
+
+/* CHATBOX
+=============== */
+.chatbox {
+    position: absolute;
+    bottom: 30px;
+    right: 30px;
+}
+
+/* CONTENT IS CLOSE */
+.chatbox__support {
+    display: flex;
+    flex-direction: column;
+    background: #eee;
+    width: 300px;
+    height: 350px;
+    z-index: -123456;
+    opacity: 0;
+    transition: all .5s ease-in-out;
+}
+
+/* CONTENT ISOPEN */
+.chatbox--active {
+    transform: translateY(-40px);
+    z-index: 123456;
+    opacity: 1;
+
+}
+
+/* BUTTON */
+.chatbox__button {
+    text-align: right;
+}
+
+.send__button {
+    padding: 6px;
+    background: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+
+/* HEADER */
+.chatbox__header {
+    position: sticky;
+    top: 0;
+    background: orange;
+}
+
+/* MESSAGES */
+.chatbox__messages {
+    margin-top: auto;
+    display: flex;
+    overflow-y: scroll;
+    flex-direction: column-reverse;
+}
+
+.messages__item {
+    background: orange;
+    max-width: 60.6%;
+    width: fit-content;
+}
+
+.messages__item--operator {
+    margin-left: auto;
+}
+
+.messages__item--visitor {
+    margin-right: auto;
+}
+
+/* FOOTER */
+.chatbox__footer {
+    position: sticky;
+    bottom: 0;
+}
+
+.chatbox__support {
+    background: #f9f9f9;
+    height: 450px;
+    width: 350px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+/* HEADER */
+.chatbox__header {
+    background: var(--primaryGradient);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 15px 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    box-shadow: var(--primaryBoxShadow);
+}
+
+.chatbox__image--header {
+    margin-right: 10px;
+}
+
+.chatbox__heading--header {
+    font-size: 1.2rem;
+    color: white;
+}
+
+.chatbox__description--header {
+    font-size: .9rem;
+    color: white;
+}
+
+/* Messages */
+.chatbox__messages {
+    padding: 0 20px;
+}
+
+.messages__item {
+    margin-top: 10px;
+    background: #E0E0E0;
+    padding: 8px 12px;
+    max-width: 70%;
+}
+
+.messages__item--visitor,
+.messages__item--typing {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.messages__item--operator {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background: var(--primary);
+    color: white;
+}
+
+/* FOOTER */
+.chatbox__footer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 20px;
+    background: var(--secondaryGradient);
+    box-shadow: var(--secondaryBoxShadow);
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-top: 20px;
+}
+
+.chatbox__footer input {
+    width: 80%;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 30px;
+    text-align: left;
+}
+
+.chatbox__send--footer {
+    color: white;
+}
+
+.chatbox__button button,
+.chatbox__button button:focus,
+.chatbox__button button:visited {
+    padding: 10px;
+    background: white;
+    border: none;
+    outline: none;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
+
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="chatbox">
+        <div class="chatbox__support">
+            <div class="chatbox__header">
+                <div class="chatbox__image--header">
+                    <img src="https://img.icons8.com/color/48/000000/circled-user-female-skin-type-5--v1.png" alt="image">
+                </div>
+                <div class="chatbox__content--header">
+                    <h4 class="chatbox__heading--header">Chat support</h4>
+                    <p class="chatbox__description--header">Hi. My name is Sam. How can I help you?</p>
+                </div>
+            </div>
+            <div class="chatbox__messages">
+                <div></div>
+            </div>
+            <div class="chatbox__footer">
+                <input type="text" placeholder="Write a message...">
+                <button class="chatbox__send--footer send__button">Send</button>
+            </div>
+        </div>
+        <div class="chatbox__button">
+            <button><img src="./chatbox-icon.svg" /></button>
+        </div>
+    </div>
+</div>
+<script>
+    class Chatbox {
+    constructor() {
+        this.args = {
+            openButton: document.querySelector('.chatbox__button'),
+            chatBox: document.querySelector('.chatbox__support'),
+            sendButton: document.querySelector('.send__button')
+        }
+
+        this.state = false;
+        this.messages = [];
+    }
+
+    display() {
+        const {openButton, chatBox, sendButton} = this.args;
+
+        openButton.addEventListener('click', () => this.toggleState(chatBox))
+
+        sendButton.addEventListener('click', () => this.onSendButton(chatBox))
+
+        const node = chatBox.querySelector('input');
+        node.addEventListener("keyup", ({key}) => {
+            if (key === "Enter") {
+                this.onSendButton(chatBox)
+            }
+        })
+    }
+
+    toggleState(chatbox) {
+        this.state = !this.state;
+
+        // show or hides the box
+        if(this.state) {
+            chatbox.classList.add('chatbox--active')
+        } else {
+            chatbox.classList.remove('chatbox--active')
+        }
+    }
+
+    onSendButton(chatbox) {
+        var textField = chatbox.querySelector('input');
+        let text1 = textField.value
+        if (text1 === "") {
+            return;
+        }
+
+        let msg1 = { name: "User", message: text1 }
+        this.messages.push(msg1);
+
+        fetch('http://127.0.0.1:5000/chat', {
+            method: 'POST',
+            body: JSON.stringify({ message: text1 }),
+            mode: 'cors',
+            headers: {
+              'Content-Type': 'application/json'
+            },
+          })
+          .then(r => r.json())
+          .then(r => {
+            let msg2 = { name: "Sam", message: r.answer };
+            this.messages.push(msg2);
+            this.updateChatText(chatbox)
+            textField.value = ''
+
+        }).catch((error) => {
+            console.error('Error:', error);
+            this.updateChatText(chatbox)
+            textField.value = ''
+          });
+    }
+
+    updateChatText(chatbox) {
+        var html = '';
+        this.messages.slice().reverse().forEach(function(item, index) {
+            if (item.name === "Sam")
+            {
+                html += '<div class="messages__item messages__item--visitor">' + item.message + '</div>'
+            }
+            else
+            {
+                html += '<div class="messages__item messages__item--operator">' + item.message + '</div>'
+            }
+          });
+
+        const chatmessage = chatbox.querySelector('.chatbox__messages');
+        chatmessage.innerHTML = html;
+    }
+}
+
+
+const chatbox = new Chatbox();
+chatbox.display();
+</script>
+    
+   <!-- <script type="text/javascript" src="{{ url_for('static', filename='app.js') }}"></script>-->
+
+    
+    
+    
+    
+    
+</body>
+
+</html>
