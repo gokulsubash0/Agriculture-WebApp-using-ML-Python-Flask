@@ -1,0 +1,4262 @@
+State_Name,District_Name,Crop_Year,Season,Crop,Area,Production
+Kerala,1,1997,0,Arecanut,2253,1518
+Kerala,1,1997,0,Black pepper,2235,248
+Kerala,1,1997,0,Cashewnut,7205,2358
+Kerala,1,1997,0,Coconut ,77893,399000
+Kerala,1,1997,0,Tapioca,3911,74110
+Kerala,1,1998,1,Rice,8719,17570
+Kerala,1,1998,2,Sesamum,1150,140
+Kerala,1,1998,3,Rice,19058,58013
+Kerala,1,1998,0,Arecanut,2067,766
+Kerala,1,1998,0,Banana,324,4493
+Kerala,1,1998,0,Black pepper,2028,256
+Kerala,1,1998,0,Cashewnut,4860,792
+Kerala,1,1998,0,Coconut ,58621,288000000
+Kerala,1,1998,0,Dry ginger,119,224
+Kerala,1,1998,0,Sugarcane,192,4190
+Kerala,1,1998,0,Sweet potato,7,81
+Kerala,1,1998,0,Tapioca,4929,86808
+Kerala,1,1998,0,Turmeric,12,14
+Kerala,1,1998,4,Rice,7348,16098
+Kerala,1,1999,1,Rice,8233,24776
+Kerala,1,1999,2,Sesamum,902,126
+Kerala,1,1999,3,Rice,16404,39718
+Kerala,1,1999,0,Arecanut,2308,1043
+Kerala,1,1999,0,Banana,536,5418
+Kerala,1,1999,0,Black pepper,1943,242
+Kerala,1,1999,0,Cashewnut,4909,1326
+Kerala,1,1999,0,Coconut ,61270,333000000
+Kerala,1,1999,0,Dry ginger,125,333
+Kerala,1,1999,0,Sugarcane,92,2890
+Kerala,1,1999,0,Sweet potato,2,23
+Kerala,1,1999,0,Tapioca,4524,90552
+Kerala,1,1999,0,Turmeric,11,13
+Kerala,1,1999,4,Rice,10689,27593
+Kerala,1,2000,1,Rice,9808,16384
+Kerala,1,2000,2,Sesamum,617,201
+Kerala,1,2000,3,Rice,17536,55953
+Kerala,1,2000,0,Arecanut,2205,917
+Kerala,1,2000,0,Banana,595,4134
+Kerala,1,2000,0,Black pepper,2134,297
+Kerala,1,2000,0,Cashewnut,4728,1234
+Kerala,1,2000,0,Coconut ,59775,288000000
+Kerala,1,2000,0,Dry ginger,161,353
+Kerala,1,2000,0,Sugarcane,116,7900
+Kerala,1,2000,0,Sweet potato,1,12
+Kerala,1,2000,0,Tapioca,4843,81313
+Kerala,1,2000,0,Turmeric,11,12
+Kerala,1,2000,4,Rice,10396,31207
+Kerala,1,2001,1,Rice,6851,2390
+Kerala,1,2001,2,Sesamum,140,36
+Kerala,1,2001,3,Rice,8741,22668
+Kerala,1,2001,0,Arecanut,2389,792
+Kerala,1,2001,0,Banana,553,3372
+Kerala,1,2001,0,Black pepper,2054,196
+Kerala,1,2001,0,Cashewnut,4472,1355
+Kerala,1,2001,0,Coconut ,57047,280000000
+Kerala,1,2001,0,Dry ginger,180,308
+Kerala,1,2001,0,Rubber,3849,4114
+Kerala,1,2001,0,Sugarcane,104,7080
+Kerala,1,2001,0,Sweet potato,4,48
+Kerala,1,2001,0,Tapioca,4367,72694
+Kerala,1,2001,0,Turmeric,15,20
+Kerala,1,2001,4,Rice,17519,47741
+Kerala,1,2002,1,Rice,3721,9467
+Kerala,1,2002,2,Sesamum,74,27
+Kerala,1,2002,3,Rice,8765,28992
+Kerala,1,2002,0,Arecanut,2441,1016
+Kerala,1,2002,0,Banana,470,3815
+Kerala,1,2002,0,Bhindi,16,0
+Kerala,1,2002,0,Bitter Gourd,86,0
+Kerala,1,2002,0,Black pepper,1940,174
+Kerala,1,2002,0,Brinjal,55,0
+Kerala,1,2002,0,Cashewnut,4313,1349
+Kerala,1,2002,0,Cashewnut Raw,4313,1349
+Kerala,1,2002,0,Coconut ,55407,267000000
+Kerala,1,2002,0,Drum Stick,825,920
+Kerala,1,2002,0,Dry ginger,125,220
+Kerala,1,2002,0,Jack Fruit,3015,5
+Kerala,1,2002,0,Mango,5708,19244
+Kerala,1,2002,0,Other Fresh Fruits,883,0
+Kerala,1,2002,0,other oilseeds,135,0
+Kerala,1,2002,0,Other Vegetables,1977,0
+Kerala,1,2002,0,Papaya,1099,5467
+Kerala,1,2002,0,Pineapple,105,403
+Kerala,1,2002,0,Rubber,3825,4356
+Kerala,1,2002,0,Snak Guard,76,0
+Kerala,1,2002,0,Sugarcane,120,8170
+Kerala,1,2002,0,Sweet potato,1,12
+Kerala,1,2002,0,Tapioca,4121,70944
+Kerala,1,2002,0,Turmeric,9,11
+Kerala,1,2002,4,Rice,17149,53102
+Kerala,1,2003,1,Rice,5650,11736
+Kerala,1,2003,2,Sesamum,168,38
+Kerala,1,2003,2,Small millets,5,4
+Kerala,1,2003,3,Rice,9727,21180
+Kerala,1,2003,0,Arecanut,2416,978
+Kerala,1,2003,0,Banana,553,3717
+Kerala,1,2003,0,Bhindi,11,0
+Kerala,1,2003,0,Bitter Gourd,90,0
+Kerala,1,2003,0,Black pepper,1997,167
+Kerala,1,2003,0,Brinjal,56,0
+Kerala,1,2003,0,Cashewnut,4092,1394
+Kerala,1,2003,0,Coconut ,55982,312000000
+Kerala,1,2003,0,Drum Stick,851,945
+Kerala,1,2003,0,Dry ginger,117,198
+Kerala,1,2003,0,Jack Fruit,3015,7
+Kerala,1,2003,0,Mango,5371,19968
+Kerala,1,2003,0,Other Fresh Fruits,762,0
+Kerala,1,2003,0,Other Vegetables,2262,0
+Kerala,1,2003,0,Papaya,1123,5581
+Kerala,1,2003,0,Pineapple,87,392
+Kerala,1,2003,0,Snak Guard,93,0
+Kerala,1,2003,0,Sugarcane,162,11030
+Kerala,1,2003,0,Sweet potato,1,12
+Kerala,1,2003,0,Tapioca,3602,85333
+Kerala,1,2003,0,Turmeric,8,7
+Kerala,1,2003,4,Rice,16706,30092
+Kerala,1,2004,1,Rice,6366,18345
+Kerala,1,2004,2,Sesamum,176,48
+Kerala,1,2004,3,Rice,11991,27680
+Kerala,1,2004,0,Arecanut,2376,1006
+Kerala,1,2004,0,Banana,564,3725
+Kerala,1,2004,0,Black pepper,2079,181
+Kerala,1,2004,0,Cashewnut,3749,1016
+Kerala,1,2004,0,Coconut ,56325,328000000
+Kerala,1,2004,0,Dry ginger,92,182
+Kerala,1,2004,0,Sugarcane,152,10350
+Kerala,1,2004,0,Sweet potato,8,96
+Kerala,1,2004,0,Tapioca,3462,82144
+Kerala,1,2004,0,Turmeric,11,12
+Kerala,1,2004,4,Rice,13801,32466
+Kerala,1,2005,1,Rice,8643,16555
+Kerala,1,2005,2,Sesamum,62,17
+Kerala,1,2005,3,Rice,4465,11764
+Kerala,1,2005,0,Arecanut,2353,950
+Kerala,1,2005,0,Banana,578,3927
+Kerala,1,2005,0,Black pepper,2000,177
+Kerala,1,2005,0,Cashewnut,3525,1182
+Kerala,1,2005,0,Coconut ,56154,357000000
+Kerala,1,2005,0,Dry ginger,34,73
+Kerala,1,2005,0,Sugarcane,8,440
+Kerala,1,2005,0,Sweet potato,2,24
+Kerala,1,2005,0,Tapioca,2668,62286
+Kerala,1,2005,0,Turmeric,11,13
+Kerala,1,2005,4,Rice,15660,43429
+Kerala,1,2006,1,Rice,7594,22287
+Kerala,1,2006,2,Sesamum,192,72
+Kerala,1,2006,3,Rice,9770,27762
+Kerala,1,2006,0,Arecanut,2021,671
+Kerala,1,2006,0,Banana,601,4310
+Kerala,1,2006,0,Black pepper,1872,232
+Kerala,1,2006,0,Cashewnut,2995,978
+Kerala,1,2006,0,Coconut ,48726,360000000
+Kerala,1,2006,0,Dry ginger,66,163
+Kerala,1,2006,0,Sugarcane,48,2860
+Kerala,1,2006,0,Sweet potato,6,72
+Kerala,1,2006,0,Tapioca,2664,66790
+Kerala,1,2006,0,Turmeric,20,21
+Kerala,1,2006,4,Rice,13696,40111
+Kerala,1,2007,1,Rice,7991,14128
+Kerala,1,2007,2,Ragi,1,1
+Kerala,1,2007,2,Sesamum,61,12
+Kerala,1,2007,3,Rice,15291,26776
+Kerala,1,2007,0,Arecanut,1696,687
+Kerala,1,2007,0,Banana,635,4072
+Kerala,1,2007,0,Black pepper,1790,207
+Kerala,1,2007,0,Cashewnut,2515,993
+Kerala,1,2007,0,Coconut ,43976,301000000
+Kerala,1,2007,0,Dry ginger,94,172
+Kerala,1,2007,0,Sugarcane,25,1870
+Kerala,1,2007,0,Sweet potato,6,72
+Kerala,1,2007,0,Tapioca,2516,70918
+Kerala,1,2007,0,Turmeric,28,34
+Kerala,1,2007,4,Rice,10053,21366
+Kerala,1,2008,1,Rice,8755,26254
+Kerala,1,2008,2,Sesamum,93,78
+Kerala,1,2008,3,Rice,18121,55997
+Kerala,1,2008,0,Arecanut,1577,955
+Kerala,1,2008,0,Banana,563,3790
+Kerala,1,2008,0,Black pepper,1357,126
+Kerala,1,2008,0,Cashewnut,2150,668
+Kerala,1,2008,0,Coconut ,38859,275000000
+Kerala,1,2008,0,Dry ginger,81,203
+Kerala,1,2008,0,Sugarcane,60,5530
+Kerala,1,2008,0,Sweet potato,7,84
+Kerala,1,2008,0,Tapioca,3272,95578
+Kerala,1,2008,0,Turmeric,22,31
+Kerala,1,2008,4,Rice,7267,21999
+Kerala,1,2009,1,Rice,9128,28912
+Kerala,1,2009,2,Sesamum,238,50
+Kerala,1,2009,3,Rice,16820,46392
+Kerala,1,2009,0,Arecanut,1711,1008
+Kerala,1,2009,0,Banana,538,4322
+Kerala,1,2009,0,Black pepper,1387,134
+Kerala,1,2009,0,Cashewnut,2110,814
+Kerala,1,2009,0,Coconut ,39816,257000000
+Kerala,1,2009,0,Dry ginger,61,168
+Kerala,1,2009,0,Sugarcane,66,5790
+Kerala,1,2009,0,Sweet potato,4,48
+Kerala,1,2009,0,Tapioca,2687,73478
+Kerala,1,2009,0,Turmeric,12,21
+Kerala,1,2009,4,Rice,7492,22672
+Kerala,1,2010,1,Rice,10445.22,23855.73
+Kerala,1,2010,2,Sesamum,43.05,5.7
+Kerala,1,2010,3,Rice,22744.6,58234.49
+Kerala,1,2010,0,Arecanut,1608.73,769.04
+Kerala,1,2010,0,Banana,660.15,5202.36
+Kerala,1,2010,0,Black pepper,1506.15,150.73
+Kerala,1,2010,0,Cashewnut,2092.85,492.62
+Kerala,1,2010,0,Coconut ,39343.71,263500000
+Kerala,1,2010,0,Dry ginger,87.46,263.71
+Kerala,1,2010,0,Sugarcane,54.25,4752
+Kerala,1,2010,0,Tapioca,2788.49,76992.07
+Kerala,1,2010,0,Turmeric,22.2,31.17
+Kerala,1,2010,4,Rice,3869.68,9234.54
+Kerala,1,2011,1,Rice,9966.03,30522.44
+Kerala,1,2011,2,Sesamum,13.93,4.58
+Kerala,1,2011,3,Rice,17169.79,53156.99
+Kerala,1,2011,0,Arecanut,1615.43,659.29
+Kerala,1,2011,0,Banana,454.95,3604.05
+Kerala,1,2011,0,Black pepper,724.76,136.22
+Kerala,1,2011,0,Cashewnut,2559.81,547.69
+Kerala,1,2011,0,Coconut ,38555.94,219318000
+Kerala,1,2011,0,Dry ginger,93.64,298.28
+Kerala,1,2011,0,Potato,7,84
+Kerala,1,2011,0,Sugarcane,94.93,8337.2
+Kerala,1,2011,0,Tapioca,2450.86,61076.79
+Kerala,1,2011,0,Turmeric,20.6,41.57
+Kerala,1,2011,4,Rice,9115.09,28301.03
+Kerala,1,2012,1,Rice,10758,32362
+Kerala,1,2012,3,Rice,20325,57043
+Kerala,1,2012,0,Arecanut,1387,682
+Kerala,1,2012,0,Banana,631,5002
+Kerala,1,2012,0,Black pepper,639,148
+Kerala,1,2012,0,Cashewnut,2110,436
+Kerala,1,2012,0,Coconut ,36986,233000000
+Kerala,1,2012,0,Cowpea(Lobia),2,
+Kerala,1,2012,0,Drum Stick,457,277
+Kerala,1,2012,0,Dry ginger,89,261
+Kerala,1,2012,0,Jack Fruit,2199,
+Kerala,1,2012,0,Mango,3786,16221
+Kerala,1,2012,0,Moong(Green Gram),33,
+Kerala,1,2012,0,Papaya,1010,9255
+Kerala,1,2012,0,Pineapple,81,569
+Kerala,1,2012,0,Pump Kin,30,
+Kerala,1,2012,0,Sesamum,60,23
+Kerala,1,2012,0,Sugarcane,73,639
+Kerala,1,2012,0,Sweet potato,2,21
+Kerala,1,2012,0,Tapioca,2545,72919
+Kerala,1,2012,0,Turmeric,33,63
+Kerala,1,2012,4,Rice,5112,15188
+Kerala,1,2012,4,Sesamum,60,23
+Kerala,1,2013,1,Rice,6339,20589
+Kerala,1,2013,3,Rice,19626,50082
+Kerala,1,2013,0,Arecanut,1304,513
+Kerala,1,2013,0,Banana,472,4481
+Kerala,1,2013,0,Black pepper,663,158
+Kerala,1,2013,0,Cashewnut,2118,433
+Kerala,1,2013,0,Coconut ,36880,217000000
+Kerala,1,2013,0,Drum Stick,482,292
+Kerala,1,2013,0,Dry ginger,85,292
+Kerala,1,2013,0,Mango,4179,18300
+Kerala,1,2013,0,Moong(Green Gram),20,
+Kerala,1,2013,0,Pump Kin,38,
+Kerala,1,2013,0,Sesamum,41,12
+Kerala,1,2013,0,Sugarcane,45,403
+Kerala,1,2013,0,Sweet potato,3,33
+Kerala,1,2013,0,Tapioca,2511,62212
+Kerala,1,2013,0,Turmeric,31,63
+Kerala,1,2013,4,Rice,11438,36195
+Kerala,1,2014,1,Rice,11073,28432
+Kerala,1,2014,3,Rice,18685,60549
+Kerala,1,2014,0,Arecanut,1332,641
+Kerala,1,2014,0,Banana,450,3733
+Kerala,1,2014,0,Black pepper,614,147
+Kerala,1,2014,0,Cashewnut,1921,318
+Kerala,1,2014,0,Coconut ,35161,218000000
+Kerala,1,2014,0,Cowpea(Lobia),8,
+Kerala,1,2014,0,Drum Stick,494,334
+Kerala,1,2014,0,Dry ginger,77,261
+Kerala,1,2014,0,Mango,4123,20707
+Kerala,1,2014,0,Moong(Green Gram),48,
+Kerala,1,2014,0,Papaya,960,7925
+Kerala,1,2014,0,Pineapple,72,681
+Kerala,1,2014,0,Pump Kin,41,
+Kerala,1,2014,0,Sesamum,62,16.87
+Kerala,1,2014,0,Sugarcane,54.9,25
+Kerala,1,2014,0,Sweet potato,7,75
+Kerala,1,2014,0,Tapioca,2670,87834
+Kerala,1,2014,0,Turmeric,36,78
+Kerala,1,2014,4,Rice,4657,14114
+Kerala,2,1997,0,Arecanut,3513,6148
+Kerala,2,1997,0,Black pepper,6659,1114
+Kerala,2,1997,0,Cashewnut,2389,1316
+Kerala,2,1997,0,Coconut ,61016,382000
+Kerala,2,1997,0,Tapioca,5732,134817
+Kerala,2,1998,1,Rice,16822,28778
+Kerala,2,1998,2,Sesamum,589,311
+Kerala,2,1998,3,Rice,12446,19138
+Kerala,2,1998,0,Arecanut,3604,1941
+Kerala,2,1998,0,Banana,3026,41314
+Kerala,2,1998,0,Black pepper,6039,1026
+Kerala,2,1998,0,Cashewnut,1374,517
+Kerala,2,1998,0,Coconut ,61719,345000000
+Kerala,2,1998,0,Dry chillies,10,9
+Kerala,2,1998,0,Dry ginger,442,1234
+Kerala,2,1998,0,Sugarcane,12,840
+Kerala,2,1998,0,Sweet potato,4,45
+Kerala,2,1998,0,Tapioca,5021,140764
+Kerala,2,1998,0,Turmeric,436,746
+Kerala,2,1998,4,Rice,20462,36613
+Kerala,2,1999,1,Rice,15467,31401
+Kerala,2,1999,2,Sesamum,236,131
+Kerala,2,1999,3,Rice,9737,17067
+Kerala,2,1999,0,Arecanut,3964,2661
+Kerala,2,1999,0,Banana,4200,41312
+Kerala,2,1999,0,Black pepper,7002,906
+Kerala,2,1999,0,Cashewnut,1576,549
+Kerala,2,1999,0,Coconut ,68110,406000000
+Kerala,2,1999,0,Dry ginger,469,1592
+Kerala,2,1999,0,Sugarcane,15,1890
+Kerala,2,1999,0,Sweet potato,8,90
+Kerala,2,1999,0,Tapioca,5131,154251
+Kerala,2,1999,0,Turmeric,505,864
+Kerala,2,1999,4,Rice,17690,33858
+Kerala,2,2000,1,Rice,14600,26770
+Kerala,2,2000,2,Sesamum,238,100
+Kerala,2,2000,3,Rice,7381,11941
+Kerala,2,2000,0,Arecanut,4238,3349
+Kerala,2,2000,0,Banana,4737,31880
+Kerala,2,2000,0,Black pepper,7312,918
+Kerala,2,2000,0,Cashewnut,1578,496
+Kerala,2,2000,0,Coconut ,67402,358000000
+Kerala,2,2000,0,Dry ginger,446,1343
+Kerala,2,2000,0,Sugarcane,14,1760
+Kerala,2,2000,0,Sweet potato,12,135
+Kerala,2,2000,0,Tapioca,5208,154559
+Kerala,2,2000,0,Turmeric,575,1186
+Kerala,2,2000,4,Rice,15452,26596
+Kerala,2,2001,1,Rice,11821,22370
+Kerala,2,2001,2,Sesamum,192,82
+Kerala,2,2001,3,Rice,6693,10867
+Kerala,2,2001,0,Arecanut,4662,3607
+Kerala,2,2001,0,Banana,5447,38650
+Kerala,2,2001,0,Black pepper,7941,1219
+Kerala,2,2001,0,Cashewnut,1468,724
+Kerala,2,2001,0,Coconut ,62684,343000000
+Kerala,2,2001,0,Dry ginger,462,1399
+Kerala,2,2001,0,Rubber,56710,73219
+Kerala,2,2001,0,Sugarcane,12,1510
+Kerala,2,2001,0,Sweet potato,13,146
+Kerala,2,2001,0,Tapioca,5777,143424
+Kerala,2,2001,0,Turmeric,639,1456
+Kerala,2,2001,4,Rice,14391,26486
+Kerala,2,2002,1,Rice,12016,23859
+Kerala,2,2002,2,Sesamum,161,47
+Kerala,2,2002,3,Rice,6608,11936
+Kerala,2,2002,0,Arecanut,4886,3728
+Kerala,2,2002,0,Banana,6410,46806
+Kerala,2,2002,0,Bhindi,33,0
+Kerala,2,2002,0,Bitter Gourd,142,0
+Kerala,2,2002,0,Black pepper,7309,1171
+Kerala,2,2002,0,Brinjal,21,0
+Kerala,2,2002,0,Cashewnut,1364,607
+Kerala,2,2002,0,Cashewnut Raw,1364,607
+Kerala,2,2002,0,Coconut ,61034,309000000
+Kerala,2,2002,0,Drum Stick,910,713
+Kerala,2,2002,0,Dry ginger,421,1162
+Kerala,2,2002,0,Jack Fruit,4755,18
+Kerala,2,2002,0,Mango,4514,16953
+Kerala,2,2002,0,Other Fresh Fruits,1078,0
+Kerala,2,2002,0,other oilseeds,101,0
+Kerala,2,2002,0,Other Vegetables,3013,0
+Kerala,2,2002,0,Papaya,1497,7248
+Kerala,2,2002,0,Pineapple,6056,56478
+Kerala,2,2002,0,Rubber,56737,73752
+Kerala,2,2002,0,Snak Guard,95,0
+Kerala,2,2002,0,Sugarcane,8,1010
+Kerala,2,2002,0,Sweet potato,11,124
+Kerala,2,2002,0,Tapioca,5668,170411
+Kerala,2,2002,0,Tea,2,0.1
+Kerala,2,2002,0,Turmeric,493,1092
+Kerala,2,2002,4,Rice,13448,25091
+Kerala,2,2003,1,Rice,11291,20467
+Kerala,2,2003,2,Sesamum,126,33
+Kerala,2,2003,3,Rice,6155,10828
+Kerala,2,2003,0,Arecanut,5275,3813
+Kerala,2,2003,0,Banana,5872,55367
+Kerala,2,2003,0,Bhindi,38,0
+Kerala,2,2003,0,Bitter Gourd,140,0
+Kerala,2,2003,0,Black pepper,6973,1107
+Kerala,2,2003,0,Brinjal,43,0
+Kerala,2,2003,0,Cashewnut,1241,528
+Kerala,2,2003,0,Coconut ,57964,311000000
+Kerala,2,2003,0,Drum Stick,865,675
+Kerala,2,2003,0,Dry ginger,349,902
+Kerala,2,2003,0,Jack Fruit,4650,20
+Kerala,2,2003,0,Mango,4305,17262
+Kerala,2,2003,0,Other Fresh Fruits,912,0
+Kerala,2,2003,0,Other Vegetables,2239,0
+Kerala,2,2003,0,Papaya,1470,7115
+Kerala,2,2003,0,Pineapple,6696,57669
+Kerala,2,2003,0,Snak Guard,74,0
+Kerala,2,2003,0,Sugarcane,1,130
+Kerala,2,2003,0,Sweet potato,2,23
+Kerala,2,2003,0,Tapioca,5642,163782
+Kerala,2,2003,0,Turmeric,484,1074
+Kerala,2,2003,4,Rice,12049,22749
+Kerala,2,2004,1,Rice,10797,21349
+Kerala,2,2004,2,Ragi,1,1
+Kerala,2,2004,2,Sesamum,130,23
+Kerala,2,2004,3,Rice,4862,8752
+Kerala,2,2004,0,Arecanut,5679,4245
+Kerala,2,2004,0,Banana,6107,51869
+Kerala,2,2004,0,Black pepper,6825,1014
+Kerala,2,2004,0,Cashewnut,1167,545
+Kerala,2,2004,0,Coconut ,58735,313000000
+Kerala,2,2004,0,Dry ginger,295,800
+Kerala,2,2004,0,Sugarcane,1,130
+Kerala,2,2004,0,Sweet potato,5,58
+Kerala,2,2004,0,Tapioca,4415,130038
+Kerala,2,2004,0,Turmeric,484,947
+Kerala,2,2004,4,Rice,12486,24400
+Kerala,2,2005,1,Rice,9976,19168
+Kerala,2,2005,2,Sesamum,54,13
+Kerala,2,2005,3,Rice,2812,5301
+Kerala,2,2005,0,Arecanut,5644,6050
+Kerala,2,2005,0,Banana,6308,47906
+Kerala,2,2005,0,Black pepper,6700,1274
+Kerala,2,2005,0,Cashewnut,1130,507
+Kerala,2,2005,0,Coconut ,58553,369000000
+Kerala,2,2005,0,Dry ginger,372,1181
+Kerala,2,2005,0,Sugarcane,6,400
+Kerala,2,2005,0,Tapioca,5636,182605
+Kerala,2,2005,0,Turmeric,568,1427
+Kerala,2,2005,4,Rice,12146,23564
+Kerala,2,2006,1,Rice,5740,11034
+Kerala,2,2006,2,Ragi,4,3
+Kerala,2,2006,2,Sesamum,68,35
+Kerala,2,2006,3,Rice,2455,4432
+Kerala,2,2006,0,Arecanut,4908,5020
+Kerala,2,2006,0,Banana,6855,59908
+Kerala,2,2006,0,Black pepper,6637,1133
+Kerala,2,2006,0,Cashewnut,948,438
+Kerala,2,2006,0,Coconut ,54710,376000000
+Kerala,2,2006,0,Dry ginger,396,1322
+Kerala,2,2006,0,Sweet potato,10,116
+Kerala,2,2006,0,Tapioca,6117,223441
+Kerala,2,2006,0,Turmeric,629,1874
+Kerala,2,2006,4,Rice,13700,28541
+Kerala,2,2007,1,Rice,4382,8196
+Kerala,2,2007,2,Sesamum,48,10
+Kerala,2,2007,3,Rice,2236,4123
+Kerala,2,2007,0,Arecanut,5207,6395
+Kerala,2,2007,0,Banana,6115,49537
+Kerala,2,2007,0,Black pepper,6106,995
+Kerala,2,2007,0,Cashewnut,783,350
+Kerala,2,2007,0,Coconut ,49412,292000000
+Kerala,2,2007,0,Dry ginger,337,930
+Kerala,2,2007,0,Sugarcane,8,230
+Kerala,2,2007,0,Sweet potato,4,46
+Kerala,2,2007,0,Tapioca,5148,178642
+Kerala,2,2007,0,Turmeric,368,1010
+Kerala,2,2007,4,Rice,5725,12088
+Kerala,2,2008,1,Rice,5097,10172
+Kerala,2,2008,2,Sesamum,26,20
+Kerala,2,2008,3,Rice,1962,3401
+Kerala,2,2008,0,Arecanut,4783,5564
+Kerala,2,2008,0,Banana,6385,60775
+Kerala,2,2008,0,Black pepper,5317,928
+Kerala,2,2008,0,Cashewnut,596,241
+Kerala,2,2008,0,Coconut ,46240,249000000
+Kerala,2,2008,0,Dry ginger,260,736
+Kerala,2,2008,0,Sugarcane,2,
+Kerala,2,2008,0,Sweet potato,4,46
+Kerala,2,2008,0,Tapioca,5680,209906
+Kerala,2,2008,0,Turmeric,326,869
+Kerala,2,2008,4,Rice,5907,12334
+Kerala,2,2009,1,Rice,4090,7803
+Kerala,2,2009,2,Sesamum,15,2
+Kerala,2,2009,3,Rice,1576,2599
+Kerala,2,2009,0,Arecanut,4674,5130
+Kerala,2,2009,0,Banana,6500,58787
+Kerala,2,2009,0,Black pepper,5273,798
+Kerala,2,2009,0,Cashewnut,581,218
+Kerala,2,2009,0,Coconut ,44475,235000000
+Kerala,2,2009,0,Dry ginger,199,588
+Kerala,2,2009,0,Sugarcane,5,
+Kerala,2,2009,0,Sweet potato,7,81
+Kerala,2,2009,0,Tapioca,5265,228343
+Kerala,2,2009,0,Turmeric,279,900
+Kerala,2,2009,4,Rice,5121,10622
+Kerala,2,2010,1,Rice,3353.88,6379.8
+Kerala,2,2010,2,Sesamum,6.06,0.75
+Kerala,2,2010,3,Rice,1152.89,2242.17
+Kerala,2,2010,0,Arecanut,4549.93,4889.9
+Kerala,2,2010,0,Banana,6318.15,59939.5
+Kerala,2,2010,0,Black pepper,5024.82,717.77
+Kerala,2,2010,0,Cashewnut,573.89,184.56
+Kerala,2,2010,0,Coconut ,42893.79,221125000
+Kerala,2,2010,0,Dry ginger,195.77,638.04
+Kerala,2,2010,0,Sugarcane,1.36,
+Kerala,2,2010,0,Tapioca,5484.11,221247.66
+Kerala,2,2010,0,Turmeric,264.52,888.01
+Kerala,2,2010,4,Rice,4508.73,9200.58
+Kerala,2,2011,1,Rice,3134.85,6488.16
+Kerala,2,2011,2,Sesamum,4.31,0.57
+Kerala,2,2011,3,Rice,718.83,1567.97
+Kerala,2,2011,0,Arecanut,4943.83,4639.87
+Kerala,2,2011,0,Banana,5669.4,54434.51
+Kerala,2,2011,0,Black pepper,2456.42,619.85
+Kerala,2,2011,0,Cashewnut,648.12,155.76
+Kerala,2,2011,0,Coconut ,46376.43,240698000
+Kerala,2,2011,0,Dry ginger,197.54,679.56
+Kerala,2,2011,0,Potato,4,46
+Kerala,2,2011,0,Sugarcane,12.93,
+Kerala,2,2011,0,Tapioca,6142.77,241774.09
+Kerala,2,2011,0,Turmeric,319.12,1000.26
+Kerala,2,2011,4,Rice,3877.16,8516.26
+Kerala,2,2012,1,Rice,1370,2693
+Kerala,2,2012,3,Rice,343,770
+Kerala,2,2012,0,Arecanut,4754,4052
+Kerala,2,2012,0,Banana,5586,50746
+Kerala,2,2012,0,Black pepper,2113,631
+Kerala,2,2012,0,Cashewnut,604,149
+Kerala,2,2012,0,Coconut ,43751,209000000
+Kerala,2,2012,0,Cowpea(Lobia),156,
+Kerala,2,2012,0,Drum Stick,525,563
+Kerala,2,2012,0,Dry ginger,131,388
+Kerala,2,2012,0,Jack Fruit,3955,
+Kerala,2,2012,0,Mango,4123,32276
+Kerala,2,2012,0,Moong(Green Gram),2,
+Kerala,2,2012,0,Papaya,1162,8391
+Kerala,2,2012,0,Pineapple,5413,50706
+Kerala,2,2012,0,Pump Kin,57,
+Kerala,2,2012,0,Sesamum,13,11
+Kerala,2,2012,0,Sugarcane,1,
+Kerala,2,2012,0,Sweet potato,4,46
+Kerala,2,2012,0,Tapioca,5443,211550
+Kerala,2,2012,0,Turmeric,282,759
+Kerala,2,2012,4,Rice,2227,5070
+Kerala,2,2012,4,Sesamum,13,11
+Kerala,2,2013,1,Rice,911,1908
+Kerala,2,2013,3,Rice,433,940
+Kerala,2,2013,0,Arecanut,4463,3924
+Kerala,2,2013,0,Banana,5638,54056
+Kerala,2,2013,0,Black pepper,2026,599
+Kerala,2,2013,0,Cashewnut,557,168
+Kerala,2,2013,0,Coconut ,44582,227000000
+Kerala,2,2013,0,Cowpea(Lobia),194,
+Kerala,2,2013,0,Drum Stick,553,593
+Kerala,2,2013,0,Dry ginger,101,304
+Kerala,2,2013,0,Mango,4586,33978
+Kerala,2,2013,0,Pump Kin,51,
+Kerala,2,2013,0,Sesamum,28,6
+Kerala,2,2013,0,Sugarcane,1,
+Kerala,2,2013,0,Sweet potato,6,72
+Kerala,2,2013,0,Tapioca,4975,205464
+Kerala,2,2013,0,Turmeric,206,567
+Kerala,2,2013,4,Rice,2708,6208
+Kerala,2,2014,1,Rice,1330,2593
+Kerala,2,2014,3,Rice,390,857
+Kerala,2,2014,0,Arecanut,4133,4533
+Kerala,2,2014,0,Banana,4904,44953
+Kerala,2,2014,0,Black pepper,1913,539
+Kerala,2,2014,0,Cashewnut,430,122
+Kerala,2,2014,0,Coconut ,43680,212000000
+Kerala,2,2014,0,Cowpea(Lobia),359,
+Kerala,2,2014,0,Dry ginger,84,265
+Kerala,2,2014,0,Moong(Green Gram),1,
+Kerala,2,2014,0,Pump Kin,49,
+Kerala,2,2014,0,Sesamum,4,1.07
+Kerala,2,2014,0,Sugarcane,0.2,
+Kerala,2,2014,0,Sweet potato,3,36
+Kerala,2,2014,0,Tapioca,5386,229341
+Kerala,2,2014,0,Turmeric,213,640
+Kerala,2,2014,4,Rice,2924,6524
+Kerala,3,1997,0,Arecanut,4616,7131
+Kerala,3,1997,0,Black pepper,45566,18706
+Kerala,3,1997,0,Cashewnut,1600,780
+Kerala,3,1997,0,Coconut ,31303,148000
+Kerala,3,1997,0,Tapioca,10849,317756
+Kerala,3,1998,1,Rice,1065,2314
+Kerala,3,1998,2,Jowar,2,1
+Kerala,3,1998,2,Ragi,42,34
+Kerala,3,1998,2,Sesamum,21,1
+Kerala,3,1998,3,Rice,329,812
+Kerala,3,1998,0,Arecanut,2899,2792
+Kerala,3,1998,0,Banana,1771,23692
+Kerala,3,1998,0,Black pepper,49749,29372
+Kerala,3,1998,0,Cardamom,32686,4556
+Kerala,3,1998,0,Cashewnut,1143,536
+Kerala,3,1998,0,Coconut ,21444,87000000
+Kerala,3,1998,0,Dry ginger,1561,6486
+Kerala,3,1998,0,Garlic,742,12614
+Kerala,3,1998,0,Sugarcane,2894,202540
+Kerala,3,1998,0,Sweet potato,22,250
+Kerala,3,1998,0,Tapioca,7027,241324
+Kerala,3,1998,0,Turmeric,626,1505
+Kerala,3,1998,4,Rice,2452,5869
+Kerala,3,1999,1,Rice,866,2215
+Kerala,3,1999,2,Ragi,33,27
+Kerala,3,1999,2,Sesamum,9,2
+Kerala,3,1999,3,Rice,385,1122
+Kerala,3,1999,0,Arecanut,3348,3312
+Kerala,3,1999,0,Banana,1138,12190
+Kerala,3,1999,0,Black pepper,57211,13629
+Kerala,3,1999,0,Cardamom,32667,6077
+Kerala,3,1999,0,Cashewnut,1341,395
+Kerala,3,1999,0,Coconut ,23696,92000000
+Kerala,3,1999,0,Dry ginger,1711,7369
+Kerala,3,1999,0,Garlic,849,14433
+Kerala,3,1999,0,Sugarcane,2624,221640
+Kerala,3,1999,0,Sweet potato,17,193
+Kerala,3,1999,0,Tapioca,7775,251629
+Kerala,3,1999,0,Turmeric,416,1000
+Kerala,3,1999,4,Rice,2389,5719
+Kerala,3,2000,1,Rice,999,2323
+Kerala,3,2000,2,Ragi,8,7
+Kerala,3,2000,2,Sesamum,11,8
+Kerala,3,2000,3,Rice,291,782
+Kerala,3,2000,0,Arecanut,3682,3805
+Kerala,3,2000,0,Banana,1306,12372
+Kerala,3,2000,0,Black pepper,58209,23282
+Kerala,3,2000,0,Cardamom,32671,7072
+Kerala,3,2000,0,Cashewnut,1394,594
+Kerala,3,2000,0,Coconut ,23811,91000000
+Kerala,3,2000,0,Dry ginger,1912,7723
+Kerala,3,2000,0,Garlic,538,9146
+Kerala,3,2000,0,Sugarcane,1318,111330
+Kerala,3,2000,0,Sweet potato,5,57
+Kerala,3,2000,0,Tapioca,7794,267112
+Kerala,3,2000,0,Turmeric,502,1300
+Kerala,3,2000,4,Rice,2183,4787
+Kerala,3,2001,1,Rice,1063,2593
+Kerala,3,2001,2,Ragi,11,9
+Kerala,3,2001,2,Sesamum,7,2
+Kerala,3,2001,3,Rice,555,1297
+Kerala,3,2001,0,Arecanut,3942,3432
+Kerala,3,2001,0,Banana,1567,13252
+Kerala,3,2001,0,Black pepper,60537,24560
+Kerala,3,2001,0,Cardamom,32668,7788
+Kerala,3,2001,0,Cashewnut,1350,547
+Kerala,3,2001,0,Coconut ,25603,96000000
+Kerala,3,2001,0,Coffee,12635,9130
+Kerala,3,2001,0,Dry ginger,1694,6026
+Kerala,3,2001,0,Garlic,293,4981
+Kerala,3,2001,0,Rubber,38123,45260
+Kerala,3,2001,0,Sugarcane,1344,113520
+Kerala,3,2001,0,Sweet potato,7,80
+Kerala,3,2001,0,Tapioca,8224,261523
+Kerala,3,2001,0,Tea,24792,46439
+Kerala,3,2001,0,Turmeric,349,703
+Kerala,3,2001,4,Rice,2770,6836
+Kerala,3,2002,1,Rice,1294,3111
+Kerala,3,2002,2,Jowar,2,1
+Kerala,3,2002,2,Ragi,25,20
+Kerala,3,2002,2,Sesamum,6,1
+Kerala,3,2002,3,Rice,286,538
+Kerala,3,2002,0,Arecanut,4096,3846
+Kerala,3,2002,0,Banana,1602,13608
+Kerala,3,2002,0,Bhindi,6,0
+Kerala,3,2002,0,Bitter Gourd,586,0
+Kerala,3,2002,0,Black pepper,65142,35534
+Kerala,3,2002,0,Brinjal,29,0
+Kerala,3,2002,0,Cardamom,32743,8057
+Kerala,3,2002,0,Cashewnut,1321,788
+Kerala,3,2002,0,Cashewnut Raw,1321,788
+Kerala,3,2002,0,Coconut ,25810,104000000
+Kerala,3,2002,0,Coffee,11490,8475
+Kerala,3,2002,0,Drum Stick,647,850
+Kerala,3,2002,0,Dry ginger,1374,4791
+Kerala,3,2002,0,Garlic,616,10472
+Kerala,3,2002,0,Jack Fruit,6332,28
+Kerala,3,2002,0,Mango,3142,15543
+Kerala,3,2002,0,Other Fresh Fruits,931,0
+Kerala,3,2002,0,other oilseeds,29,0
+Kerala,3,2002,0,Other Vegetables,6024,0
+Kerala,3,2002,0,Papaya,761,1895
+Kerala,3,2002,0,Pineapple,1569,15618
+Kerala,3,2002,0,Rubber,38250,45295
+Kerala,3,2002,0,Snak Guard,3,0
+Kerala,3,2002,0,Sugarcane,1473,124420
+Kerala,3,2002,0,Sweet potato,6,69
+Kerala,3,2002,0,Tapioca,7806,249774
+Kerala,3,2002,0,Tea,24953,39854
+Kerala,3,2002,0,Turmeric,257,623
+Kerala,3,2002,4,Rice,2205,4925
+Kerala,3,2003,1,Rice,1201,2844
+Kerala,3,2003,2,Jowar,2,1
+Kerala,3,2003,2,Ragi,74,59
+Kerala,3,2003,2,Small millets,176,137
+Kerala,3,2003,3,Rice,77,102
+Kerala,3,2003,0,Arecanut,3831,3635
+Kerala,3,2003,0,Banana,1648,14473
+Kerala,3,2003,0,Bhindi,7,0
+Kerala,3,2003,0,Bitter Gourd,394,0
+Kerala,3,2003,0,Black pepper,68595,36417
+Kerala,3,2003,0,Brinjal,42,0
+Kerala,3,2003,0,Cardamom,32815,8224
+Kerala,3,2003,0,Cashewnut,1211,536
+Kerala,3,2003,0,Coconut ,24383,92000000
+Kerala,3,2003,0,Drum Stick,630,825
+Kerala,3,2003,0,Dry ginger,904,3635
+Kerala,3,2003,0,Garlic,638,10846
+Kerala,3,2003,0,Jack Fruit,6444,25
+Kerala,3,2003,0,Mango,2982,15709
+Kerala,3,2003,0,Other Fresh Fruits,712,0
+Kerala,3,2003,0,Other Vegetables,8047,0
+Kerala,3,2003,0,Papaya,794,1977
+Kerala,3,2003,0,Pineapple,1459,14798
+Kerala,3,2003,0,Snak Guard,5,0
+Kerala,3,2003,0,Sugarcane,1595,134620
+Kerala,3,2003,0,Sweet potato,10,115
+Kerala,3,2003,0,Tapioca,7350,274386
+Kerala,3,2003,0,Turmeric,251,584
+Kerala,3,2003,4,Rice,1950,4580
+Kerala,3,2004,1,Rice,1147,2943
+Kerala,3,2004,2,Jowar,2,1
+Kerala,3,2004,2,Other Cereals & Millets,154,120
+Kerala,3,2004,2,Ragi,65,52
+Kerala,3,2004,2,Sesamum,8,6
+Kerala,3,2004,3,Rice,157,394
+Kerala,3,2004,0,Arecanut,4054,4351
+Kerala,3,2004,0,Banana,1748,11458
+Kerala,3,2004,0,Black pepper,82316,38787
+Kerala,3,2004,0,Cardamom,32856,7931
+Kerala,3,2004,0,Cashewnut,1270,677
+Kerala,3,2004,0,Coconut ,24274,87000000
+Kerala,3,2004,0,Dry ginger,876,3181
+Kerala,3,2004,0,Garlic,306,5202
+Kerala,3,2004,0,Sugarcane,790,66670
+Kerala,3,2004,0,Sweet potato,2,23
+Kerala,3,2004,0,Tapioca,5823,203171
+Kerala,3,2004,0,Turmeric,281,702
+Kerala,3,2004,4,Rice,1862,4445
+Kerala,3,2005,1,Rice,850,2093
+Kerala,3,2005,2,Other Cereals & Millets,11,21
+Kerala,3,2005,3,Rice,238,649
+Kerala,3,2005,0,Arecanut,4009,4669
+Kerala,3,2005,0,Banana,1828,13883
+Kerala,3,2005,0,Black pepper,84219,52063
+Kerala,3,2005,0,Cardamom,32846,9076
+Kerala,3,2005,0,Cashewnut,1197,746
+Kerala,3,2005,0,Coconut ,24343,90000000
+Kerala,3,2005,0,Dry ginger,900,3103
+Kerala,3,2005,0,Garlic,65,1105
+Kerala,3,2005,0,Sugarcane,760,51600
+Kerala,3,2005,0,Sweet potato,10,115
+Kerala,3,2005,0,Tapioca,6608,205293
+Kerala,3,2005,0,Turmeric,330,787
+Kerala,3,2005,4,Rice,1844,4758
+Kerala,3,2006,1,Rice,851,2345
+Kerala,3,2006,2,Jowar,11,6
+Kerala,3,2006,2,Other Cereals & Millets,114,89
+Kerala,3,2006,2,Ragi,6,5
+Kerala,3,2006,2,Sesamum,7,3
+Kerala,3,2006,3,Rice,217,569
+Kerala,3,2006,0,Arecanut,3416,5041
+Kerala,3,2006,0,Banana,1971,14654
+Kerala,3,2006,0,Black pepper,83652,35299
+Kerala,3,2006,0,Cardamom,32840,7894
+Kerala,3,2006,0,Cashewnut,1240,542
+Kerala,3,2006,0,Coconut ,23668,99000000
+Kerala,3,2006,0,Dry ginger,863,2753
+Kerala,3,2006,0,Garlic,221,3757
+Kerala,3,2006,0,Sugarcane,781,48760
+Kerala,3,2006,0,Sweet potato,15,173
+Kerala,3,2006,0,Tapioca,7141,230842
+Kerala,3,2006,0,Turmeric,321,730
+Kerala,3,2006,4,Rice,1810,4593
+Kerala,3,2007,1,Rice,462,1156
+Kerala,3,2007,2,Cotton(lint),3,
+Kerala,3,2007,2,Jowar,1,1
+Kerala,3,2007,2,Other Cereals & Millets,51,40
+Kerala,3,2007,2,Ragi,1,1
+Kerala,3,2007,3,Rice,58,153
+Kerala,3,2007,0,Arecanut,3451,3886
+Kerala,3,2007,0,Banana,2559,18733
+Kerala,3,2007,0,Black pepper,65333,23311
+Kerala,3,2007,0,Cardamom,31241,6404
+Kerala,3,2007,0,Cashewnut,1617,588
+Kerala,3,2007,0,Coconut ,19925,72000000
+Kerala,3,2007,0,Dry ginger,934,2968
+Kerala,3,2007,0,Garlic,350,5950
+Kerala,3,2007,0,Sugarcane,2105,128260
+Kerala,3,2007,0,Sweet potato,7,81
+Kerala,3,2007,0,Tapioca,6374,211702
+Kerala,3,2007,0,Turmeric,287,588
+Kerala,3,2007,4,Rice,1670,4650
+Kerala,3,2008,1,Rice,494,1302
+Kerala,3,2008,2,Jowar,1,1
+Kerala,3,2008,2,Other Cereals & Millets,26,20
+Kerala,3,2008,2,Ragi,5,4
+Kerala,3,2008,2,Sesamum,5,1
+Kerala,3,2008,3,Rice,57,135
+Kerala,3,2008,0,Arecanut,3173,3778
+Kerala,3,2008,0,Banana,2705,23662
+Kerala,3,2008,0,Black pepper,58290,16708
+Kerala,3,2008,0,Cardamom,33078,7827
+Kerala,3,2008,0,Cashewnut,1365,731
+Kerala,3,2008,0,Coconut ,17776,79000000
+Kerala,3,2008,0,Dry ginger,695,2359
+Kerala,3,2008,0,Garlic,320,5440
+Kerala,3,2008,0,Sugarcane,2487,191340
+Kerala,3,2008,0,Sweet potato,3,35
+Kerala,3,2008,0,Tapioca,7706,255284
+Kerala,3,2008,0,Turmeric,217,441
+Kerala,3,2008,4,Rice,1564,4057
+Kerala,3,2009,1,Rice,588,1510
+Kerala,3,2009,2,Jowar,10,10
+Kerala,3,2009,2,Other Cereals & Millets,12,9
+Kerala,3,2009,2,Sesamum,5,2
+Kerala,3,2009,3,Rice,209,521
+Kerala,3,2009,0,Arecanut,2753,3148
+Kerala,3,2009,0,Banana,2541,19506
+Kerala,3,2009,0,Black pepper,85739,25472
+Kerala,3,2009,0,Cardamom,33083,7077
+Kerala,3,2009,0,Cashewnut,1237,497
+Kerala,3,2009,0,Coconut ,17189,90000000
+Kerala,3,2009,0,Dry ginger,691,2316
+Kerala,3,2009,0,Garlic,336,5712
+Kerala,3,2009,0,Sugarcane,2201,222030
+Kerala,3,2009,0,Sweet potato,4,46
+Kerala,3,2009,0,Tapioca,6032,213318
+Kerala,3,2009,0,Turmeric,245,555
+Kerala,3,2009,4,Rice,1531,4106
+Kerala,3,2010,1,Rice,418.33,1083.47
+Kerala,3,2010,3,Rice,220.64,582.19
+Kerala,3,2010,0,Arecanut,2520.54,1789.52
+Kerala,3,2010,0,Banana,2665.37,23265.38
+Kerala,3,2010,0,Black pepper,87273.78,30919.38
+Kerala,3,2010,0,Cashewnut,1200.93,342.25
+Kerala,3,2010,0,Coconut ,17011.58,79789000
+Kerala,3,2010,0,Dry ginger,696.59,2693.07
+Kerala,3,2010,0,Sugarcane,2173.53,217410
+Kerala,3,2010,0,Tapioca,6222.55,240290.03
+Kerala,3,2010,0,Turmeric,226.21,559.01
+Kerala,3,2010,4,Rice,1180.4,3078.76
+Kerala,3,2011,1,Rice,259.85,626.12
+Kerala,3,2011,2,Sesamum,0.97,0.12
+Kerala,3,2011,3,Rice,66.07,157.18
+Kerala,3,2011,0,Arecanut,2708.92,2507.34
+Kerala,3,2011,0,Banana,2900.57,25338.1
+Kerala,3,2011,0,Black pepper,44010.47,22762.96
+Kerala,3,2011,0,Cashewnut,1497.12,507.95
+Kerala,3,2011,0,Coconut ,17158.12,94937000
+Kerala,3,2011,0,Dry ginger,654.25,3315.25
+Kerala,3,2011,0,Potato,3,35
+Kerala,3,2011,0,Sugarcane,2123.82,227197.2
+Kerala,3,2011,0,Tapioca,6317.9,261059.05
+Kerala,3,2011,0,Turmeric,204.36,628.87
+Kerala,3,2011,4,Rice,937.82,2352.15
+Kerala,3,2012,1,Rice,208,512
+Kerala,3,2012,3,Rice,91,166
+Kerala,3,2012,0,Arecanut,2569,2379
+Kerala,3,2012,0,Arhar/Tur,12,20
+Kerala,3,2012,0,Banana,3080,28844
+Kerala,3,2012,0,Black pepper,43755,30424
+Kerala,3,2012,0,Cardamom,33076,9286
+Kerala,3,2012,0,Cashewnut,1537,482
+Kerala,3,2012,0,Coconut ,17265,94000000
+Kerala,3,2012,0,Drum Stick,570,614
+Kerala,3,2012,0,Dry ginger,591,3445
+Kerala,3,2012,0,Garlic,72,658
+Kerala,3,2012,0,Jack Fruit,14631,
+Kerala,3,2012,0,Maize,3,3
+Kerala,3,2012,0,Mango,5486,53078
+Kerala,3,2012,0,Papaya,916,6251
+Kerala,3,2012,0,Pineapple,838,6879
+Kerala,3,2012,0,Potato,959,18758
+Kerala,3,2012,0,Pump Kin,52,
+Kerala,3,2012,0,Sugarcane,1371,14321
+Kerala,3,2012,0,Sweet potato,4,108
+Kerala,3,2012,0,Tapioca,6239,303380
+Kerala,3,2012,0,Turmeric,195,784
+Kerala,3,2012,0,Wheat,1,
+Kerala,3,2012,4,Rice,877,2505
+Kerala,3,2013,1,Rice,62,157
+Kerala,3,2013,3,Rice,39,105
+Kerala,3,2013,0,Arecanut,2381,1795
+Kerala,3,2013,0,Arhar/Tur,10,17
+Kerala,3,2013,0,Banana,3211,29664
+Kerala,3,2013,0,Black pepper,42924,15036
+Kerala,3,2013,0,Cardamom,31810,13040
+Kerala,3,2013,0,Cashewnut,1413,530
+Kerala,3,2013,0,Coconut ,16518,90000000
+Kerala,3,2013,0,Drum Stick,603,650
+Kerala,3,2013,0,Dry ginger,575,3302
+Kerala,3,2013,0,Garlic,146,1314
+Kerala,3,2013,0,Maize,2,3
+Kerala,3,2013,0,Mango,5642,49346
+Kerala,3,2013,0,Moong(Green Gram),1,
+Kerala,3,2013,0,Onion,6,
+Kerala,3,2013,0,Potato,759,14846
+Kerala,3,2013,0,Pump Kin,51,
+Kerala,3,2013,0,Sugarcane,1660,17559
+Kerala,3,2013,0,Sweet potato,4,108
+Kerala,3,2013,0,Tapioca,6332,313513
+Kerala,3,2013,0,Turmeric,185,733
+Kerala,3,2013,4,Rice,560,1534
+Kerala,3,2014,1,Rice,89,206
+Kerala,3,2014,3,Rice,33,89
+Kerala,3,2014,0,Arecanut,2264,1748
+Kerala,3,2014,0,Banana,3469,31893
+Kerala,3,2014,0,Black pepper,43852,23916
+Kerala,3,2014,0,Cardamom,31810,15000
+Kerala,3,2014,0,Cashewnut,1375,410
+Kerala,3,2014,0,Coconut ,16655,75000000
+Kerala,3,2014,0,Cowpea(Lobia),73,
+Kerala,3,2014,0,Dry ginger,520,3066
+Kerala,3,2014,0,Garlic,75,625
+Kerala,3,2014,0,Maize,2,5
+Kerala,3,2014,0,Onion,4,
+Kerala,3,2014,0,Potato,852,15811
+Kerala,3,2014,0,Pump Kin,59,
+Kerala,3,2014,0,Ragi,2,2
+Kerala,3,2014,0,Sugarcane,1068.9,11512
+Kerala,3,2014,0,Sweet potato,4,88
+Kerala,3,2014,0,Tapioca,7541,340911
+Kerala,3,2014,0,Turmeric,180,790
+Kerala,3,2014,0,Wheat,1,3
+Kerala,3,2014,4,Rice,575,1508
+Kerala,4,1997,0,Arecanut,10588,14786
+Kerala,4,1997,0,Black pepper,16488,4416
+Kerala,4,1997,0,Cashewnut,30111,37909
+Kerala,4,1997,0,Coconut ,137554,1009000
+Kerala,4,1997,0,Tapioca,4173,101291
+Kerala,4,1998,1,Rice,8665,14122
+Kerala,4,1998,2,Sesamum,14,18
+Kerala,4,1998,3,Rice,295,347
+Kerala,4,1998,0,Arecanut,12360,10794
+Kerala,4,1998,0,Banana,1453,16634
+Kerala,4,1998,0,Black pepper,23419,5236
+Kerala,4,1998,0,Cardamom,128,
+Kerala,4,1998,0,Cashewnut,27632,25774
+Kerala,4,1998,0,Coconut ,95118,529000000
+Kerala,4,1998,0,Dry chillies,12,10
+Kerala,4,1998,0,Dry ginger,314,1121
+Kerala,4,1998,0,Sugarcane,20,1410
+Kerala,4,1998,0,Sweet potato,27,306
+Kerala,4,1998,0,Tapioca,4733,124267
+Kerala,4,1998,0,Turmeric,307,1120
+Kerala,4,1998,4,Rice,4918,8071
+Kerala,4,1999,1,Rice,6898,11598
+Kerala,4,1999,3,Rice,264,334
+Kerala,4,1999,0,Arecanut,12630,12191
+Kerala,4,1999,0,Banana,1840,18024
+Kerala,4,1999,0,Black pepper,23301,3430
+Kerala,4,1999,0,Cardamom,128,
+Kerala,4,1999,0,Cashewnut,26101,35954
+Kerala,4,1999,0,Coconut ,95257,515000000
+Kerala,4,1999,0,Dry chillies,13,11
+Kerala,4,1999,0,Dry ginger,358,1395
+Kerala,4,1999,0,Sugarcane,4,650
+Kerala,4,1999,0,Sweet potato,26,295
+Kerala,4,1999,0,Tapioca,3996,86741
+Kerala,4,1999,0,Turmeric,323,1178
+Kerala,4,1999,4,Rice,4548,7868
+Kerala,4,2000,1,Rice,6926,12046
+Kerala,4,2000,2,Sesamum,10,6
+Kerala,4,2000,3,Rice,324,410
+Kerala,4,2000,0,Arecanut,13274,12923
+Kerala,4,2000,0,Banana,2035,16436
+Kerala,4,2000,0,Black pepper,24569,5038
+Kerala,4,2000,0,Cardamom,128,
+Kerala,4,2000,0,Cashewnut,27757,27621
+Kerala,4,2000,0,Coconut ,96975,621000000
+Kerala,4,2000,0,Dry ginger,240,859
+Kerala,4,2000,0,Sugarcane,5,810
+Kerala,4,2000,0,Sweet potato,22,250
+Kerala,4,2000,0,Tapioca,3945,90706
+Kerala,4,2000,0,Turmeric,279,761
+Kerala,4,2000,4,Rice,4541,8228
+Kerala,4,2001,1,Rice,5915,10557
+Kerala,4,2001,2,Sesamum,4,
+Kerala,4,2001,3,Rice,369,514
+Kerala,4,2001,0,Arecanut,14436,14237
+Kerala,4,2001,0,Banana,2480,17736
+Kerala,4,2001,0,Black pepper,23341,4412
+Kerala,4,2001,0,Cardamom,128,
+Kerala,4,2001,0,Cashewnut,27103,24087
+Kerala,4,2001,0,Coconut ,95712,604000000
+Kerala,4,2001,0,Dry ginger,345,1188
+Kerala,4,2001,0,Rubber,34012,38800
+Kerala,4,2001,0,Sweet potato,34,386
+Kerala,4,2001,0,Tapioca,3420,73011
+Kerala,4,2001,0,Turmeric,174,445
+Kerala,4,2001,4,Rice,4703,8392
+Kerala,4,2002,1,Rice,6369,11911
+Kerala,4,2002,2,Sesamum,1,
+Kerala,4,2002,3,Rice,318,428
+Kerala,4,2002,0,Arecanut,14182,14737
+Kerala,4,2002,0,Banana,2445,20280
+Kerala,4,2002,0,Bhindi,27,0
+Kerala,4,2002,0,Bitter Gourd,76,0
+Kerala,4,2002,0,Black pepper,22492,4362
+Kerala,4,2002,0,Brinjal,8,0
+Kerala,4,2002,0,Cardamom,128,
+Kerala,4,2002,0,Cashewnut,27123,25474
+Kerala,4,2002,0,Cashewnut Raw,27123,25474
+Kerala,4,2002,0,Coconut ,94217,559000000
+Kerala,4,2002,0,Drum Stick,2020,1541
+Kerala,4,2002,0,Dry ginger,266,942
+Kerala,4,2002,0,Jack Fruit,13828,46
+Kerala,4,2002,0,Mango,12003,57320
+Kerala,4,2002,0,Other Fresh Fruits,900,0
+Kerala,4,2002,0,other oilseeds,124,0
+Kerala,4,2002,0,Other Vegetables,1802,0
+Kerala,4,2002,0,Papaya,1741,9325
+Kerala,4,2002,0,Pineapple,349,2002
+Kerala,4,2002,0,Rubber,34085,40658
+Kerala,4,2002,0,Snak Guard,6,0
+Kerala,4,2002,0,Sugarcane,5,810
+Kerala,4,2002,0,Sweet potato,33,375
+Kerala,4,2002,0,Tapioca,3247,86223
+Kerala,4,2002,0,Turmeric,136,384
+Kerala,4,2002,4,Rice,4636,8455
+Kerala,4,2003,1,Rice,5287,10147
+Kerala,4,2003,2,Jowar,1,1
+Kerala,4,2003,3,Rice,191,202
+Kerala,4,2003,0,Arecanut,13489,14692
+Kerala,4,2003,0,Banana,2310,20157
+Kerala,4,2003,0,Bhindi,19,0
+Kerala,4,2003,0,Bitter Gourd,77,0
+Kerala,4,2003,0,Black pepper,22089,4078
+Kerala,4,2003,0,Brinjal,13,0
+Kerala,4,2003,0,Cardamom,128,
+Kerala,4,2003,0,Cashewnut,27817,25482
+Kerala,4,2003,0,Coconut ,95278,597000000
+Kerala,4,2003,0,Drum Stick,1948,1403
+Kerala,4,2003,0,Dry ginger,166,518
+Kerala,4,2003,0,Jack Fruit,13584,50
+Kerala,4,2003,0,Mango,11354,60681
+Kerala,4,2003,0,Other Fresh Fruits,795,0
+Kerala,4,2003,0,Other Vegetables,1774,0
+Kerala,4,2003,0,Papaya,1774,9509
+Kerala,4,2003,0,Pineapple,244,1427
+Kerala,4,2003,0,Snak Guard,18,0
+Kerala,4,2003,0,Sugarcane,3,490
+Kerala,4,2003,0,Sweet potato,21,239
+Kerala,4,2003,0,Tapioca,2659,76064
+Kerala,4,2003,0,Turmeric,112,291
+Kerala,4,2003,4,Rice,3983,6169
+Kerala,4,2004,1,Rice,4877,9257
+Kerala,4,2004,2,Sesamum,1,
+Kerala,4,2004,3,Rice,118,149
+Kerala,4,2004,0,Arecanut,13776,14743
+Kerala,4,2004,0,Banana,2493,22089
+Kerala,4,2004,0,Black pepper,22727,4716
+Kerala,4,2004,0,Cardamom,128,
+Kerala,4,2004,0,Cashewnut,25681,25230
+Kerala,4,2004,0,Coconut ,94518,642000000
+Kerala,4,2004,0,Dry ginger,149,529
+Kerala,4,2004,0,Sugarcane,4,650
+Kerala,4,2004,0,Sweet potato,27,307
+Kerala,4,2004,0,Tapioca,2607,66969
+Kerala,4,2004,0,Turmeric,146,389
+Kerala,4,2004,4,Rice,4107,7692
+Kerala,4,2005,1,Rice,5302,9980
+Kerala,4,2005,2,Jowar,1,
+Kerala,4,2005,2,Sesamum,4,0.6
+Kerala,4,2005,3,Rice,82,89
+Kerala,4,2005,0,Arecanut,14104,16486
+Kerala,4,2005,0,Banana,2554,27532
+Kerala,4,2005,0,Black pepper,22659,5473
+Kerala,4,2005,0,Cardamom,128,
+Kerala,4,2005,0,Cashewnut,25066,29252
+Kerala,4,2005,0,Coconut ,93934,692000000
+Kerala,4,2005,0,Dry ginger,76,279
+Kerala,4,2005,0,Sugarcane,8,780
+Kerala,4,2005,0,Sweet potato,38,432
+Kerala,4,2005,0,Tapioca,2442,63880
+Kerala,4,2005,0,Turmeric,104,304
+Kerala,4,2005,4,Rice,3839,7314
+Kerala,4,2006,1,Rice,4602,8733
+Kerala,4,2006,3,Rice,98,120
+Kerala,4,2006,0,Arecanut,12806,14207
+Kerala,4,2006,0,Banana,2728,25124
+Kerala,4,2006,0,Black pepper,15068,3139
+Kerala,4,2006,0,Cardamom,128,
+Kerala,4,2006,0,Cashewnut,25191,30786
+Kerala,4,2006,0,Coconut ,91393,640000000
+Kerala,4,2006,0,Dry ginger,160,697
+Kerala,4,2006,0,Sugarcane,2,30
+Kerala,4,2006,0,Sweet potato,40,455
+Kerala,4,2006,0,Tapioca,2102,60190
+Kerala,4,2006,0,Turmeric,163,570
+Kerala,4,2006,4,Rice,4142,8522
+Kerala,4,2007,1,Rice,3470,6321
+Kerala,4,2007,2,Sesamum,3,1
+Kerala,4,2007,3,Rice,121,189
+Kerala,4,2007,0,Arecanut,11262,10605
+Kerala,4,2007,0,Banana,2181,14353
+Kerala,4,2007,0,Black pepper,12533,1865
+Kerala,4,2007,0,Cardamom,128,
+Kerala,4,2007,0,Cashewnut,19366,25715
+Kerala,4,2007,0,Coconut ,82223,554000000
+Kerala,4,2007,0,Dry ginger,95,393
+Kerala,4,2007,0,Sugarcane,2,50
+Kerala,4,2007,0,Sweet potato,27,307
+Kerala,4,2007,0,Tapioca,1831,52367
+Kerala,4,2007,0,Turmeric,138,451
+Kerala,4,2007,4,Rice,3641,7601
+Kerala,4,2008,1,Rice,3723,6541
+Kerala,4,2008,3,Rice,118,192
+Kerala,4,2008,0,Arecanut,11520,14655
+Kerala,4,2008,0,Banana,2340,18192
+Kerala,4,2008,0,Black pepper,10211,2046
+Kerala,4,2008,0,Cardamom,128,
+Kerala,4,2008,0,Cashewnut,19372,20757
+Kerala,4,2008,0,Coconut ,77705,500000000
+Kerala,4,2008,0,Dry ginger,108,532
+Kerala,4,2008,0,Sugarcane,40,7220
+Kerala,4,2008,0,Sweet potato,29,330
+Kerala,4,2008,0,Tapioca,2111,69013
+Kerala,4,2008,0,Turmeric,141,461
+Kerala,4,2008,4,Rice,3808,6904
+Kerala,4,2009,1,Rice,4098,7843
+Kerala,4,2009,3,Rice,108,157
+Kerala,4,2009,0,Arecanut,10674,13516
+Kerala,4,2009,0,Banana,2566,18640
+Kerala,4,2009,0,Black pepper,9631,2505
+Kerala,4,2009,0,Cardamom,128,
+Kerala,4,2009,0,Cashewnut,19377,21595
+Kerala,4,2009,0,Coconut ,78024,479000000
+Kerala,4,2009,0,Dry ginger,87,352
+Kerala,4,2009,0,Sugarcane,1,150
+Kerala,4,2009,0,Sweet potato,28,318
+Kerala,4,2009,0,Tapioca,2083,77740
+Kerala,4,2009,0,Turmeric,118,349
+Kerala,4,2009,4,Rice,2924,5843
+Kerala,4,2010,1,Rice,3054.17,6536.19
+Kerala,4,2010,3,Rice,107.51,241.64
+Kerala,4,2010,0,Arecanut,11666.43,12018.1
+Kerala,4,2010,0,Banana,2371.63,19283.92
+Kerala,4,2010,0,Black pepper,9568.71,1739.63
+Kerala,4,2010,0,Cashewnut,17294.71,22521.87
+Kerala,4,2010,0,Coconut ,76916.76,528790000
+Kerala,4,2010,0,Dry ginger,76.61,387.11
+Kerala,4,2010,0,Sugarcane,1.24,175.19
+Kerala,4,2010,0,Tapioca,1818.66,64802.22
+Kerala,4,2010,0,Turmeric,94.5,350.19
+Kerala,4,2010,4,Rice,3176.82,6530.49
+Kerala,4,2011,1,Rice,2516.78,5093.77
+Kerala,4,2011,3,Rice,95.92,199.38
+Kerala,4,2011,0,Arecanut,10687.29,13925.23
+Kerala,4,2011,0,Banana,2103.78,18292.24
+Kerala,4,2011,0,Black pepper,4960.73,1928.49
+Kerala,4,2011,0,Cardamom,128,
+Kerala,4,2011,0,Cashewnut,23190.1,24205.48
+Kerala,4,2011,0,Coconut ,90350.48,644511000
+Kerala,4,2011,0,Dry ginger,76.41,360.19
+Kerala,4,2011,0,Potato,29,330
+Kerala,4,2011,0,Sugarcane,2.58,296.7
+Kerala,4,2011,0,Tapioca,1775.81,68253.15
+Kerala,4,2011,0,Turmeric,125.9,460.44
+Kerala,4,2011,4,Rice,3126.88,6876.57
+Kerala,4,2012,1,Rice,3618,7926
+Kerala,4,2012,3,Rice,56,101
+Kerala,4,2012,0,Arecanut,10649,13529
+Kerala,4,2012,0,Arhar/Tur,1,1
+Kerala,4,2012,0,Banana,2086,17936
+Kerala,4,2012,0,Black pepper,5018,2366
+Kerala,4,2012,0,Blackgram,115,
+Kerala,4,2012,0,Cardamom,128,
+Kerala,4,2012,0,Cashewnut,22585,26333
+Kerala,4,2012,0,Coconut ,86818,567000000
+Kerala,4,2012,0,Cowpea(Lobia),79,
+Kerala,4,2012,0,Drum Stick,1623,1306
+Kerala,4,2012,0,Dry ginger,66,289
+Kerala,4,2012,0,Horse-gram,6,
+Kerala,4,2012,0,Jack Fruit,8447,
+Kerala,4,2012,0,Mango,7797,37126
+Kerala,4,2012,0,Moong(Green Gram),42,
+Kerala,4,2012,0,Papaya,1736,12849
+Kerala,4,2012,0,Pineapple,113,737
+Kerala,4,2012,0,Pump Kin,60,
+Kerala,4,2012,0,Sugarcane,4,45
+Kerala,4,2012,0,Sweet potato,24,254
+Kerala,4,2012,0,Tapioca,1751,64224
+Kerala,4,2012,0,Turmeric,148,497
+Kerala,4,2012,4,Rice,3010,6210
+Kerala,4,2013,1,Rice,2684,5908
+Kerala,4,2013,3,Rice,20,46
+Kerala,4,2013,0,Arecanut,9959,12103
+Kerala,4,2013,0,Arhar/Tur,1,1
+Kerala,4,2013,0,Banana,1986,17663
+Kerala,4,2013,0,Black pepper,4765,1881
+Kerala,4,2013,0,Blackgram,246,
+Kerala,4,2013,0,Cashewnut,21238,20984
+Kerala,4,2013,0,Coconut ,85063,574000000
+Kerala,4,2013,0,Cowpea(Lobia),201,
+Kerala,4,2013,0,Drum Stick,1695,1364
+Kerala,4,2013,0,Dry ginger,43,182
+Kerala,4,2013,0,Horse-gram,3,
+Kerala,4,2013,0,Mango,7668,37622
+Kerala,4,2013,0,Moong(Green Gram),32,
+Kerala,4,2013,0,Pump Kin,45,
+Kerala,4,2013,0,Sugarcane,1,9
+Kerala,4,2013,0,Sweet potato,26,286
+Kerala,4,2013,0,Tapioca,1553,60042
+Kerala,4,2013,0,Turmeric,101,295
+Kerala,4,2013,4,Rice,2376,5339
+Kerala,4,2014,1,Rice,2638,5905
+Kerala,4,2014,3,Rice,11,25
+Kerala,4,2014,0,Arecanut,9180,10660
+Kerala,4,2014,0,Banana,2298,19593
+Kerala,4,2014,0,Black pepper,4626,2146
+Kerala,4,2014,0,Blackgram,240,
+Kerala,4,2014,0,Cashewnut,20351,18570
+Kerala,4,2014,0,Coconut ,85807,533000000
+Kerala,4,2014,0,Cowpea(Lobia),182,
+Kerala,4,2014,0,Dry ginger,55,248
+Kerala,4,2014,0,Horse-gram,10,
+Kerala,4,2014,0,Moong(Green Gram),65,
+Kerala,4,2014,0,Pump Kin,83,
+Kerala,4,2014,0,Sesamum,1,0.33
+Kerala,4,2014,0,Sugarcane,3.43,46
+Kerala,4,2014,0,Sweet potato,32,353
+Kerala,4,2014,0,Tapioca,2127,85880
+Kerala,4,2014,0,Turmeric,135,479
+Kerala,4,2014,4,Rice,2306,5234
+Kerala,5,1997,0,Arecanut,9170,13737
+Kerala,5,1997,0,Black pepper,3947,793
+Kerala,5,1997,0,Cashewnut,13643,9487
+Kerala,5,1997,0,Coconut ,41011,227000
+Kerala,5,1997,0,Tapioca,493,10554
+Kerala,5,1998,1,Rice,4806,10048
+Kerala,5,1998,3,Rice,261,366
+Kerala,5,1998,0,Arecanut,10832,17899
+Kerala,5,1998,0,Banana,727,9427
+Kerala,5,1998,0,Black pepper,6199,1287
+Kerala,5,1998,0,Cardamom,515,
+Kerala,5,1998,0,Cashewnut,21801,6605
+Kerala,5,1998,0,Coconut ,48596,337000000
+Kerala,5,1998,0,Dry chillies,138,129
+Kerala,5,1998,0,Dry ginger,46,182
+Kerala,5,1998,0,Sugarcane,2,40
+Kerala,5,1998,0,Sweet potato,116,2116
+Kerala,5,1998,0,Tapioca,1092,27847
+Kerala,5,1998,0,Tobacco,41,228
+Kerala,5,1998,0,Turmeric,39,67
+Kerala,5,1998,4,Rice,2941,5617
+Kerala,5,1999,1,Rice,4749,9280
+Kerala,5,1999,2,Sesamum,26,14
+Kerala,5,1999,3,Rice,217,426
+Kerala,5,1999,0,Arecanut,12738,25032
+Kerala,5,1999,0,Banana,792,8778
+Kerala,5,1999,0,Black pepper,7051,1568
+Kerala,5,1999,0,Cardamom,515,1
+Kerala,5,1999,0,Cashewnut,19962,10530
+Kerala,5,1999,0,Coconut ,56183,364000000
+Kerala,5,1999,0,Dry chillies,149,139
+Kerala,5,1999,0,Dry ginger,129,495
+Kerala,5,1999,0,Sugarcane,2,70
+Kerala,5,1999,0,Sweet potato,78,1423
+Kerala,5,1999,0,Tapioca,1280,25479
+Kerala,5,1999,0,Tobacco,44,245
+Kerala,5,1999,0,Turmeric,70,120
+Kerala,5,1999,4,Rice,3420,6290
+Kerala,5,2000,1,Rice,5200,9978
+Kerala,5,2000,2,Sesamum,4,
+Kerala,5,2000,3,Rice,285,514
+Kerala,5,2000,0,Arecanut,13515,26359
+Kerala,5,2000,0,Banana,983,8493
+Kerala,5,2000,0,Black pepper,6229,1226
+Kerala,5,2000,0,Cardamom,515,
+Kerala,5,2000,0,Cashewnut,20448,18415
+Kerala,5,2000,0,Coconut ,59073,469000000
+Kerala,5,2000,0,Dry ginger,139,444
+Kerala,5,2000,0,Sugarcane,3,110
+Kerala,5,2000,0,Sweet potato,66,1204
+Kerala,5,2000,0,Tapioca,1373,27755
+Kerala,5,2000,0,Tobacco,213,1186
+Kerala,5,2000,0,Turmeric,87,186
+Kerala,5,2000,4,Rice,3673,6992
+Kerala,5,2001,1,Rice,4602,10052
+Kerala,5,2001,2,Jowar,2,1
+Kerala,5,2001,3,Rice,195,326
+Kerala,5,2001,0,Arecanut,14579,21813
+Kerala,5,2001,0,Banana,750,6442
+Kerala,5,2001,0,Black pepper,6478,1376
+Kerala,5,2001,0,Cardamom,515,
+Kerala,5,2001,0,Cashewnut,19936,21996
+Kerala,5,2001,0,Coconut ,57285,438000000
+Kerala,5,2001,0,Dry ginger,158,591
+Kerala,5,2001,0,Rubber,22348,24125
+Kerala,5,2001,0,Sweet potato,107,1952
+Kerala,5,2001,0,Tapioca,1326,30136
+Kerala,5,2001,0,Tobacco,71,395
+Kerala,5,2001,0,Turmeric,89,223
+Kerala,5,2001,4,Rice,2616,5259
+Kerala,5,2002,1,Rice,4408,10094
+Kerala,5,2002,3,Rice,148,250
+Kerala,5,2002,0,Arecanut,15183,30363
+Kerala,5,2002,0,Banana,764,7690
+Kerala,5,2002,0,Bhindi,29,0
+Kerala,5,2002,0,Bitter Gourd,41,0
+Kerala,5,2002,0,Black pepper,6948,2052
+Kerala,5,2002,0,Brinjal,10,0
+Kerala,5,2002,0,Cardamom,515,
+Kerala,5,2002,0,Cashewnut,20218,20737
+Kerala,5,2002,0,Cashewnut Raw,20218,20737
+Kerala,5,2002,0,Coconut ,56236,409000000
+Kerala,5,2002,0,Drum Stick,687,1028
+Kerala,5,2002,0,Dry ginger,147,545
+Kerala,5,2002,0,Jack Fruit,2745,12
+Kerala,5,2002,0,Mango,3041,15692
+Kerala,5,2002,0,Other Fresh Fruits,650,0
+Kerala,5,2002,0,other oilseeds,50,0
+Kerala,5,2002,0,Other Vegetables,1075,0
+Kerala,5,2002,0,Papaya,636,3914
+Kerala,5,2002,0,Pineapple,88,774
+Kerala,5,2002,0,Rubber,22420,25795
+Kerala,5,2002,0,Snak Guard,5,0
+Kerala,5,2002,0,Sugarcane,6,220
+Kerala,5,2002,0,Sweet potato,175,3193
+Kerala,5,2002,0,Tapioca,1148,27417
+Kerala,5,2002,0,Tobacco,90,501
+Kerala,5,2002,0,Turmeric,68,162
+Kerala,5,2002,4,Rice,2640,5300
+Kerala,5,2003,1,Rice,3756,9315
+Kerala,5,2003,2,Jowar,3,1
+Kerala,5,2003,2,Small millets,5,3
+Kerala,5,2003,3,Rice,73,109
+Kerala,5,2003,0,Arecanut,15832,29577
+Kerala,5,2003,0,Banana,717,7272
+Kerala,5,2003,0,Bhindi,54,0
+Kerala,5,2003,0,Bitter Gourd,61,0
+Kerala,5,2003,0,Black pepper,7371,2136
+Kerala,5,2003,0,Brinjal,11,0
+Kerala,5,2003,0,Cardamom,368,1
+Kerala,5,2003,0,Cashewnut,19389,21346
+Kerala,5,2003,0,Coconut ,57811,419000000
+Kerala,5,2003,0,Drum Stick,718,1077
+Kerala,5,2003,0,Dry ginger,116,423
+Kerala,5,2003,0,Jack Fruit,2819,13
+Kerala,5,2003,0,Mango,3148,18568
+Kerala,5,2003,0,Other Fresh Fruits,582,0
+Kerala,5,2003,0,Other Vegetables,1071,0
+Kerala,5,2003,0,Papaya,665,4090
+Kerala,5,2003,0,Pineapple,114,852
+Kerala,5,2003,0,Snak Guard,2,0
+Kerala,5,2003,0,Sugarcane,1,40
+Kerala,5,2003,0,Sweet potato,182,3320
+Kerala,5,2003,0,Tapioca,757,18629
+Kerala,5,2003,0,Tobacco,76,423
+Kerala,5,2003,0,Turmeric,68,153
+Kerala,5,2003,4,Rice,2434,4963
+Kerala,5,2004,1,Rice,3059,7270
+Kerala,5,2004,2,Other Cereals & Millets,1,1
+Kerala,5,2004,3,Rice,92,175
+Kerala,5,2004,0,Arecanut,17432,31702
+Kerala,5,2004,0,Banana,780,6507
+Kerala,5,2004,0,Black pepper,6876,2015
+Kerala,5,2004,0,Cardamom,367,1
+Kerala,5,2004,0,Cashewnut,18341,17208
+Kerala,5,2004,0,Coconut ,57906,471000000
+Kerala,5,2004,0,Dry ginger,104,340
+Kerala,5,2004,0,Sugarcane,2,80
+Kerala,5,2004,0,Sweet potato,155,2827
+Kerala,5,2004,0,Tapioca,717,18690
+Kerala,5,2004,0,Tobacco,40,223
+Kerala,5,2004,0,Turmeric,74,148
+Kerala,5,2004,4,Rice,2524,5160
+Kerala,5,2005,1,Rice,3237,8234
+Kerala,5,2005,2,Jowar,2,1
+Kerala,5,2005,2,Sesamum,3,2
+Kerala,5,2005,3,Rice,160,364
+Kerala,5,2005,0,Arecanut,17622,32701
+Kerala,5,2005,0,Banana,789,7130
+Kerala,5,2005,0,Black pepper,6672,1950
+Kerala,5,2005,0,Cardamom,367,1
+Kerala,5,2005,0,Cashewnut,18068,17925
+Kerala,5,2005,0,Coconut ,58088,426000000
+Kerala,5,2005,0,Dry ginger,56,195
+Kerala,5,2005,0,Sugarcane,2,10
+Kerala,5,2005,0,Sweet potato,173,3156
+Kerala,5,2005,0,Tapioca,576,13752
+Kerala,5,2005,0,Tobacco,43,69
+Kerala,5,2005,0,Turmeric,50,118
+Kerala,5,2005,4,Rice,2633,5188
+Kerala,5,2006,1,Rice,2766,6592
+Kerala,5,2006,2,Jowar,4,2
+Kerala,5,2006,2,Sesamum,1,1
+Kerala,5,2006,3,Rice,188,404
+Kerala,5,2006,0,Arecanut,14910,35289
+Kerala,5,2006,0,Banana,778,7485
+Kerala,5,2006,0,Black pepper,6657,1957
+Kerala,5,2006,0,Cardamom,368,1
+Kerala,5,2006,0,Cashewnut,14518,14897
+Kerala,5,2006,0,Coconut ,58236,395000000
+Kerala,5,2006,0,Dry ginger,60,266
+Kerala,5,2006,0,Sugarcane,2,20
+Kerala,5,2006,0,Sweet potato,122,2226
+Kerala,5,2006,0,Tapioca,503,12278
+Kerala,5,2006,0,Tobacco,31,50
+Kerala,5,2006,0,Turmeric,57,86
+Kerala,5,2006,4,Rice,2369,5146
+Kerala,5,2007,1,Rice,3060,6628
+Kerala,5,2007,2,Jowar,8,4
+Kerala,5,2007,2,Sesamum,1,1
+Kerala,5,2007,3,Rice,168,311
+Kerala,5,2007,0,Arecanut,15060,43474
+Kerala,5,2007,0,Banana,685,7704
+Kerala,5,2007,0,Black pepper,6660,1583
+Kerala,5,2007,0,Cardamom,368,
+Kerala,5,2007,0,Cashewnut,11667,11210
+Kerala,5,2007,0,Coconut ,57057,445000000
+Kerala,5,2007,0,Dry ginger,65,235
+Kerala,5,2007,0,Sugarcane,1,50
+Kerala,5,2007,0,Sweet potato,130,2372
+Kerala,5,2007,0,Tapioca,452,9815
+Kerala,5,2007,0,Tobacco,43,69
+Kerala,5,2007,0,Turmeric,39,96
+Kerala,5,2007,4,Rice,1936,4024
+Kerala,5,2008,1,Rice,2796,6682
+Kerala,5,2008,2,Jowar,5,3
+Kerala,5,2008,2,Other Cereals & Millets,1,1
+Kerala,5,2008,2,Ragi,1,1
+Kerala,5,2008,3,Rice,170,326
+Kerala,5,2008,0,Arecanut,14927,37446
+Kerala,5,2008,0,Banana,401,3231
+Kerala,5,2008,0,Black pepper,5407,1386
+Kerala,5,2008,0,Cardamom,368,
+Kerala,5,2008,0,Cashewnut,9487,10347
+Kerala,5,2008,0,Coconut ,52266,439000000
+Kerala,5,2008,0,Dry ginger,17,60
+Kerala,5,2008,0,Sugarcane,1,
+Kerala,5,2008,0,Sweet potato,82,1496
+Kerala,5,2008,0,Tapioca,245,5672
+Kerala,5,2008,0,Tobacco,39,63
+Kerala,5,2008,0,Turmeric,21,48
+Kerala,5,2008,4,Rice,2025,4035
+Kerala,5,2009,1,Rice,2464,5678
+Kerala,5,2009,2,Jowar,5,3
+Kerala,5,2009,2,Ragi,1,
+Kerala,5,2009,3,Rice,116,238
+Kerala,5,2009,0,Arecanut,15256,27680
+Kerala,5,2009,0,Banana,475,3715
+Kerala,5,2009,0,Black pepper,4764,1098
+Kerala,5,2009,0,Cardamom,368,
+Kerala,5,2009,0,Cashewnut,8205,5189
+Kerala,5,2009,0,Coconut ,54224,416000000
+Kerala,5,2009,0,Dry ginger,22,77
+Kerala,5,2009,0,Sugarcane,1,60
+Kerala,5,2009,0,Sweet potato,47,858
+Kerala,5,2009,0,Tapioca,389,8849
+Kerala,5,2009,0,Tobacco,29,34
+Kerala,5,2009,0,Turmeric,22,44
+Kerala,5,2009,4,Rice,1814,3344
+Kerala,5,2010,1,Rice,2283.99,5824.31
+Kerala,5,2010,3,Rice,414.04,976.06
+Kerala,5,2010,0,Arecanut,18038.61,30036.14
+Kerala,5,2010,0,Banana,384.46,4379.7
+Kerala,5,2010,0,Black pepper,6830.35,2538.97
+Kerala,5,2010,0,Cashewnut,6803.06,5131.57
+Kerala,5,2010,0,Coconut ,56173.75,418372000
+Kerala,5,2010,0,Dry ginger,22.06,66.14
+Kerala,5,2010,0,Sugarcane,1.01,31.36
+Kerala,5,2010,0,Tapioca,335.26,8059.06
+Kerala,5,2010,0,Turmeric,20.2,49.18
+Kerala,5,2010,4,Rice,1457.39,3033.99
+Kerala,5,2011,1,Rice,2021.02,4751.35
+Kerala,5,2011,3,Rice,334.66,872.35
+Kerala,5,2011,0,Arecanut,19551.82,38142.91
+Kerala,5,2011,0,Banana,509.32,3188.9
+Kerala,5,2011,0,Black pepper,2729.21,2192.7
+Kerala,5,2011,0,Cardamom,368,
+Kerala,5,2011,0,Cashewnut,8250.07,5683.95
+Kerala,5,2011,0,Coconut ,59655.93,508038000
+Kerala,5,2011,0,Dry ginger,22.66,74.94
+Kerala,5,2011,0,Potato,82,1496
+Kerala,5,2011,0,Sugarcane,0.63,5
+Kerala,5,2011,0,Tapioca,292.1,7255.59
+Kerala,5,2011,0,Tobacco,43,69
+Kerala,5,2011,0,Turmeric,22.49,54.48
+Kerala,5,2011,4,Rice,1501.35,2931.77
+Kerala,5,2012,1,Rice,1883,4831
+Kerala,5,2012,3,Rice,268,628
+Kerala,5,2012,0,Arecanut,18937,36797
+Kerala,5,2012,0,Arhar/Tur,14,24
+Kerala,5,2012,0,Banana,529,4671
+Kerala,5,2012,0,Black pepper,2707,1596
+Kerala,5,2012,0,Blackgram,25,
+Kerala,5,2012,0,Cardamom,368,
+Kerala,5,2012,0,Cashewnut,7981,5144
+Kerala,5,2012,0,Coconut ,58836,469000000
+Kerala,5,2012,0,Cowpea(Lobia),20,
+Kerala,5,2012,0,Drum Stick,594,572
+Kerala,5,2012,0,Dry ginger,20,56
+Kerala,5,2012,0,Horse-gram,5,
+Kerala,5,2012,0,Jack Fruit,2433,
+Kerala,5,2012,0,Jowar,1,1
+Kerala,5,2012,0,Mango,2163,6261
+Kerala,5,2012,0,Moong(Green Gram),7,
+Kerala,5,2012,0,Papaya,738,5151
+Kerala,5,2012,0,Pineapple,52,310
+Kerala,5,2012,0,Pump Kin,28,
+Kerala,5,2012,0,Sugarcane,2,6
+Kerala,5,2012,0,Sweet potato,53,1533
+Kerala,5,2012,0,Tapioca,274,6048
+Kerala,5,2012,0,Tobacco,13,23
+Kerala,5,2012,0,Turmeric,22,45
+Kerala,5,2012,4,Rice,1363,2657
+Kerala,5,2013,1,Rice,2091,5093
+Kerala,5,2013,3,Rice,407,926
+Kerala,5,2013,0,Arecanut,19488,33652
+Kerala,5,2013,0,Arhar/Tur,8,14
+Kerala,5,2013,0,Banana,487,3420
+Kerala,5,2013,0,Black pepper,2927,1809
+Kerala,5,2013,0,Blackgram,6,
+Kerala,5,2013,0,Cashewnut,7811,6193
+Kerala,5,2013,0,Coconut ,61836,602000000
+Kerala,5,2013,0,Cowpea(Lobia),20,
+Kerala,5,2013,0,Drum Stick,548,528
+Kerala,5,2013,0,Dry ginger,29,63
+Kerala,5,2013,0,Horse-gram,3,
+Kerala,5,2013,0,Jowar,1,1
+Kerala,5,2013,0,Mango,2170,7509
+Kerala,5,2013,0,Moong(Green Gram),5,
+Kerala,5,2013,0,Pump Kin,21,
+Kerala,5,2013,0,Sesamum,1,
+Kerala,5,2013,0,Sugarcane,1,
+Kerala,5,2013,0,Sweet potato,49,1421
+Kerala,5,2013,0,Tapioca,331,9826
+Kerala,5,2013,0,Tobacco,9,17
+Kerala,5,2013,0,Turmeric,34,55
+Kerala,5,2013,4,Rice,1707,3420
+Kerala,5,2014,1,Rice,1629,3863
+Kerala,5,2014,3,Rice,296,677
+Kerala,5,2014,0,Arecanut,18733,51406
+Kerala,5,2014,0,Banana,665,4890
+Kerala,5,2014,0,Black pepper,3084,2077
+Kerala,5,2014,0,Blackgram,22,
+Kerala,5,2014,0,Cashewnut,7182,6323
+Kerala,5,2014,0,Coconut ,63791,705000000
+Kerala,5,2014,0,Cowpea(Lobia),96,
+Kerala,5,2014,0,Dry ginger,16,66
+Kerala,5,2014,0,Horse-gram,12,
+Kerala,5,2014,0,Moong(Green Gram),10,
+Kerala,5,2014,0,Pump Kin,33,
+Kerala,5,2014,0,Sugarcane,0.66,
+Kerala,5,2014,0,Sweet potato,61,1138
+Kerala,5,2014,0,Tapioca,413,12926
+Kerala,5,2014,0,Tobacco,13,21
+Kerala,5,2014,0,Turmeric,34,103
+Kerala,5,2014,4,Rice,740,1555
+Kerala,6,1997,0,Arecanut,2626,2430
+Kerala,6,1997,0,Black pepper,10911,3554
+Kerala,6,1997,0,Cashewnut,6002,4991
+Kerala,6,1997,0,Coconut ,87179,404000
+Kerala,6,1997,0,Tapioca,31028,619474
+Kerala,6,1998,1,Rice,7549,14574
+Kerala,6,1998,2,Sesamum,727,260
+Kerala,6,1998,0,Arecanut,1941,1593
+Kerala,6,1998,0,Banana,1390,17276
+Kerala,6,1998,0,Black pepper,9256,2828
+Kerala,6,1998,0,Cashewnut,5180,3032
+Kerala,6,1998,0,Coconut ,75614,350000000
+Kerala,6,1998,0,Dry chillies,6,6
+Kerala,6,1998,0,Dry ginger,442,1331
+Kerala,6,1998,0,Tapioca,28005,532109
+Kerala,6,1998,0,Turmeric,160,238
+Kerala,6,1998,4,Rice,10022,18737
+Kerala,6,1999,1,Rice,7649,15737
+Kerala,6,1999,2,Sesamum,581,166
+Kerala,6,1999,3,Rice,10,13
+Kerala,6,1999,0,Arecanut,2235,1442
+Kerala,6,1999,0,Banana,1489,15742
+Kerala,6,1999,0,Black pepper,10170,3269
+Kerala,6,1999,0,Cashewnut,4604,2662
+Kerala,6,1999,0,Coconut ,79906,399000000
+Kerala,6,1999,0,Dry ginger,480,1213
+Kerala,6,1999,0,Sweet potato,1,11
+Kerala,6,1999,0,Tapioca,25678,470705
+Kerala,6,1999,0,Turmeric,184,274
+Kerala,6,1999,4,Rice,9767,19333
+Kerala,6,2000,1,Rice,6703,14645
+Kerala,6,2000,2,Sesamum,455,229
+Kerala,6,2000,3,Rice,4,4
+Kerala,6,2000,0,Arecanut,2442,1144
+Kerala,6,2000,0,Banana,1743,10253
+Kerala,6,2000,0,Black pepper,10418,3713
+Kerala,6,2000,0,Cardamom,6,
+Kerala,6,2000,0,Cashewnut,4955,3630
+Kerala,6,2000,0,Coconut ,79709,387000000
+Kerala,6,2000,0,Dry ginger,534,1303
+Kerala,6,2000,0,Sugarcane,3,310
+Kerala,6,2000,0,Sweet potato,2,22
+Kerala,6,2000,0,Tapioca,26484,566274
+Kerala,6,2000,0,Turmeric,187,285
+Kerala,6,2000,4,Rice,8232,16163
+Kerala,6,2001,1,Rice,5263,11232
+Kerala,6,2001,2,Sesamum,93,44
+Kerala,6,2001,3,Rice,8,19
+Kerala,6,2001,0,Arecanut,2382,1321
+Kerala,6,2001,0,Banana,1613,12400
+Kerala,6,2001,0,Black pepper,11381,4275
+Kerala,6,2001,0,Cardamom,7,
+Kerala,6,2001,0,Cashewnut,4772,3756
+Kerala,6,2001,0,Coconut ,74956,425000000
+Kerala,6,2001,0,Dry ginger,732,1762
+Kerala,6,2001,0,Rubber,36863,46854
+Kerala,6,2001,0,Sugarcane,6,620
+Kerala,6,2001,0,Sweet potato,2,22
+Kerala,6,2001,0,Tapioca,26114,559896
+Kerala,6,2001,0,Tea,1258,367
+Kerala,6,2001,0,Turmeric,298,418
+Kerala,6,2001,4,Rice,6188,13682
+Kerala,6,2002,1,Rice,4626,10122
+Kerala,6,2002,2,Jowar,2,1
+Kerala,6,2002,2,Sesamum,106,60
+Kerala,6,2002,3,Rice,24,27
+Kerala,6,2002,0,Arecanut,2502,1710
+Kerala,6,2002,0,Banana,1800,14596
+Kerala,6,2002,0,Bhindi,39,13
+Kerala,6,2002,0,Bitter Gourd,117,0
+Kerala,6,2002,0,Black pepper,10633,3235
+Kerala,6,2002,0,Brinjal,103,0
+Kerala,6,2002,0,Cardamom,11,
+Kerala,6,2002,0,Cashewnut,4663,3043
+Kerala,6,2002,0,Cashewnut Raw,4663,3043
+Kerala,6,2002,0,Coconut ,71310,411000000
+Kerala,6,2002,0,Drum Stick,1745,3191
+Kerala,6,2002,0,Dry ginger,612,1648
+Kerala,6,2002,0,Jack Fruit,6142,22
+Kerala,6,2002,0,Mango,5211,27221
+Kerala,6,2002,0,Other Fresh Fruits,448,0
+Kerala,6,2002,0,other oilseeds,32,0
+Kerala,6,2002,0,Other Vegetables,4743,0
+Kerala,6,2002,0,Papaya,1099,1021
+Kerala,6,2002,0,Pineapple,566,4497
+Kerala,6,2002,0,Rubber,36797,48386
+Kerala,6,2002,0,Snak Guard,18,0
+Kerala,6,2002,0,Sugarcane,1,100
+Kerala,6,2002,0,Sweet potato,6,66
+Kerala,6,2002,0,Tapioca,24065,556140
+Kerala,6,2002,0,Turmeric,258,449
+Kerala,6,2002,4,Rice,6807,14055
+Kerala,6,2003,1,Rice,3412,7693
+Kerala,6,2003,2,Jowar,1,1
+Kerala,6,2003,2,Sesamum,175,86
+Kerala,6,2003,2,Small millets,2,0
+Kerala,6,2003,3,Rice,20,
+Kerala,6,2003,0,Arecanut,2322,1380
+Kerala,6,2003,0,Banana,1600,12176
+Kerala,6,2003,0,Bhindi,27,0
+Kerala,6,2003,0,Bitter Gourd,140,0
+Kerala,6,2003,0,Black pepper,11305,3301
+Kerala,6,2003,0,Brinjal,57,0
+Kerala,6,2003,0,Cardamom,6,
+Kerala,6,2003,0,Cashewnut,4404,3218
+Kerala,6,2003,0,Coconut ,67531,439000000
+Kerala,6,2003,0,Drum Stick,1762,3224
+Kerala,6,2003,0,Dry ginger,432,1224
+Kerala,6,2003,0,Jack Fruit,6029,28
+Kerala,6,2003,0,Mango,5060,27296
+Kerala,6,2003,0,Other Fresh Fruits,479,0
+Kerala,6,2003,0,Other Vegetables,4049,0
+Kerala,6,2003,0,Papaya,1120,1042
+Kerala,6,2003,0,Pineapple,504,4206
+Kerala,6,2003,0,Snak Guard,31,0
+Kerala,6,2003,0,Sugarcane,2,200
+Kerala,6,2003,0,Sweet potato,13,143
+Kerala,6,2003,0,Tapioca,22253,581214
+Kerala,6,2003,0,Turmeric,162,269
+Kerala,6,2003,4,Rice,6755,14726
+Kerala,6,2004,1,Rice,3589,8695
+Kerala,6,2004,2,Sesamum,183,88
+Kerala,6,2004,0,Arecanut,2525,1392
+Kerala,6,2004,0,Banana,1713,11882
+Kerala,6,2004,0,Black pepper,13565,3743
+Kerala,6,2004,0,Cardamom,7,
+Kerala,6,2004,0,Cashewnut,4666,3160
+Kerala,6,2004,0,Coconut ,66153,444000000
+Kerala,6,2004,0,Dry ginger,557,1418
+Kerala,6,2004,0,Sugarcane,3,300
+Kerala,6,2004,0,Sweet potato,14,154
+Kerala,6,2004,0,Tapioca,21817,577573
+Kerala,6,2004,0,Turmeric,195,304
+Kerala,6,2004,4,Rice,5360,11951
+Kerala,6,2005,1,Rice,2571,5713
+Kerala,6,2005,2,Sesamum,101,69
+Kerala,6,2005,3,Rice,3,5
+Kerala,6,2005,0,Arecanut,2485,1794
+Kerala,6,2005,0,Banana,1772,12846
+Kerala,6,2005,0,Black pepper,13509,4625
+Kerala,6,2005,0,Cardamom,12,
+Kerala,6,2005,0,Cashewnut,4271,3003
+Kerala,6,2005,0,Coconut ,66134,504000000
+Kerala,6,2005,0,Dry ginger,676,1999
+Kerala,6,2005,0,Sugarcane,2,120
+Kerala,6,2005,0,Sweet potato,19,209
+Kerala,6,2005,0,Tapioca,23814,694984
+Kerala,6,2005,0,Turmeric,264,484
+Kerala,6,2005,4,Rice,4644,10345
+Kerala,6,2006,1,Rice,1615,3904
+Kerala,6,2006,2,Sesamum,52,31
+Kerala,6,2006,3,Rice,3,4
+Kerala,6,2006,0,Arecanut,2398,1699
+Kerala,6,2006,0,Banana,1917,11776
+Kerala,6,2006,0,Black pepper,10873,3158
+Kerala,6,2006,0,Cardamom,12,
+Kerala,6,2006,0,Cashewnut,3701,2424
+Kerala,6,2006,0,Coconut ,65392,512000000
+Kerala,6,2006,0,Dry ginger,529,1525
+Kerala,6,2006,0,Sugarcane,1,20
+Kerala,6,2006,0,Sweet potato,14,154
+Kerala,6,2006,0,Tapioca,21863,596629
+Kerala,6,2006,0,Turmeric,266,510
+Kerala,6,2006,4,Rice,3879,8672
+Kerala,6,2007,1,Rice,1046,2478
+Kerala,6,2007,2,Sesamum,100,40
+Kerala,6,2007,3,Rice,60,97
+Kerala,6,2007,0,Arecanut,2297,1382
+Kerala,6,2007,0,Banana,2053,13165
+Kerala,6,2007,0,Black pepper,8988,2018
+Kerala,6,2007,0,Cardamom,7,
+Kerala,6,2007,0,Cashewnut,3274,1669
+Kerala,6,2007,0,Coconut ,58575,378000000
+Kerala,6,2007,0,Dry ginger,441,1125
+Kerala,6,2007,0,Sugarcane,2,40
+Kerala,6,2007,0,Sweet potato,8,88
+Kerala,6,2007,0,Tapioca,21281,650489
+Kerala,6,2007,0,Turmeric,239,441
+Kerala,6,2007,4,Rice,2432,5413
+Kerala,6,2008,1,Rice,1318,2983
+Kerala,6,2008,2,Ragi,1,1
+Kerala,6,2008,2,Sesamum,165,94
+Kerala,6,2008,3,Rice,118,83
+Kerala,6,2008,0,Arecanut,2236,1686
+Kerala,6,2008,0,Banana,1806,12436
+Kerala,6,2008,0,Black pepper,8527,1613
+Kerala,6,2008,0,Cashewnut,2989,1340
+Kerala,6,2008,0,Coconut ,58397,443000000
+Kerala,6,2008,0,Dry ginger,375,892
+Kerala,6,2008,0,Sugarcane,1,
+Kerala,6,2008,0,Sweet potato,8,88
+Kerala,6,2008,0,Tapioca,19208,546135
+Kerala,6,2008,0,Turmeric,244,424
+Kerala,6,2008,4,Rice,2423,5226
+Kerala,6,2009,1,Rice,878,2060
+Kerala,6,2009,2,Sesamum,133,86
+Kerala,6,2009,3,Rice,104,194
+Kerala,6,2009,0,Arecanut,2122,1587
+Kerala,6,2009,0,Banana,2068,13624
+Kerala,6,2009,0,Black pepper,8138,1501
+Kerala,6,2009,0,Cashewnut,2858,1271
+Kerala,6,2009,0,Coconut ,56675,412000000
+Kerala,6,2009,0,Dry ginger,390,898
+Kerala,6,2009,0,Sugarcane,2,
+Kerala,6,2009,0,Sweet potato,12,132
+Kerala,6,2009,0,Tapioca,16933,503095
+Kerala,6,2009,0,Turmeric,240,341
+Kerala,6,2009,4,Rice,2471,5693
+Kerala,6,2010,1,Rice,960.36,2158.51
+Kerala,6,2010,2,Sesamum,190.85,129.21
+Kerala,6,2010,3,Rice,80.58,136.73
+Kerala,6,2010,0,Arecanut,2006.87,1164.47
+Kerala,6,2010,0,Banana,2053.96,15902.09
+Kerala,6,2010,0,Black pepper,7932.31,1311.97
+Kerala,6,2010,0,Cashewnut,2774.95,926.45
+Kerala,6,2010,0,Coconut ,56059.5,377754000
+Kerala,6,2010,0,Dry ginger,386.97,877.9
+Kerala,6,2010,0,Sugarcane,0.5,
+Kerala,6,2010,0,Tapioca,16172.48,454879.62
+Kerala,6,2010,0,Turmeric,244.58,347.26
+Kerala,6,2010,4,Rice,2300.57,4859.45
+Kerala,6,2011,1,Rice,619.89,1396.29
+Kerala,6,2011,2,Sesamum,54.59,32.22
+Kerala,6,2011,3,Rice,23.85,36.92
+Kerala,6,2011,0,Arecanut,2443.6,2005.8
+Kerala,6,2011,0,Banana,1693.98,12325.57
+Kerala,6,2011,0,Black pepper,3885.03,1395.06
+Kerala,6,2011,0,Cashewnut,3352.45,914.46
+Kerala,6,2011,0,Coconut ,55303.75,426635000
+Kerala,6,2011,0,Dry ginger,397.68,884.98
+Kerala,6,2011,0,Potato,8,88
+Kerala,6,2011,0,Sugarcane,0.29,
+Kerala,6,2011,0,Tapioca,16859.18,525486.18
+Kerala,6,2011,0,Turmeric,240.94,345.91
+Kerala,6,2011,4,Rice,1453.06,3335.19
+Kerala,6,2012,1,Rice,171,413
+Kerala,6,2012,3,Rice,145,305
+Kerala,6,2012,0,Arecanut,2377,1453
+Kerala,6,2012,0,Banana,2295,16022
+Kerala,6,2012,0,Black pepper,3745,1486
+Kerala,6,2012,0,Blackgram,5,
+Kerala,6,2012,0,Cashewnut,3264,883
+Kerala,6,2012,0,Coconut ,55120,372000000
+Kerala,6,2012,0,Cowpea(Lobia),53,
+Kerala,6,2012,0,Drum Stick,1844,1648
+Kerala,6,2012,0,Dry ginger,359,819
+Kerala,6,2012,0,Jack Fruit,7383,
+Kerala,6,2012,0,Mango,6171,62540
+Kerala,6,2012,0,Moong(Green Gram),10,
+Kerala,6,2012,0,Papaya,1465,7891
+Kerala,6,2012,0,Pineapple,168,1019
+Kerala,6,2012,0,Pump Kin,46,
+Kerala,6,2012,0,Sesamum,57,27
+Kerala,6,2012,0,Sweet potato,2,22
+Kerala,6,2012,0,Tapioca,16397,531482
+Kerala,6,2012,0,Turmeric,225,361
+Kerala,6,2012,4,Rice,1071,2210
+Kerala,6,2012,4,Sesamum,57,27
+Kerala,6,2013,1,Rice,275,684
+Kerala,6,2013,3,Rice,5,5
+Kerala,6,2013,0,Arecanut,1913,1251
+Kerala,6,2013,0,Banana,2763,19151
+Kerala,6,2013,0,Black pepper,3236,1263
+Kerala,6,2013,0,Blackgram,1,
+Kerala,6,2013,0,Cashewnut,2848,922
+Kerala,6,2013,0,Coconut ,61309,473000000
+Kerala,6,2013,0,Cowpea(Lobia),56,
+Kerala,6,2013,0,Drum Stick,1679,1501
+Kerala,6,2013,0,Dry ginger,327,716
+Kerala,6,2013,0,Mango,5728,58605
+Kerala,6,2013,0,Moong(Green Gram),37,
+Kerala,6,2013,0,Pump Kin,47,
+Kerala,6,2013,0,Sesamum,70,34
+Kerala,6,2013,0,Sugarcane,5,
+Kerala,6,2013,0,Sweet potato,2,22
+Kerala,6,2013,0,Tapioca,16507,568257
+Kerala,6,2013,0,Turmeric,210,330
+Kerala,6,2013,4,Rice,1083,2545
+Kerala,6,2014,1,Rice,374,941
+Kerala,6,2014,3,Rice,1,2
+Kerala,6,2014,0,Arecanut,1906,1443
+Kerala,6,2014,0,Banana,2443,17032
+Kerala,6,2014,0,Black pepper,3244,1195
+Kerala,6,2014,0,Blackgram,5,
+Kerala,6,2014,0,Cashewnut,2680,772
+Kerala,6,2014,0,Coconut ,52360,387000000
+Kerala,6,2014,0,Cowpea(Lobia),60,
+Kerala,6,2014,0,Dry ginger,338,828
+Kerala,6,2014,0,Moong(Green Gram),4,
+Kerala,6,2014,0,Pump Kin,54,
+Kerala,6,2014,0,Sesamum,58,29.02
+Kerala,6,2014,0,Sugarcane,0.38,
+Kerala,6,2014,0,Sweet potato,4,44
+Kerala,6,2014,0,Tapioca,17028,661600
+Kerala,6,2014,0,Turmeric,230,409
+Kerala,6,2014,4,Rice,952,2207
+Kerala,7,1997,0,Arecanut,1389,868
+Kerala,7,1997,0,Black pepper,8357,1489
+Kerala,7,1997,0,Cashewnut,788,200
+Kerala,7,1997,0,Coconut ,47710,172000
+Kerala,7,1997,0,Tapioca,4050,76743
+Kerala,7,1998,1,Rice,3277,6580
+Kerala,7,1998,2,Sesamum,36,20
+Kerala,7,1998,3,Rice,3883,11030
+Kerala,7,1998,0,Arecanut,1130,816
+Kerala,7,1998,0,Banana,1813,27845
+Kerala,7,1998,0,Black pepper,7727,1102
+Kerala,7,1998,0,Cardamom,129,12
+Kerala,7,1998,0,Cashewnut,619,203
+Kerala,7,1998,0,Coconut ,42571,171000000
+Kerala,7,1998,0,Dry chillies,8,7
+Kerala,7,1998,0,Dry ginger,159,392
+Kerala,7,1998,0,Sugarcane,137,12030
+Kerala,7,1998,0,Sweet potato,2,20
+Kerala,7,1998,0,Tapioca,6930,196351
+Kerala,7,1998,0,Turmeric,183,386
+Kerala,7,1998,4,Rice,7233,18048
+Kerala,7,1999,1,Rice,3405,8984
+Kerala,7,1999,2,Sesamum,46,33
+Kerala,7,1999,3,Rice,6829,19320
+Kerala,7,1999,0,Arecanut,1215,671
+Kerala,7,1999,0,Banana,2655,30012
+Kerala,7,1999,0,Black pepper,8499,777
+Kerala,7,1999,0,Cardamom,200,21
+Kerala,7,1999,0,Cashewnut,701,170
+Kerala,7,1999,0,Coconut ,43272,201000000
+Kerala,7,1999,0,Dry chillies,3,3
+Kerala,7,1999,0,Dry ginger,163,458
+Kerala,7,1999,0,Sugarcane,81,3810
+Kerala,7,1999,0,Tapioca,7745,202980
+Kerala,7,1999,0,Turmeric,196,413
+Kerala,7,1999,4,Rice,5588,13127
+Kerala,7,2000,1,Rice,3878,7836
+Kerala,7,2000,2,Sesamum,6,1
+Kerala,7,2000,3,Rice,7074,22409
+Kerala,7,2000,0,Arecanut,1443,808
+Kerala,7,2000,0,Banana,2885,25340
+Kerala,7,2000,0,Black pepper,8581,1153
+Kerala,7,2000,0,Cardamom,200,21
+Kerala,7,2000,0,Cashewnut,747,233
+Kerala,7,2000,0,Coconut ,41604,197000000
+Kerala,7,2000,0,Dry ginger,245,574
+Kerala,7,2000,0,Sugarcane,28,1300
+Kerala,7,2000,0,Sweet potato,3,24
+Kerala,7,2000,0,Tapioca,8749,256831
+Kerala,7,2000,0,Turmeric,240,488
+Kerala,7,2000,4,Rice,5725,12810
+Kerala,7,2001,1,Rice,2057,4226
+Kerala,7,2001,3,Rice,5968,12824
+Kerala,7,2001,0,Arecanut,1587,725
+Kerala,7,2001,0,Banana,3260,25831
+Kerala,7,2001,0,Black pepper,9139,1372
+Kerala,7,2001,0,Cardamom,200,24
+Kerala,7,2001,0,Cashewnut,765,229
+Kerala,7,2001,0,Coconut ,39429,180000000
+Kerala,7,2001,0,Dry ginger,256,746
+Kerala,7,2001,0,Rubber,111301,140543
+Kerala,7,2001,0,Sugarcane,34,1640
+Kerala,7,2001,0,Sweet potato,12,96
+Kerala,7,2001,0,Tapioca,7780,201964
+Kerala,7,2001,0,Tea,2168,245
+Kerala,7,2001,0,Turmeric,197,520
+Kerala,7,2001,4,Rice,7225,17601
+Kerala,7,2002,1,Rice,2497,6532
+Kerala,7,2002,2,Sesamum,4,2
+Kerala,7,2002,3,Rice,4806,12176
+Kerala,7,2002,0,Arecanut,1767,1085
+Kerala,7,2002,0,Banana,3394,32373
+Kerala,7,2002,0,Bhindi,18,0
+Kerala,7,2002,0,Bitter Gourd,257,0
+Kerala,7,2002,0,Black pepper,9245,1436
+Kerala,7,2002,0,Brinjal,49,0
+Kerala,7,2002,0,Cardamom,200,24
+Kerala,7,2002,0,Cashewnut,700,226
+Kerala,7,2002,0,Cashewnut Raw,700,226
+Kerala,7,2002,0,Coconut ,41424,213000000
+Kerala,7,2002,0,Drum Stick,888,488
+Kerala,7,2002,0,Dry ginger,211,619
+Kerala,7,2002,0,Jack Fruit,4501,21
+Kerala,7,2002,0,Mango,3175,15506
+Kerala,7,2002,0,Other Fresh Fruits,920,0
+Kerala,7,2002,0,other oilseeds,51,0
+Kerala,7,2002,0,Other Vegetables,2063,0
+Kerala,7,2002,0,Papaya,1175,8463
+Kerala,7,2002,0,Pineapple,633,4586
+Kerala,7,2002,0,Rubber,111776,143244
+Kerala,7,2002,0,Snak Guard,310,0
+Kerala,7,2002,0,Sugarcane,36,1740
+Kerala,7,2002,0,Sweet potato,18,144
+Kerala,7,2002,0,Tapioca,7426,224130
+Kerala,7,2002,0,Tea,2176,226
+Kerala,7,2002,0,Turmeric,178,466
+Kerala,7,2002,4,Rice,4961,12176
+Kerala,7,2003,1,Rice,2564,6823
+Kerala,7,2003,2,Sesamum,2,1
+Kerala,7,2003,2,Small millets,1,1
+Kerala,7,2003,3,Rice,3720,7978
+Kerala,7,2003,0,Arecanut,1952,1259
+Kerala,7,2003,0,Banana,3107,30310
+Kerala,7,2003,0,Bhindi,19,0
+Kerala,7,2003,0,Bitter Gourd,154,0
+Kerala,7,2003,0,Black pepper,9097,1801
+Kerala,7,2003,0,Brinjal,62,0
+Kerala,7,2003,0,Cardamom,201,26
+Kerala,7,2003,0,Cashewnut,640,214
+Kerala,7,2003,0,Coconut ,39286,217000000
+Kerala,7,2003,0,Drum Stick,852,469
+Kerala,7,2003,0,Dry ginger,172,524
+Kerala,7,2003,0,Jack Fruit,4399,18
+Kerala,7,2003,0,Mango,3060,16117
+Kerala,7,2003,0,Other Fresh Fruits,859,0
+Kerala,7,2003,0,Other Vegetables,1954,0
+Kerala,7,2003,0,Papaya,1176,8467
+Kerala,7,2003,0,Pineapple,821,5128
+Kerala,7,2003,0,Snak Guard,207,0
+Kerala,7,2003,0,Sugarcane,41,1980
+Kerala,7,2003,0,Sweet potato,1,8
+Kerala,7,2003,0,Tapioca,6760,209915
+Kerala,7,2003,0,Turmeric,156,370
+Kerala,7,2003,4,Rice,5218,11394
+Kerala,7,2004,1,Rice,2881,8270
+Kerala,7,2004,2,Sesamum,1,
+Kerala,7,2004,3,Rice,3172,7291
+Kerala,7,2004,0,Arecanut,2109,1257
+Kerala,7,2004,0,Banana,3200,29867
+Kerala,7,2004,0,Black pepper,9828,2074
+Kerala,7,2004,0,Cardamom,200,25
+Kerala,7,2004,0,Cashewnut,688,222
+Kerala,7,2004,0,Coconut ,40532,187000000
+Kerala,7,2004,0,Dry ginger,198,595
+Kerala,7,2004,0,Sugarcane,47,2270
+Kerala,7,2004,0,Sweet potato,1,8
+Kerala,7,2004,0,Tapioca,5740,162744
+Kerala,7,2004,0,Turmeric,136,333
+Kerala,7,2004,4,Rice,7108,17228
+Kerala,7,2005,1,Rice,3937,9138
+Kerala,7,2005,2,Sesamum,8,2
+Kerala,7,2005,3,Rice,2511,6300
+Kerala,7,2005,0,Arecanut,2081,1201
+Kerala,7,2005,0,Banana,3342,28817
+Kerala,7,2005,0,Black pepper,9482,1695
+Kerala,7,2005,0,Cardamom,200,25
+Kerala,7,2005,0,Cashewnut,638,269
+Kerala,7,2005,0,Coconut ,39943,217000000
+Kerala,7,2005,0,Dry ginger,225,772
+Kerala,7,2005,0,Sugarcane,14,900
+Kerala,7,2005,0,Sweet potato,3,24
+Kerala,7,2005,0,Tapioca,5727,182262
+Kerala,7,2005,0,Turmeric,160,367
+Kerala,7,2005,4,Rice,6109,15823
+Kerala,7,2006,1,Rice,4149,10767
+Kerala,7,2006,3,Rice,5473,14887
+Kerala,7,2006,0,Arecanut,1940,1455
+Kerala,7,2006,0,Banana,2637,23982
+Kerala,7,2006,0,Black pepper,10418,1754
+Kerala,7,2006,0,Cardamom,200,19
+Kerala,7,2006,0,Cashewnut,589,226
+Kerala,7,2006,0,Coconut ,36204,202000000
+Kerala,7,2006,0,Dry ginger,230,645
+Kerala,7,2006,0,Sugarcane,67,2730
+Kerala,7,2006,0,Sweet potato,4,32
+Kerala,7,2006,0,Tapioca,5908,192110
+Kerala,7,2006,0,Turmeric,169,401
+Kerala,7,2006,4,Rice,4192,9896
+Kerala,7,2007,1,Rice,2661,6894
+Kerala,7,2007,3,Rice,5989,15467
+Kerala,7,2007,0,Arecanut,1917,1621
+Kerala,7,2007,0,Banana,3061,28483
+Kerala,7,2007,0,Black pepper,9866,1605
+Kerala,7,2007,0,Cardamom,200,20
+Kerala,7,2007,0,Cashewnut,581,222
+Kerala,7,2007,0,Coconut ,35226,205000000
+Kerala,7,2007,0,Dry ginger,161,463
+Kerala,7,2007,0,Sugarcane,29,1000
+Kerala,7,2007,0,Sweet potato,1,8
+Kerala,7,2007,0,Tapioca,6027,170248
+Kerala,7,2007,0,Turmeric,118,272
+Kerala,7,2007,4,Rice,2319,6067
+Kerala,7,2008,1,Rice,3331,10065
+Kerala,7,2008,3,Rice,5341,16247
+Kerala,7,2008,0,Arecanut,1854,1346
+Kerala,7,2008,0,Banana,2904,27413
+Kerala,7,2008,0,Black pepper,9573,1347
+Kerala,7,2008,0,Cardamom,200,14
+Kerala,7,2008,0,Cashewnut,554,160
+Kerala,7,2008,0,Coconut ,34881,194000000
+Kerala,7,2008,0,Dry ginger,193,528
+Kerala,7,2008,0,Sugarcane,8,550
+Kerala,7,2008,0,Sweet potato,3,24
+Kerala,7,2008,0,Tapioca,6272,221996
+Kerala,7,2008,0,Turmeric,169,388
+Kerala,7,2008,4,Rice,2279,5842
+Kerala,7,2009,1,Rice,3940,11484
+Kerala,7,2009,3,Rice,8396,20295
+Kerala,7,2009,0,Arecanut,1731,1333
+Kerala,7,2009,0,Banana,2839,25696
+Kerala,7,2009,0,Black pepper,6711,967
+Kerala,7,2009,0,Cardamom,200,13
+Kerala,7,2009,0,Cashewnut,404,127
+Kerala,7,2009,0,Coconut ,28185,141000000
+Kerala,7,2009,0,Dry ginger,88,268
+Kerala,7,2009,0,Sugarcane,31,1470
+Kerala,7,2009,0,Sweet potato,2,16
+Kerala,7,2009,0,Tapioca,5868,226941
+Kerala,7,2009,0,Turmeric,77,178
+Kerala,7,2009,4,Rice,3138,7634
+Kerala,7,2010,1,Rice,5463.56,16064.76
+Kerala,7,2010,3,Rice,7775.37,21435.58
+Kerala,7,2010,0,Arecanut,1681.22,1239.36
+Kerala,7,2010,0,Banana,2853.22,25290.47
+Kerala,7,2010,0,Black pepper,6770.6,866.53
+Kerala,7,2010,0,Cashewnut,415.69,110.99
+Kerala,7,2010,0,Coconut ,28410.34,148421000
+Kerala,7,2010,0,Dry ginger,107.41,294.46
+Kerala,7,2010,0,Sugarcane,18.63,1653.53
+Kerala,7,2010,0,Tapioca,5669.92,214799.04
+Kerala,7,2010,0,Turmeric,83.94,233.16
+Kerala,7,2010,4,Rice,1536.12,3469.17
+Kerala,7,2011,1,Rice,6810.31,19437.67
+Kerala,7,2011,3,Rice,11635.88,36177.88
+Kerala,7,2011,0,Arecanut,1747.49,1271.58
+Kerala,7,2011,0,Banana,2520.52,22138.18
+Kerala,7,2011,0,Black pepper,3335.5,1145.33
+Kerala,7,2011,0,Cardamom,200,14
+Kerala,7,2011,0,Cashewnut,468.81,117.34
+Kerala,7,2011,0,Coconut ,28208.84,149436000
+Kerala,7,2011,0,Dry ginger,109.77,286.35
+Kerala,7,2011,0,Potato,3,24
+Kerala,7,2011,0,Sugarcane,11,1034.3
+Kerala,7,2011,0,Tapioca,5957.23,211343.85
+Kerala,7,2011,0,Turmeric,92.94,192.95
+Kerala,7,2011,4,Rice,2964.06,7963.02
+Kerala,7,2012,1,Rice,4360,14479
+Kerala,7,2012,3,Rice,10902,29589
+Kerala,7,2012,0,Arecanut,1650,1074
+Kerala,7,2012,0,Banana,2518,21084
+Kerala,7,2012,0,Black pepper,3192,1179
+Kerala,7,2012,0,Cardamom,200,12
+Kerala,7,2012,0,Cashewnut,457,125
+Kerala,7,2012,0,Coconut ,27500,131000000
+Kerala,7,2012,0,Cowpea(Lobia),12,
+Kerala,7,2012,0,Drum Stick,578,399
+Kerala,7,2012,0,Dry ginger,107,311
+Kerala,7,2012,0,Jack Fruit,3997,
+Kerala,7,2012,0,Mango,2610,18524
+Kerala,7,2012,0,Papaya,1057,5277
+Kerala,7,2012,0,Pineapple,1107,7626
+Kerala,7,2012,0,Pump Kin,49,
+Kerala,7,2012,0,Sugarcane,13,109
+Kerala,7,2012,0,Sweet potato,1,3
+Kerala,7,2012,0,Tapioca,5284,187089
+Kerala,7,2012,0,Turmeric,93,202
+Kerala,7,2012,4,Rice,2309,6951
+Kerala,7,2013,1,Rice,1106,2834
+Kerala,7,2013,3,Rice,7823,25574
+Kerala,7,2013,0,Arecanut,1581,1103
+Kerala,7,2013,0,Banana,2498,22609
+Kerala,7,2013,0,Black pepper,3120,1172
+Kerala,7,2013,0,Blackgram,2,
+Kerala,7,2013,0,Cardamom,85,5
+Kerala,7,2013,0,Cashewnut,410,123
+Kerala,7,2013,0,Coconut ,27019,126000000
+Kerala,7,2013,0,Cowpea(Lobia),13,
+Kerala,7,2013,0,Drum Stick,512,353
+Kerala,7,2013,0,Dry ginger,96,285
+Kerala,7,2013,0,Mango,2636,18537
+Kerala,7,2013,0,Pump Kin,45,
+Kerala,7,2013,0,Sugarcane,7,54
+Kerala,7,2013,0,Sweet potato,1,10
+Kerala,7,2013,0,Tapioca,5341,210271
+Kerala,7,2013,0,Turmeric,87,218
+Kerala,7,2013,4,Rice,6817,22321
+Kerala,7,2014,1,Rice,5059,14354
+Kerala,7,2014,3,Rice,9346,27118
+Kerala,7,2014,0,Arecanut,1579,1214
+Kerala,7,2014,0,Banana,2734,23152
+Kerala,7,2014,0,Black pepper,3135,1078
+Kerala,7,2014,0,Cardamom,85,5
+Kerala,7,2014,0,Cashewnut,399,103
+Kerala,7,2014,0,Coconut ,26529,140000000
+Kerala,7,2014,0,Cowpea(Lobia),15,
+Kerala,7,2014,0,Dry ginger,153,511
+Kerala,7,2014,0,Pump Kin,51,
+Kerala,7,2014,0,Sugarcane,10.21,73
+Kerala,7,2014,0,Sweet potato,1,11
+Kerala,7,2014,0,Tapioca,5588,217348
+Kerala,7,2014,0,Turmeric,132,338
+Kerala,7,2014,4,Rice,2890,7921
+Kerala,8,1997,0,Arecanut,7434,10194
+Kerala,8,1997,0,Black pepper,11378,2354
+Kerala,8,1997,0,Cashewnut,4972,2888
+Kerala,8,1997,0,Coconut ,134858,1012000
+Kerala,8,1997,0,Tapioca,3514,83893
+Kerala,8,1998,1,Rice,921,850
+Kerala,8,1998,3,Rice,953,1165
+Kerala,8,1998,0,Arecanut,8970,11528
+Kerala,8,1998,0,Banana,1519,16867
+Kerala,8,1998,0,Black pepper,11976,3288
+Kerala,8,1998,0,Cardamom,221,
+Kerala,8,1998,0,Cashewnut,3471,1858
+Kerala,8,1998,0,Coconut ,129506,999000000
+Kerala,8,1998,0,Dry ginger,238,670
+Kerala,8,1998,0,Sugarcane,15,1150
+Kerala,8,1998,0,Sweet potato,26,295
+Kerala,8,1998,0,Tapioca,4182,92145
+Kerala,8,1998,0,Turmeric,682,1496
+Kerala,8,1998,4,Rice,4969,5819
+Kerala,8,1999,1,Rice,681,857
+Kerala,8,1999,3,Rice,917,1540
+Kerala,8,1999,0,Arecanut,10139,13314
+Kerala,8,1999,0,Banana,1667,16329
+Kerala,8,1999,0,Black pepper,11869,1806
+Kerala,8,1999,0,Cardamom,220,
+Kerala,8,1999,0,Cashewnut,3863,2049
+Kerala,8,1999,0,Coconut ,131061,1059000000
+Kerala,8,1999,0,Dry ginger,287,749
+Kerala,8,1999,0,Sugarcane,13,1300
+Kerala,8,1999,0,Sweet potato,36,408
+Kerala,8,1999,0,Tapioca,4924,108758
+Kerala,8,1999,0,Turmeric,747,1639
+Kerala,8,1999,4,Rice,4897,6323
+Kerala,8,2000,1,Rice,770,980
+Kerala,8,2000,3,Rice,791,1186
+Kerala,8,2000,0,Arecanut,10692,15285
+Kerala,8,2000,0,Banana,1839,15500
+Kerala,8,2000,0,Black pepper,11939,2277
+Kerala,8,2000,0,Cashewnut,3867,1795
+Kerala,8,2000,0,Coconut ,128739,903000000
+Kerala,8,2000,0,Dry ginger,367,1098
+Kerala,8,2000,0,Sugarcane,2,200
+Kerala,8,2000,0,Sweet potato,5,57
+Kerala,8,2000,0,Tapioca,4037,88366
+Kerala,8,2000,0,Turmeric,728,1549
+Kerala,8,2000,4,Rice,5176,6879
+Kerala,8,2001,1,Rice,652,748
+Kerala,8,2001,2,Jowar,4,
+Kerala,8,2001,2,Sesamum,4,1
+Kerala,8,2001,3,Rice,872,1483
+Kerala,8,2001,0,Arecanut,11189,12830
+Kerala,8,2001,0,Banana,1949,14909
+Kerala,8,2001,0,Black pepper,12775,2722
+Kerala,8,2001,0,Cardamom,220,
+Kerala,8,2001,0,Cashewnut,4099,2306
+Kerala,8,2001,0,Coconut ,130100,895000000
+Kerala,8,2001,0,Dry ginger,297,1028
+Kerala,8,2001,0,Rubber,17575,22884
+Kerala,8,2001,0,Sugarcane,1,100
+Kerala,8,2001,0,Sweet potato,15,171
+Kerala,8,2001,0,Tapioca,4311,71503
+Kerala,8,2001,0,Turmeric,424,964
+Kerala,8,2001,4,Rice,4878,6082
+Kerala,8,2002,1,Rice,399,581
+Kerala,8,2002,3,Rice,784,1401
+Kerala,8,2002,0,Arecanut,10584,15584
+Kerala,8,2002,0,Banana,1963,16640
+Kerala,8,2002,0,Bhindi,5,0
+Kerala,8,2002,0,Bitter Gourd,20,0
+Kerala,8,2002,0,Black pepper,12365,1765
+Kerala,8,2002,0,Brinjal,1,0
+Kerala,8,2002,0,Cardamom,220,
+Kerala,8,2002,0,Cashewnut,3883,2177
+Kerala,8,2002,0,Cashewnut Raw,3883,2177
+Kerala,8,2002,0,Coconut ,127402,888000000
+Kerala,8,2002,0,Drum Stick,2958,1178
+Kerala,8,2002,0,Dry ginger,217,598
+Kerala,8,2002,0,Jack Fruit,10814,23
+Kerala,8,2002,0,Mango,10483,19320
+Kerala,8,2002,0,Other Fresh Fruits,852,0
+Kerala,8,2002,0,other oilseeds,16,0
+Kerala,8,2002,0,Other Vegetables,1670,0
+Kerala,8,2002,0,Papaya,1994,1296
+Kerala,8,2002,0,Pineapple,253,1650
+Kerala,8,2002,0,Rubber,17591,23490
+Kerala,8,2002,0,Snak Guard,2,0
+Kerala,8,2002,0,Sweet potato,9,103
+Kerala,8,2002,0,Tapioca,3964,77016
+Kerala,8,2002,0,Turmeric,305,723
+Kerala,8,2002,4,Rice,3902,5185
+Kerala,8,2003,1,Rice,516,710
+Kerala,8,2003,3,Rice,1058,1815
+Kerala,8,2003,0,Arecanut,11499,14316
+Kerala,8,2003,0,Banana,1993,17206
+Kerala,8,2003,0,Bhindi,11,0
+Kerala,8,2003,0,Bitter Gourd,53,0
+Kerala,8,2003,0,Black pepper,13094,1800
+Kerala,8,2003,0,Brinjal,1,0
+Kerala,8,2003,0,Cardamom,220,
+Kerala,8,2003,0,Cashewnut,3754,2334
+Kerala,8,2003,0,Coconut ,129365,898000000
+Kerala,8,2003,0,Drum Stick,2993,1197
+Kerala,8,2003,0,Dry ginger,135,410
+Kerala,8,2003,0,Jack Fruit,10982,26
+Kerala,8,2003,0,Mango,10360,25035
+Kerala,8,2003,0,Other Fresh Fruits,682,0
+Kerala,8,2003,0,Other Vegetables,1885,0
+Kerala,8,2003,0,Papaya,2035,2930
+Kerala,8,2003,0,Pineapple,266,1629
+Kerala,8,2003,0,Snak Guard,8,0
+Kerala,8,2003,0,Sweet potato,21,240
+Kerala,8,2003,0,Tapioca,3569,97710
+Kerala,8,2003,0,Turmeric,366,851
+Kerala,8,2003,4,Rice,3611,5054
+Kerala,8,2004,1,Rice,431,583
+Kerala,8,2004,2,Sesamum,1,
+Kerala,8,2004,3,Rice,644,1300
+Kerala,8,2004,0,Arecanut,12173,13042
+Kerala,8,2004,0,Banana,2092,18720
+Kerala,8,2004,0,Black pepper,13993,1934
+Kerala,8,2004,0,Cardamom,220,
+Kerala,8,2004,0,Cashewnut,3552,2063
+Kerala,8,2004,0,Coconut ,129865,854000000
+Kerala,8,2004,0,Dry ginger,122,362
+Kerala,8,2004,0,Sweet potato,26,297
+Kerala,8,2004,0,Tapioca,2724,68573
+Kerala,8,2004,0,Turmeric,359,886
+Kerala,8,2004,4,Rice,3548,4844
+Kerala,8,2005,1,Rice,353,431
+Kerala,8,2005,3,Rice,684,1325
+Kerala,8,2005,0,Arecanut,12478,14522
+Kerala,8,2005,0,Banana,2165,15605
+Kerala,8,2005,0,Black pepper,13923,1869
+Kerala,8,2005,0,Cardamom,220,1
+Kerala,8,2005,0,Cashewnut,3368,2200
+Kerala,8,2005,0,Coconut ,129500,845000000
+Kerala,8,2005,0,Dry ginger,165,504
+Kerala,8,2005,0,Sweet potato,41,469
+Kerala,8,2005,0,Tapioca,2476,61311
+Kerala,8,2005,0,Turmeric,234,466
+Kerala,8,2005,4,Rice,3666,4558
+Kerala,8,2006,1,Rice,295,397
+Kerala,8,2006,3,Rice,571,950
+Kerala,8,2006,0,Arecanut,12340,12020
+Kerala,8,2006,0,Banana,1880,15417
+Kerala,8,2006,0,Black pepper,10652,1313
+Kerala,8,2006,0,Cardamom,220,1
+Kerala,8,2006,0,Cashewnut,2948,1478
+Kerala,8,2006,0,Coconut ,129401,824000000
+Kerala,8,2006,0,Dry ginger,160,536
+Kerala,8,2006,0,Sweet potato,26,297
+Kerala,8,2006,0,Tapioca,1963,45263
+Kerala,8,2006,0,Turmeric,407,1046
+Kerala,8,2006,4,Rice,3429,4745
+Kerala,8,2007,1,Rice,232,264
+Kerala,8,2007,3,Rice,788,1601
+Kerala,8,2007,0,Arecanut,12258,13373
+Kerala,8,2007,0,Banana,1983,14980
+Kerala,8,2007,0,Black pepper,9665,884
+Kerala,8,2007,0,Cardamom,220,1
+Kerala,8,2007,0,Cashewnut,2864,1899
+Kerala,8,2007,0,Coconut ,122929,851000000
+Kerala,8,2007,0,Dry ginger,105,310
+Kerala,8,2007,0,Sweet potato,31,354
+Kerala,8,2007,0,Tapioca,2130,49119
+Kerala,8,2007,0,Turmeric,370,981
+Kerala,8,2007,4,Rice,2780,3232
+Kerala,8,2008,1,Rice,216,289
+Kerala,8,2008,3,Rice,678,1422
+Kerala,8,2008,0,Arecanut,11616,16243
+Kerala,8,2008,0,Banana,1412,10528
+Kerala,8,2008,0,Black pepper,8421,823
+Kerala,8,2008,0,Cardamom,220,1
+Kerala,8,2008,0,Cashewnut,2222,1124
+Kerala,8,2008,0,Coconut ,120704,941000000
+Kerala,8,2008,0,Dry ginger,85,255
+Kerala,8,2008,0,Sweet potato,22,251
+Kerala,8,2008,0,Tapioca,1860,48589
+Kerala,8,2008,0,Turmeric,349,811
+Kerala,8,2008,4,Rice,3144,3902
+Kerala,8,2009,1,Rice,173,221
+Kerala,8,2009,3,Rice,610,1231
+Kerala,8,2009,0,Arecanut,10054,12710
+Kerala,8,2009,0,Banana,1476,11102
+Kerala,8,2009,0,Black pepper,7972,1010
+Kerala,8,2009,0,Cardamom,220,3
+Kerala,8,2009,0,Cashewnut,2068,704
+Kerala,8,2009,0,Coconut ,119166,868000000
+Kerala,8,2009,0,Dry ginger,104,401
+Kerala,8,2009,0,Sugarcane,1,
+Kerala,8,2009,0,Sweet potato,17,194
+Kerala,8,2009,0,Tapioca,1823,51171
+Kerala,8,2009,0,Turmeric,295,721
+Kerala,8,2009,4,Rice,2494,2850
+Kerala,8,2010,1,Rice,144.09,182.38
+Kerala,8,2010,3,Rice,509.52,1029.51
+Kerala,8,2010,0,Arecanut,9661.57,8774.34
+Kerala,8,2010,0,Banana,1586.17,11723.46
+Kerala,8,2010,0,Black pepper,7613.27,823.04
+Kerala,8,2010,0,Cashewnut,1964.2,881.64
+Kerala,8,2010,0,Coconut ,121688.42,769685000
+Kerala,8,2010,0,Dry ginger,78.35,255.56
+Kerala,8,2010,0,Sugarcane,0.04,
+Kerala,8,2010,0,Tapioca,1805.69,47770.37
+Kerala,8,2010,0,Turmeric,283.16,737.09
+Kerala,8,2010,4,Rice,2349.43,2601.91
+Kerala,8,2011,1,Rice,115.91,181.9
+Kerala,8,2011,3,Rice,528.26,1207.71
+Kerala,8,2011,0,Arecanut,10458.76,11177.47
+Kerala,8,2011,0,Banana,1533.27,12477.5
+Kerala,8,2011,0,Black pepper,3419.87,614.67
+Kerala,8,2011,0,Cardamom,220,1
+Kerala,8,2011,0,Cashewnut,2304.49,702.91
+Kerala,8,2011,0,Coconut ,127699.25,852009000
+Kerala,8,2011,0,Dry ginger,78.3,245.55
+Kerala,8,2011,0,Potato,22,251
+Kerala,8,2011,0,Sugarcane,0.05,
+Kerala,8,2011,0,Tapioca,1846.37,40117.23
+Kerala,8,2011,0,Turmeric,302.31,731.76
+Kerala,8,2011,4,Rice,2276.29,2883.95
+Kerala,8,2012,1,Rice,143,204
+Kerala,8,2012,3,Rice,631,1443
+Kerala,8,2012,0,Arecanut,10247,9883
+Kerala,8,2012,0,Banana,1700,13616
+Kerala,8,2012,0,Black pepper,3332,1098
+Kerala,8,2012,0,Cardamom,220,4
+Kerala,8,2012,0,Cashewnut,2179,834
+Kerala,8,2012,0,Coconut ,124819,882000000
+Kerala,8,2012,0,Cowpea(Lobia),8,
+Kerala,8,2012,0,Drum Stick,1440,427
+Kerala,8,2012,0,Dry ginger,62,181
+Kerala,8,2012,0,Jack Fruit,10011,
+Kerala,8,2012,0,Mango,8262,38273
+Kerala,8,2012,0,Moong(Green Gram),1,
+Kerala,8,2012,0,Papaya,1764,7001
+Kerala,8,2012,0,Pineapple,144,834
+Kerala,8,2012,0,Pump Kin,46,
+Kerala,8,2012,0,Sesamum,1,
+Kerala,8,2012,0,Sweet potato,14,225
+Kerala,8,2012,0,Tapioca,1824,43208
+Kerala,8,2012,0,Turmeric,328,867
+Kerala,8,2012,4,Rice,2737,3679
+Kerala,8,2012,4,Sesamum,1,
+Kerala,8,2013,1,Rice,79,120
+Kerala,8,2013,3,Rice,563,1437
+Kerala,8,2013,0,Arecanut,9897,8875
+Kerala,8,2013,0,Banana,1633,11642
+Kerala,8,2013,0,Black pepper,3345,824
+Kerala,8,2013,0,Cardamom,220,5
+Kerala,8,2013,0,Cashewnut,2103,937
+Kerala,8,2013,0,Coconut ,123115,948000000
+Kerala,8,2013,0,Cowpea(Lobia),3,
+Kerala,8,2013,0,Drum Stick,1589,471
+Kerala,8,2013,0,Dry ginger,46,154
+Kerala,8,2013,0,Mango,8275,51590
+Kerala,8,2013,0,Moong(Green Gram),1,
+Kerala,8,2013,0,Pump Kin,28,
+Kerala,8,2013,0,Sweet potato,12,192
+Kerala,8,2013,0,Tapioca,1647,39934
+Kerala,8,2013,0,Turmeric,301,729
+Kerala,8,2013,4,Rice,1791,2293
+Kerala,8,2014,1,Rice,62,62
+Kerala,8,2014,3,Rice,551,1284
+Kerala,8,2014,0,Arecanut,9966,11279
+Kerala,8,2014,0,Banana,1832,14536
+Kerala,8,2014,0,Black pepper,3428,1056
+Kerala,8,2014,0,Cardamom,220,5
+Kerala,8,2014,0,Cashewnut,2015,740
+Kerala,8,2014,0,Coconut ,123066,1001000000
+Kerala,8,2014,0,Cowpea(Lobia),5,
+Kerala,8,2014,0,Dry ginger,43,153
+Kerala,8,2014,0,Moong(Green Gram),1,
+Kerala,8,2014,0,Pump Kin,49,
+Kerala,8,2014,0,Sugarcane,0.21,
+Kerala,8,2014,0,Sweet potato,15,230
+Kerala,8,2014,0,Tapioca,1826,53782
+Kerala,8,2014,0,Turmeric,264,820
+Kerala,8,2014,4,Rice,1708,2077
+Kerala,9,1997,0,Arecanut,14893,14240
+Kerala,9,1997,0,Black pepper,7010,665
+Kerala,9,1997,0,Cashewnut,12314,5642
+Kerala,9,1997,0,Coconut ,123798,683000
+Kerala,9,1997,0,Tapioca,9072,242758
+Kerala,9,1998,1,Rice,6289,13044
+Kerala,9,1998,2,Sesamum,496,182
+Kerala,9,1998,3,Rice,1882,4697
+Kerala,9,1998,0,Arecanut,14190,9823
+Kerala,9,1998,0,Banana,5083,59389
+Kerala,9,1998,0,Black pepper,7086,1145
+Kerala,9,1998,0,Cardamom,70,
+Kerala,9,1998,0,Cashewnut,9950,4169
+Kerala,9,1998,0,Coconut ,99276,600000000
+Kerala,9,1998,0,Dry ginger,158,271
+Kerala,9,1998,0,Sugarcane,6,460
+Kerala,9,1998,0,Sweet potato,206,2371
+Kerala,9,1998,0,Tapioca,8043,205796
+Kerala,9,1998,0,Turmeric,239,350
+Kerala,9,1998,4,Rice,15647,24600
+Kerala,9,1999,1,Rice,5844,10230
+Kerala,9,1999,2,Sesamum,558,154
+Kerala,9,1999,3,Rice,2211,6210
+Kerala,9,1999,0,Arecanut,15894,11934
+Kerala,9,1999,0,Banana,7049,65122
+Kerala,9,1999,0,Black pepper,7885,914
+Kerala,9,1999,0,Cardamom,70,
+Kerala,9,1999,0,Cashewnut,10982,5669
+Kerala,9,1999,0,Coconut ,107142,717000000
+Kerala,9,1999,0,Dry ginger,200,509
+Kerala,9,1999,0,Sugarcane,4,400
+Kerala,9,1999,0,Sweet potato,252,2900
+Kerala,9,1999,0,Tapioca,8491,227107
+Kerala,9,1999,0,Turmeric,309,453
+Kerala,9,1999,4,Rice,15440,25677
+Kerala,9,2000,1,Rice,6952,13419
+Kerala,9,2000,2,Ragi,4,3
+Kerala,9,2000,2,Sesamum,411,170
+Kerala,9,2000,3,Rice,1878,4755
+Kerala,9,2000,0,Arecanut,16123,9909
+Kerala,9,2000,0,Banana,7136,48464
+Kerala,9,2000,0,Black pepper,8253,1053
+Kerala,9,2000,0,Cardamom,70,
+Kerala,9,2000,0,Cashewnut,11243,5841
+Kerala,9,2000,0,Coconut ,110378,626000000
+Kerala,9,2000,0,Dry ginger,184,394
+Kerala,9,2000,0,Sugarcane,5,510
+Kerala,9,2000,0,Sweet potato,260,2992
+Kerala,9,2000,0,Tapioca,7508,185143
+Kerala,9,2000,0,Turmeric,355,700
+Kerala,9,2000,4,Rice,14318,25623
+Kerala,9,2001,1,Rice,6908,13313
+Kerala,9,2001,2,Jowar,5,3
+Kerala,9,2001,2,Ragi,3,2
+Kerala,9,2001,2,Sesamum,293,70
+Kerala,9,2001,3,Rice,1723,5108
+Kerala,9,2001,0,Arecanut,17735,11085
+Kerala,9,2001,0,Banana,8420,55835
+Kerala,9,2001,0,Black pepper,8996,616
+Kerala,9,2001,0,Cardamom,70,1
+Kerala,9,2001,0,Cashewnut,10953,4941
+Kerala,9,2001,0,Coconut ,104171,599000000
+Kerala,9,2001,0,Dry ginger,212,426
+Kerala,9,2001,0,Rubber,29263,32904
+Kerala,9,2001,0,Sugarcane,7,710
+Kerala,9,2001,0,Sweet potato,251,2888
+Kerala,9,2001,0,Tapioca,7206,166980
+Kerala,9,2001,0,Turmeric,241,348
+Kerala,9,2001,4,Rice,14023,25638
+Kerala,9,2002,1,Rice,5781,11308
+Kerala,9,2002,2,Ragi,1,1
+Kerala,9,2002,2,Sesamum,291,76
+Kerala,9,2002,3,Rice,1637,5104
+Kerala,9,2002,0,Arecanut,19622,17527
+Kerala,9,2002,0,Banana,9804,67931
+Kerala,9,2002,0,Bhindi,119,0
+Kerala,9,2002,0,Bitter Gourd,248,0
+Kerala,9,2002,0,Black pepper,9846,979
+Kerala,9,2002,0,Brinjal,33,0
+Kerala,9,2002,0,Cardamom,70,3
+Kerala,9,2002,0,Cashewnut,10735,4481
+Kerala,9,2002,0,Cashewnut Raw,10735,4481
+Kerala,9,2002,0,Coconut ,107254,787000000
+Kerala,9,2002,0,Drum Stick,3193,3341
+Kerala,9,2002,0,Dry ginger,181,424
+Kerala,9,2002,0,Jack Fruit,9847,30
+Kerala,9,2002,0,Mango,11167,36403
+Kerala,9,2002,0,Other Fresh Fruits,1085,0
+Kerala,9,2002,0,other oilseeds,159,0
+Kerala,9,2002,0,Other Vegetables,4985,0
+Kerala,9,2002,0,Papaya,2325,10042
+Kerala,9,2002,0,Pineapple,335,1827
+Kerala,9,2002,0,Rubber,29335,33883
+Kerala,9,2002,0,Snak Guard,90,0
+Kerala,9,2002,0,Sugarcane,11,1120
+Kerala,9,2002,0,Sweet potato,333,3831
+Kerala,9,2002,0,Tapioca,6947,176344
+Kerala,9,2002,0,Tea,192,0.1
+Kerala,9,2002,0,Turmeric,339,576
+Kerala,9,2002,4,Rice,12260,22569
+Kerala,9,2003,1,Rice,5032,10792
+Kerala,9,2003,2,Jowar,9,5
+Kerala,9,2003,2,Sesamum,370,91
+Kerala,9,2003,3,Rice,1686,5383
+Kerala,9,2003,0,Arecanut,20476,15986
+Kerala,9,2003,0,Banana,8963,71210
+Kerala,9,2003,0,Bhindi,121,0
+Kerala,9,2003,0,Bitter Gourd,166,0
+Kerala,9,2003,0,Black pepper,10525,1014
+Kerala,9,2003,0,Brinjal,69,0
+Kerala,9,2003,0,Cardamom,70,3
+Kerala,9,2003,0,Cashewnut,10215,4237
+Kerala,9,2003,0,Coconut ,109582,858000000
+Kerala,9,2003,0,Drum Stick,3232,3361
+Kerala,9,2003,0,Dry ginger,146,365
+Kerala,9,2003,0,Jack Fruit,10086,39
+Kerala,9,2003,0,Mango,10932,39345
+Kerala,9,2003,0,Other Fresh Fruits,925,0
+Kerala,9,2003,0,Other Vegetables,5403,0
+Kerala,9,2003,0,Papaya,2358,10184
+Kerala,9,2003,0,Pineapple,302,1551
+Kerala,9,2003,0,Snak Guard,61,0
+Kerala,9,2003,0,Sugarcane,4,410
+Kerala,9,2003,0,Sweet potato,372,4278
+Kerala,9,2003,0,Tapioca,6484,208078
+Kerala,9,2003,0,Turmeric,268,474
+Kerala,9,2003,4,Rice,10953,20569
+Kerala,9,2004,1,Rice,4697,9907
+Kerala,9,2004,2,Ragi,5,4
+Kerala,9,2004,2,Sesamum,242,72
+Kerala,9,2004,3,Rice,1590,5396
+Kerala,9,2004,0,Arecanut,19979,17152
+Kerala,9,2004,0,Banana,9498,71742
+Kerala,9,2004,0,Black pepper,11661,1146
+Kerala,9,2004,0,Cardamom,70,3
+Kerala,9,2004,0,Cashewnut,9601,3876
+Kerala,9,2004,0,Coconut ,113162,900000000
+Kerala,9,2004,0,Dry ginger,133,282
+Kerala,9,2004,0,Sugarcane,3,310
+Kerala,9,2004,0,Sweet potato,274,3151
+Kerala,9,2004,0,Tapioca,5060,155833
+Kerala,9,2004,0,Turmeric,222,347
+Kerala,9,2004,4,Rice,10462,21236
+Kerala,9,2005,1,Rice,3605,7732
+Kerala,9,2005,2,Sesamum,231,72
+Kerala,9,2005,3,Rice,1506,4836
+Kerala,9,2005,0,Arecanut,20022,15623
+Kerala,9,2005,0,Banana,9897,69993
+Kerala,9,2005,0,Black pepper,11371,1456
+Kerala,9,2005,0,Cardamom,70,3
+Kerala,9,2005,0,Cashewnut,9123,7394
+Kerala,9,2005,0,Coconut ,113411,863000000
+Kerala,9,2005,0,Dry ginger,175,336
+Kerala,9,2005,0,Sugarcane,1,90
+Kerala,9,2005,0,Sweet potato,229,2634
+Kerala,9,2005,0,Tapioca,5346,164029
+Kerala,9,2005,0,Turmeric,285,462
+Kerala,9,2005,4,Rice,9774,18809
+Kerala,9,2006,1,Rice,4782,10514
+Kerala,9,2006,2,Jowar,1,1
+Kerala,9,2006,2,Sesamum,303,137
+Kerala,9,2006,3,Rice,1595,5515
+Kerala,9,2006,0,Arecanut,16900,16001
+Kerala,9,2006,0,Banana,9048,69787
+Kerala,9,2006,0,Black pepper,9187,1114
+Kerala,9,2006,0,Cardamom,70,3
+Kerala,9,2006,0,Cashewnut,7249,5054
+Kerala,9,2006,0,Coconut ,112238,859000000
+Kerala,9,2006,0,Dry ginger,151,288
+Kerala,9,2006,0,Sweet potato,132,1518
+Kerala,9,2006,0,Tapioca,6048,191559
+Kerala,9,2006,0,Turmeric,321,459
+Kerala,9,2006,4,Rice,8732,17094
+Kerala,9,2007,1,Rice,1583,2881
+Kerala,9,2007,2,Ragi,2,2
+Kerala,9,2007,2,Sesamum,239,91
+Kerala,9,2007,3,Rice,1528,5268
+Kerala,9,2007,0,Arecanut,17517,17550
+Kerala,9,2007,0,Banana,7308,51899
+Kerala,9,2007,0,Black pepper,7858,1014
+Kerala,9,2007,0,Cardamom,70,2
+Kerala,9,2007,0,Cashewnut,6178,5411
+Kerala,9,2007,0,Coconut ,104731,832000000
+Kerala,9,2007,0,Dry ginger,75,149
+Kerala,9,2007,0,Sweet potato,132,1518
+Kerala,9,2007,0,Tapioca,7096,287438
+Kerala,9,2007,0,Turmeric,356,631
+Kerala,9,2007,4,Rice,6385,13599
+Kerala,9,2008,1,Rice,1744,3819
+Kerala,9,2008,2,Other Cereals & Millets,1,1
+Kerala,9,2008,2,Sesamum,217,101
+Kerala,9,2008,3,Rice,1521,4742
+Kerala,9,2008,0,Arecanut,16587,19472
+Kerala,9,2008,0,Banana,6391,47785
+Kerala,9,2008,0,Black pepper,5998,590
+Kerala,9,2008,0,Cardamom,70,1
+Kerala,9,2008,0,Cashewnut,5394,3153
+Kerala,9,2008,0,Coconut ,105789,952000000
+Kerala,9,2008,0,Dry ginger,77,161
+Kerala,9,2008,0,Sweet potato,124,1426
+Kerala,9,2008,0,Tapioca,7533,292908
+Kerala,9,2008,0,Turmeric,342,639
+Kerala,9,2008,4,Rice,7748,14704
+Kerala,9,2009,1,Rice,1187,2343
+Kerala,9,2009,2,Sesamum,116,48
+Kerala,9,2009,3,Rice,1295,4281
+Kerala,9,2009,0,Arecanut,19994,25542
+Kerala,9,2009,0,Banana,6516,45590
+Kerala,9,2009,0,Black pepper,6147,581
+Kerala,9,2009,0,Cardamom,70,
+Kerala,9,2009,0,Cashewnut,4475,2272
+Kerala,9,2009,0,Coconut ,108380,1063000000
+Kerala,9,2009,0,Dry ginger,62,141
+Kerala,9,2009,0,Sweet potato,106,1219
+Kerala,9,2009,0,Tapioca,5808,225500
+Kerala,9,2009,0,Turmeric,240,469
+Kerala,9,2009,4,Rice,6356,13269
+Kerala,9,2010,1,Rice,1088.27,2296.7
+Kerala,9,2010,2,Sesamum,170.64,76.19
+Kerala,9,2010,3,Rice,1770.44,5946.44
+Kerala,9,2010,0,Arecanut,19619.88,17290.67
+Kerala,9,2010,0,Banana,7843.57,57176.5
+Kerala,9,2010,0,Black pepper,5732.39,477.9
+Kerala,9,2010,0,Cashewnut,3572.25,1304.46
+Kerala,9,2010,0,Coconut ,104178.22,916053000
+Kerala,9,2010,0,Dry ginger,61.15,124.69
+Kerala,9,2010,0,Sugarcane,0.05,
+Kerala,9,2010,0,Tapioca,5499.89,197190.02
+Kerala,9,2010,0,Turmeric,266.33,485.76
+Kerala,9,2010,4,Rice,6090.74,12826.27
+Kerala,9,2011,1,Rice,766.64,1588.67
+Kerala,9,2011,2,Sesamum,101.07,34.13
+Kerala,9,2011,3,Rice,1620.08,5845.58
+Kerala,9,2011,0,Arecanut,19977.85,23233.34
+Kerala,9,2011,0,Banana,6865.81,61965.69
+Kerala,9,2011,0,Black pepper,2589.77,519.81
+Kerala,9,2011,0,Cardamom,70,1
+Kerala,9,2011,0,Cashewnut,3825.91,1624.7
+Kerala,9,2011,0,Coconut ,109229.36,946781000
+Kerala,9,2011,0,Dry ginger,47.41,96.82
+Kerala,9,2011,0,Potato,124,1426
+Kerala,9,2011,0,Sugarcane,0.09,
+Kerala,9,2011,0,Tapioca,5267.6,185161.01
+Kerala,9,2011,0,Turmeric,282.5,532.91
+Kerala,9,2011,4,Rice,5140.8,11142.31
+Kerala,9,2012,1,Rice,493,1074
+Kerala,9,2012,3,Rice,1458,5115
+Kerala,9,2012,0,Arecanut,19411,27126
+Kerala,9,2012,0,Banana,7529,62501
+Kerala,9,2012,0,Black pepper,2517,542
+Kerala,9,2012,0,Blackgram,4,
+Kerala,9,2012,0,Cardamom,70,2
+Kerala,9,2012,0,Cashewnut,3347,1313
+Kerala,9,2012,0,Coconut ,102417,1125000000
+Kerala,9,2012,0,Cowpea(Lobia),39,
+Kerala,9,2012,0,Drum Stick,2045,981
+Kerala,9,2012,0,Dry ginger,42,77
+Kerala,9,2012,0,Jack Fruit,8161,
+Kerala,9,2012,0,Mango,7490,34568
+Kerala,9,2012,0,Papaya,1697,7987
+Kerala,9,2012,0,Pineapple,115,710
+Kerala,9,2012,0,Pump Kin,295,
+Kerala,9,2012,0,Ragi,1,
+Kerala,9,2012,0,Sesamum,95,29
+Kerala,9,2012,0,Sugarcane,1,
+Kerala,9,2012,0,Sweet potato,65,796
+Kerala,9,2012,0,Tapioca,5010,185481
+Kerala,9,2012,0,Turmeric,258,483
+Kerala,9,2012,4,Rice,4723,9188
+Kerala,9,2012,4,Sesamum,95,29
+Kerala,9,2013,1,Rice,121,272
+Kerala,9,2013,3,Rice,1798,6624
+Kerala,9,2013,0,Arecanut,18644,18838
+Kerala,9,2013,0,Banana,7740,67216
+Kerala,9,2013,0,Black pepper,2631,613
+Kerala,9,2013,0,Blackgram,2,
+Kerala,9,2013,0,Cardamom,70,2
+Kerala,9,2013,0,Cashewnut,2913,930
+Kerala,9,2013,0,Coconut ,105481,935000000
+Kerala,9,2013,0,Cowpea(Lobia),37,
+Kerala,9,2013,0,Drum Stick,2427,1164
+Kerala,9,2013,0,Dry ginger,28,61
+Kerala,9,2013,0,Mango,8010,34153
+Kerala,9,2013,0,Moong(Green Gram),3,
+Kerala,9,2013,0,Pump Kin,293,
+Kerala,9,2013,0,Sesamum,88,30
+Kerala,9,2013,0,Sweet potato,84,1008
+Kerala,9,2013,0,Tapioca,4317,149997
+Kerala,9,2013,0,Turmeric,254,503
+Kerala,9,2013,4,Rice,5630,12813
+Kerala,9,2014,1,Rice,494,1020
+Kerala,9,2014,3,Rice,1940,7577
+Kerala,9,2014,0,Arecanut,18352,22073
+Kerala,9,2014,0,Banana,6986,58163
+Kerala,9,2014,0,Black pepper,2913,650
+Kerala,9,2014,0,Cardamom,70,2
+Kerala,9,2014,0,Cashewnut,2582,671
+Kerala,9,2014,0,Coconut ,103691,933000000
+Kerala,9,2014,0,Cowpea(Lobia),168,
+Kerala,9,2014,0,Dry ginger,44,98
+Kerala,9,2014,0,Pump Kin,360,
+Kerala,9,2014,0,Sesamum,107,36.49
+Kerala,9,2014,0,Sweet potato,106,1272
+Kerala,9,2014,0,Tapioca,5405,191322
+Kerala,9,2014,0,Turmeric,284,621
+Kerala,9,2014,4,Rice,5968,13682
+Kerala,10,1997,0,Arecanut,4425,3336
+Kerala,10,1997,0,Black pepper,4302,540
+Kerala,10,1997,0,Cashewnut,7113,2666
+Kerala,10,1997,0,Coconut ,58268,225000
+Kerala,10,1997,0,Tapioca,7692,142187
+Kerala,10,1998,1,Rice,45915,98955
+Kerala,10,1998,2,Cotton(lint),10999,17752
+Kerala,10,1998,2,Groundnut,7019,5218
+Kerala,10,1998,2,Jowar,2175,1107
+Kerala,10,1998,2,Ragi,1115,902
+Kerala,10,1998,2,Sesamum,78,39
+Kerala,10,1998,3,Rice,5822,15619
+Kerala,10,1998,0,Arecanut,3767,1921
+Kerala,10,1998,0,Banana,4612,54078
+Kerala,10,1998,0,Black pepper,4733,826
+Kerala,10,1998,0,Cardamom,2928,175
+Kerala,10,1998,0,Cashewnut,5998,2612
+Kerala,10,1998,0,Coconut ,45439,194000000
+Kerala,10,1998,0,Dry chillies,100,107
+Kerala,10,1998,0,Dry ginger,940,3329
+Kerala,10,1998,0,Sugarcane,2653,236770
+Kerala,10,1998,0,Sweet potato,649,5986
+Kerala,10,1998,0,Tapioca,6815,156619
+Kerala,10,1998,0,Turmeric,598,1162
+Kerala,10,1998,4,Rice,55730,123214
+Kerala,10,1999,1,Rice,51685,106137
+Kerala,10,1999,2,Cotton(lint),4772,7702
+Kerala,10,1999,2,Groundnut,6920,5144
+Kerala,10,1999,2,Jowar,2528,1287
+Kerala,10,1999,2,Ragi,837,677
+Kerala,10,1999,2,Sesamum,115,53
+Kerala,10,1999,3,Rice,7289,21482
+Kerala,10,1999,0,Arecanut,3786,2320
+Kerala,10,1999,0,Banana,5279,52737
+Kerala,10,1999,0,Black pepper,4844,818
+Kerala,10,1999,0,Cardamom,2919,180
+Kerala,10,1999,0,Cashewnut,5854,2258
+Kerala,10,1999,0,Coconut ,45857,218000000
+Kerala,10,1999,0,Dry chillies,139,149
+Kerala,10,1999,0,Dry ginger,1191,3433
+Kerala,10,1999,0,Sugarcane,2713,334730
+Kerala,10,1999,0,Sweet potato,519,4787
+Kerala,10,1999,0,Tapioca,6373,133282
+Kerala,10,1999,0,Turmeric,771,1498
+Kerala,10,1999,4,Rice,50730,123292
+Kerala,10,2000,1,Rice,58580,125079
+Kerala,10,2000,2,Cotton(lint),3847,6209
+Kerala,10,2000,2,Groundnut,3676,2733
+Kerala,10,2000,2,Jowar,463,236
+Kerala,10,2000,2,Ragi,1943,1572
+Kerala,10,2000,2,Sesamum,142,41
+Kerala,10,2000,3,Rice,7600,24496
+Kerala,10,2000,0,Arecanut,4241,2859
+Kerala,10,2000,0,Banana,5931,40376
+Kerala,10,2000,0,Black pepper,4916,598
+Kerala,10,2000,0,Cardamom,2921,176
+Kerala,10,2000,0,Cashewnut,6136,2458
+Kerala,10,2000,0,Coconut ,46393,252000000
+Kerala,10,2000,0,Dry ginger,1460,5699
+Kerala,10,2000,0,Sugarcane,1643,139770
+Kerala,10,2000,0,Sweet potato,369,3403
+Kerala,10,2000,0,Tapioca,6646,136341
+Kerala,10,2000,0,Turmeric,778,1985
+Kerala,10,2000,4,Rice,52521,112598
+Kerala,10,2001,1,Rice,57462,129463
+Kerala,10,2001,2,Cotton(lint),3760,6069
+Kerala,10,2001,2,Groundnut,2437,1812
+Kerala,10,2001,2,Jowar,2891,1474
+Kerala,10,2001,2,Ragi,1933,1564
+Kerala,10,2001,2,Sesamum,93,34
+Kerala,10,2001,3,Rice,7338,20493
+Kerala,10,2001,0,Arecanut,4026,4007
+Kerala,10,2001,0,Banana,7414,66041
+Kerala,10,2001,0,Black pepper,5063,723
+Kerala,10,2001,0,Cardamom,2754,190
+Kerala,10,2001,0,Cashewnut,5947,2262
+Kerala,10,2001,0,Coconut ,50568,284000000
+Kerala,10,2001,0,Coffee,4650,3450
+Kerala,10,2001,0,Dry ginger,1452,6478
+Kerala,10,2001,0,Rubber,28985,31759
+Kerala,10,2001,0,Sugarcane,1610,136960
+Kerala,10,2001,0,Sweet potato,257,2370
+Kerala,10,2001,0,Tapioca,5649,133313
+Kerala,10,2001,0,Tea,852,1973
+Kerala,10,2001,0,Turmeric,799,2152
+Kerala,10,2001,4,Rice,51104,119346
+Kerala,10,2002,1,Rice,57583,117326
+Kerala,10,2002,2,Cotton(lint),3400,5488
+Kerala,10,2002,2,Groundnut,2422,1801
+Kerala,10,2002,2,Jowar,2565,1308
+Kerala,10,2002,2,Ragi,1294,1047
+Kerala,10,2002,2,Sesamum,106,26
+Kerala,10,2002,3,Rice,5124,14371
+Kerala,10,2002,0,Arecanut,4936,5706
+Kerala,10,2002,0,Banana,8155,65005
+Kerala,10,2002,0,Bhindi,446,0
+Kerala,10,2002,0,Bitter Gourd,232,0
+Kerala,10,2002,0,Black pepper,5482,778
+Kerala,10,2002,0,Brinjal,139,0
+Kerala,10,2002,0,Cardamom,2754,201
+Kerala,10,2002,0,Cashewnut,5463,2316
+Kerala,10,2002,0,Cashewnut Raw,5463,2316
+Kerala,10,2002,0,Coconut ,53207,363000000
+Kerala,10,2002,0,Coffee,4650,2150
+Kerala,10,2002,0,Drum Stick,2041,2714
+Kerala,10,2002,0,Dry ginger,1133,4196
+Kerala,10,2002,0,Jack Fruit,5398,21
+Kerala,10,2002,0,Mango,8742,46783
+Kerala,10,2002,0,Other Fresh Fruits,1307,0
+Kerala,10,2002,0,other oilseeds,1235,0
+Kerala,10,2002,0,Other Vegetables,10497,0
+Kerala,10,2002,0,Papaya,1326,8791
+Kerala,10,2002,0,Pineapple,139,1001
+Kerala,10,2002,0,Rubber,29064,34334
+Kerala,10,2002,0,Snak Guard,43,0
+Kerala,10,2002,0,Sugarcane,1989,169200
+Kerala,10,2002,0,Sweet potato,180,1660
+Kerala,10,2002,0,Tapioca,4960,105002
+Kerala,10,2002,0,Tea,852,2124
+Kerala,10,2002,0,Turmeric,698,1747
+Kerala,10,2002,4,Rice,53203,112229
+Kerala,10,2003,1,Rice,52811,114479
+Kerala,10,2003,2,Cotton(lint),2949,4748
+Kerala,10,2003,2,Groundnut,2687,1988
+Kerala,10,2003,2,Jowar,2109,1076
+Kerala,10,2003,2,Ragi,1427,1156
+Kerala,10,2003,2,Sesamum,159,17
+Kerala,10,2003,2,Small millets,1033,806
+Kerala,10,2003,3,Rice,3967,6551
+Kerala,10,2003,0,Arecanut,5963,6615
+Kerala,10,2003,0,Banana,10096,74576
+Kerala,10,2003,0,Bhindi,468,0
+Kerala,10,2003,0,Bitter Gourd,252,0
+Kerala,10,2003,0,Black pepper,6079,875
+Kerala,10,2003,0,Brinjal,284,0
+Kerala,10,2003,0,Cardamom,2754,213
+Kerala,10,2003,0,Cashewnut,5083,2123
+Kerala,10,2003,0,Coconut ,55655,380000000
+Kerala,10,2003,0,Drum Stick,2092,2782
+Kerala,10,2003,0,Dry ginger,902,1932
+Kerala,10,2003,0,Jack Fruit,5536,21
+Kerala,10,2003,0,Mango,9802,66664
+Kerala,10,2003,0,Other Fresh Fruits,1112,0
+Kerala,10,2003,0,Other Vegetables,11483,0
+Kerala,10,2003,0,Papaya,1352,8964
+Kerala,10,2003,0,Pineapple,183,1733
+Kerala,10,2003,0,Snak Guard,54,0
+Kerala,10,2003,0,Sugarcane,1592,135480
+Kerala,10,2003,0,Sweet potato,330,3043
+Kerala,10,2003,0,Tapioca,3939,92021
+Kerala,10,2003,0,Turmeric,548,933
+Kerala,10,2003,4,Rice,48353,68413
+Kerala,10,2004,1,Rice,54409,126966
+Kerala,10,2004,2,Cotton(lint),1472,2370
+Kerala,10,2004,2,Groundnut,1346,996
+Kerala,10,2004,2,Jowar,2564,1308
+Kerala,10,2004,2,Other Cereals & Millets,794,620
+Kerala,10,2004,2,Ragi,1310,1061
+Kerala,10,2004,2,Sesamum,57,7
+Kerala,10,2004,3,Rice,420,749
+Kerala,10,2004,0,Arecanut,6464,6248
+Kerala,10,2004,0,Banana,10705,86083
+Kerala,10,2004,0,Black pepper,7305,991
+Kerala,10,2004,0,Cardamom,2756,229
+Kerala,10,2004,0,Cashewnut,4814,2436
+Kerala,10,2004,0,Coconut ,55533,344000000
+Kerala,10,2004,0,Dry ginger,969,3316
+Kerala,10,2004,0,Sugarcane,790,67230
+Kerala,10,2004,0,Sweet potato,276,2545
+Kerala,10,2004,0,Tapioca,4186,101867
+Kerala,10,2004,0,Turmeric,532,1287
+Kerala,10,2004,4,Rice,56200,132403
+Kerala,10,2005,1,Rice,49411,112132
+Kerala,10,2005,2,Cotton(lint),2655,3452
+Kerala,10,2005,2,Groundnut,3299,2441
+Kerala,10,2005,2,Jowar,2446,1247
+Kerala,10,2005,2,Ragi,414,335
+Kerala,10,2005,2,Sesamum,64,11
+Kerala,10,2005,3,Rice,318,774
+Kerala,10,2005,0,Arecanut,6466,6290
+Kerala,10,2005,0,Banana,11248,82643
+Kerala,10,2005,0,Black pepper,7457,1129
+Kerala,10,2005,0,Cardamom,2754,270
+Kerala,10,2005,0,Cashewnut,4391,1785
+Kerala,10,2005,0,Coconut ,55437,415000000
+Kerala,10,2005,0,Dry ginger,1362,6350
+Kerala,10,2005,0,Sugarcane,360,34850
+Kerala,10,2005,0,Sweet potato,129,1190
+Kerala,10,2005,0,Tapioca,3994,105321
+Kerala,10,2005,0,Turmeric,799,2501
+Kerala,10,2005,4,Rice,64190,153728
+Kerala,10,2006,1,Rice,44443,100669
+Kerala,10,2006,2,Cotton(lint),1300,1690
+Kerala,10,2006,2,Groundnut,2813,2081
+Kerala,10,2006,2,Jowar,1802,919
+Kerala,10,2006,2,Other Cereals & Millets,489,382
+Kerala,10,2006,2,Ragi,504,408
+Kerala,10,2006,2,Sesamum,98,13
+Kerala,10,2006,3,Rice,6090,17605
+Kerala,10,2006,0,Arecanut,8003,5766
+Kerala,10,2006,0,Banana,11007,80246
+Kerala,10,2006,0,Black pepper,8368,1447
+Kerala,10,2006,0,Cardamom,2754,260
+Kerala,10,2006,0,Cashewnut,5094,1980
+Kerala,10,2006,0,Coconut ,60182,420000000
+Kerala,10,2006,0,Dry ginger,1762,8651
+Kerala,10,2006,0,Sugarcane,222,10120
+Kerala,10,2006,0,Sweet potato,87,803
+Kerala,10,2006,0,Tapioca,3643,97180
+Kerala,10,2006,0,Turmeric,923,2856
+Kerala,10,2006,4,Rice,58675,151829
+Kerala,10,2007,1,Rice,47083,108300
+Kerala,10,2007,2,Cotton(lint),1292,1680
+Kerala,10,2007,2,Groundnut,2910,2153
+Kerala,10,2007,2,Jowar,3065,1563
+Kerala,10,2007,2,Other Cereals & Millets,289,226
+Kerala,10,2007,2,Ragi,260,210
+Kerala,10,2007,2,Sesamum,76,15
+Kerala,10,2007,3,Rice,6086,17088
+Kerala,10,2007,0,Arecanut,7551,5231
+Kerala,10,2007,0,Banana,12940,93157
+Kerala,10,2007,0,Black pepper,7081,985
+Kerala,10,2007,0,Cardamom,2754,274
+Kerala,10,2007,0,Cashewnut,3442,1571
+Kerala,10,2007,0,Coconut ,60393,422000000
+Kerala,10,2007,0,Dry ginger,1240,5744
+Kerala,10,2007,0,Sugarcane,772,27140
+Kerala,10,2007,0,Sweet potato,115,1061
+Kerala,10,2007,0,Tapioca,3225,72528
+Kerala,10,2007,0,Turmeric,716,1980
+Kerala,10,2007,4,Rice,46004,118856
+Kerala,10,2008,1,Rice,45659,111561
+Kerala,10,2008,2,Cotton(lint),1152,1498
+Kerala,10,2008,2,Groundnut,1733,1282
+Kerala,10,2008,2,Jowar,2294,1170
+Kerala,10,2008,2,Other Cereals & Millets,342,267
+Kerala,10,2008,2,Ragi,598,484
+Kerala,10,2008,2,Sesamum,33,9
+Kerala,10,2008,3,Rice,8143,23537
+Kerala,10,2008,0,Arecanut,8195,10595
+Kerala,10,2008,0,Banana,11517,103260
+Kerala,10,2008,0,Black pepper,5661,870
+Kerala,10,2008,0,Cardamom,2754,333
+Kerala,10,2008,0,Cashewnut,3740,1750
+Kerala,10,2008,0,Coconut ,59076,450000000
+Kerala,10,2008,0,Dry ginger,1044,4492
+Kerala,10,2008,0,Sugarcane,772,67630
+Kerala,10,2008,0,Sweet potato,63,581
+Kerala,10,2008,0,Tapioca,3200,75446
+Kerala,10,2008,0,Turmeric,528,1396
+Kerala,10,2008,4,Rice,42388,105045
+Kerala,10,2009,1,Rice,45200,112866
+Kerala,10,2009,2,Cotton(lint),1018,1324
+Kerala,10,2009,2,Groundnut,1339,991
+Kerala,10,2009,2,Jowar,2516,1283
+Kerala,10,2009,2,Other Cereals & Millets,214,167
+Kerala,10,2009,2,Ragi,292,236
+Kerala,10,2009,2,Sesamum,63,7
+Kerala,10,2009,3,Rice,6266,16827
+Kerala,10,2009,0,Arecanut,10202,11554
+Kerala,10,2009,0,Banana,10593,80068
+Kerala,10,2009,0,Black pepper,5758,1121
+Kerala,10,2009,0,Cardamom,2754,330
+Kerala,10,2009,0,Cashewnut,3002,1047
+Kerala,10,2009,0,Coconut ,57186,417000000
+Kerala,10,2009,0,Dry ginger,812,3779
+Kerala,10,2009,0,Sugarcane,647,54750
+Kerala,10,2009,0,Sweet potato,137,1264
+Kerala,10,2009,0,Tapioca,2843,90428
+Kerala,10,2009,0,Turmeric,487,1430
+Kerala,10,2009,4,Rice,49056,136538
+Kerala,10,2010,1,Rice,38647.59,96029.74
+Kerala,10,2010,2,Sesamum,68.38,9.47
+Kerala,10,2010,3,Rice,5499.34,15300.23
+Kerala,10,2010,0,Arecanut,9683.13,9338.21
+Kerala,10,2010,0,Banana,14231.5,123004.57
+Kerala,10,2010,0,Black pepper,5465.22,953.99
+Kerala,10,2010,0,Cashewnut,2913.77,901.92
+Kerala,10,2010,0,Coconut ,57094.11,407624000
+Kerala,10,2010,0,Dry ginger,1256.2,6880.52
+Kerala,10,2010,0,Sugarcane,567.79,46783.71
+Kerala,10,2010,0,Tapioca,2474.53,68340.6
+Kerala,10,2010,0,Turmeric,515.13,1616.96
+Kerala,10,2010,4,Rice,43364.45,106825.43
+Kerala,10,2011,1,Rice,37932.97,92522.58
+Kerala,10,2011,2,Sesamum,16.83,3.25
+Kerala,10,2011,3,Rice,3660.19,10687.72
+Kerala,10,2011,0,Arecanut,9589.08,12032.54
+Kerala,10,2011,0,Banana,16458.23,145887.04
+Kerala,10,2011,0,Black pepper,2559.28,869.87
+Kerala,10,2011,0,Cardamom,2754,333
+Kerala,10,2011,0,Cashewnut,2701.59,638.66
+Kerala,10,2011,0,Coconut ,60528.6,492736000
+Kerala,10,2011,0,Dry ginger,1840.43,9543.97
+Kerala,10,2011,0,Potato,63,581
+Kerala,10,2011,0,Sugarcane,329.43,25044.8
+Kerala,10,2011,0,Tapioca,2837.54,85678.57
+Kerala,10,2011,0,Turmeric,960.57,2887.57
+Kerala,10,2011,4,Rice,42405.07,121202.43
+Kerala,10,2012,1,Rice,37021,89411
+Kerala,10,2012,3,Rice,2678,5286
+Kerala,10,2012,0,Arecanut,9601,8946
+Kerala,10,2012,0,Arhar/Tur,1087,1739
+Kerala,10,2012,0,Banana,15243,140094
+Kerala,10,2012,0,Black pepper,2723,914
+Kerala,10,2012,0,Blackgram,111,
+Kerala,10,2012,0,Cardamom,2754,284
+Kerala,10,2012,0,Cashewnut,3134,615
+Kerala,10,2012,0,Coconut ,62513,461000000
+Kerala,10,2012,0,Cowpea(Lobia),10,
+Kerala,10,2012,0,Drum Stick,1727,3544
+Kerala,10,2012,0,Dry ginger,738,3310
+Kerala,10,2012,0,Groundnut,784,976
+Kerala,10,2012,0,Horse-gram,92,
+Kerala,10,2012,0,Jack Fruit,7062,
+Kerala,10,2012,0,Jowar,141,110
+Kerala,10,2012,0,Maize,177,12
+Kerala,10,2012,0,Mango,9368,54380
+Kerala,10,2012,0,Moong(Green Gram),5,
+Kerala,10,2012,0,Onion,40,
+Kerala,10,2012,0,Papaya,816,3571
+Kerala,10,2012,0,Pineapple,84,423
+Kerala,10,2012,0,Potato,16,292
+Kerala,10,2012,0,Pump Kin,276,
+Kerala,10,2012,0,Ragi,112,123
+Kerala,10,2012,0,Sesamum,17,3
+Kerala,10,2012,0,Small millets,62,61
+Kerala,10,2012,0,Soyabean,7,10
+Kerala,10,2012,0,Sugarcane,264,1406
+Kerala,10,2012,0,Sweet potato,90,1516
+Kerala,10,2012,0,Tapioca,2378,69377
+Kerala,10,2012,0,Turmeric,660,1916
+Kerala,10,2012,4,Rice,39502,94532
+Kerala,10,2012,4,Sesamum,17,3
+Kerala,10,2013,1,Rice,35561,97030
+Kerala,10,2013,3,Rice,4642,13159
+Kerala,10,2013,0,Arecanut,9562,8402
+Kerala,10,2013,0,Arhar/Tur,821,1325
+Kerala,10,2013,0,Banana,17427,147292
+Kerala,10,2013,0,Black pepper,2772,1109
+Kerala,10,2013,0,Blackgram,113,
+Kerala,10,2013,0,Cardamom,2755,290
+Kerala,10,2013,0,Cashewnut,3117,804
+Kerala,10,2013,0,Coconut ,61016,397000000
+Kerala,10,2013,0,Cowpea(Lobia),196,
+Kerala,10,2013,0,Drum Stick,2003,4110
+Kerala,10,2013,0,Dry ginger,836,4080
+Kerala,10,2013,0,Groundnut,710,868
+Kerala,10,2013,0,Horse-gram,63,
+Kerala,10,2013,0,Jowar,145,115
+Kerala,10,2013,0,Maize,49,68
+Kerala,10,2013,0,Mango,9399,48305
+Kerala,10,2013,0,Moong(Green Gram),3,
+Kerala,10,2013,0,Onion,97,
+Kerala,10,2013,0,Pump Kin,327,
+Kerala,10,2013,0,Ragi,82,85
+Kerala,10,2013,0,Sesamum,31,4
+Kerala,10,2013,0,Small millets,40,35
+Kerala,10,2013,0,Soyabean,6,9
+Kerala,10,2013,0,Sugarcane,473,3955
+Kerala,10,2013,0,Sweet potato,123,2091
+Kerala,10,2013,0,Tapioca,2170,62837
+Kerala,10,2013,0,Turmeric,656,1897
+Kerala,10,2013,4,Rice,42693,127876
+Kerala,10,2014,1,Rice,37371,95178
+Kerala,10,2014,3,Rice,2695,8925
+Kerala,10,2014,0,Arecanut,9062,8561
+Kerala,10,2014,0,Arhar/Tur,827,1384
+Kerala,10,2014,0,Banana,18628,175132
+Kerala,10,2014,0,Black pepper,2695,969
+Kerala,10,2014,0,Blackgram,122,
+Kerala,10,2014,0,Cardamom,2755,290
+Kerala,10,2014,0,Cashewnut,2353,609
+Kerala,10,2014,0,Coconut ,60687,442000000
+Kerala,10,2014,0,Cowpea(Lobia),24,
+Kerala,10,2014,0,Dry ginger,1140,5154
+Kerala,10,2014,0,Groundnut,480,692
+Kerala,10,2014,0,Horse-gram,89,
+Kerala,10,2014,0,Jowar,173,128
+Kerala,10,2014,0,Maize,64,64
+Kerala,10,2014,0,Moong(Green Gram),8,
+Kerala,10,2014,0,Onion,57,
+Kerala,10,2014,0,Pump Kin,336,
+Kerala,10,2014,0,Ragi,77,76
+Kerala,10,2014,0,Sesamum,23,3.96
+Kerala,10,2014,0,Small millets,27,21
+Kerala,10,2014,0,Soyabean,1,1.4
+Kerala,10,2014,0,Sugarcane,371.81,3142
+Kerala,10,2014,0,Sweet potato,110,1650
+Kerala,10,2014,0,Tapioca,2631,78634
+Kerala,10,2014,0,Turmeric,591,1629
+Kerala,10,2014,4,Rice,42846,132295
+Kerala,11,1997,0,Arecanut,1306,1873
+Kerala,11,1997,0,Black pepper,4420,1767
+Kerala,11,1997,0,Cashewnut,1195,800
+Kerala,11,1997,0,Coconut ,26032,163000
+Kerala,11,1997,0,Tapioca,7338,159359
+Kerala,11,1998,1,Rice,1372,2499
+Kerala,11,1998,2,Sesamum,16,12
+Kerala,11,1998,3,Rice,2960,10424
+Kerala,11,1998,0,Arecanut,1146,923
+Kerala,11,1998,0,Banana,1213,16980
+Kerala,11,1998,0,Black pepper,3793,1097
+Kerala,11,1998,0,Cardamom,664,46
+Kerala,11,1998,0,Cashewnut,1050,403
+Kerala,11,1998,0,Coconut ,21994,118000000
+Kerala,11,1998,0,Dry chillies,2,2
+Kerala,11,1998,0,Dry ginger,387,997
+Kerala,11,1998,0,Sugarcane,227,12580
+Kerala,11,1998,0,Tapioca,6076,165089
+Kerala,11,1998,0,Turmeric,70,115
+Kerala,11,1998,4,Rice,3165,6544
+Kerala,11,1999,1,Rice,1000,1967
+Kerala,11,1999,2,Sesamum,8,3
+Kerala,11,1999,3,Rice,3036,10667
+Kerala,11,1999,0,Arecanut,1213,1105
+Kerala,11,1999,0,Banana,1669,16865
+Kerala,11,1999,0,Black pepper,4224,912
+Kerala,11,1999,0,Cardamom,664,61
+Kerala,11,1999,0,Cashewnut,1044,419
+Kerala,11,1999,0,Coconut ,22769,131000000
+Kerala,11,1999,0,Dry chillies,3,3
+Kerala,11,1999,0,Dry ginger,442,1295
+Kerala,11,1999,0,Sugarcane,230,11240
+Kerala,11,1999,0,Tapioca,6877,157998
+Kerala,11,1999,0,Turmeric,103,169
+Kerala,11,1999,4,Rice,2680,6005
+Kerala,11,2000,1,Rice,1070,2214
+Kerala,11,2000,2,Sesamum,1,
+Kerala,11,2000,3,Rice,2557,8975
+Kerala,11,2000,0,Arecanut,1269,1071
+Kerala,11,2000,0,Banana,1975,13354
+Kerala,11,2000,0,Black pepper,5059,1228
+Kerala,11,2000,0,Cardamom,664,67
+Kerala,11,2000,0,Cashewnut,1074,522
+Kerala,11,2000,0,Coconut ,22794,126000000
+Kerala,11,2000,0,Dry ginger,490,1480
+Kerala,11,2000,0,Sugarcane,224,10950
+Kerala,11,2000,0,Tapioca,7681,167849
+Kerala,11,2000,0,Turmeric,72,109
+Kerala,11,2000,4,Rice,2652,5970
+Kerala,11,2001,1,Rice,801,1729
+Kerala,11,2001,2,Sesamum,2,
+Kerala,11,2001,3,Rice,2299,6215
+Kerala,11,2001,0,Arecanut,1345,1071
+Kerala,11,2001,0,Banana,2083,15173
+Kerala,11,2001,0,Black pepper,5613,1455
+Kerala,11,2001,0,Cardamom,664,77
+Kerala,11,2001,0,Cashewnut,1137,524
+Kerala,11,2001,0,Coconut ,22696,124000000
+Kerala,11,2001,0,Dry ginger,482,1351
+Kerala,11,2001,0,Rubber,47862,62502
+Kerala,11,2001,0,Sugarcane,142,6940
+Kerala,11,2001,0,Tapioca,8833,199315
+Kerala,11,2001,0,Turmeric,69,117
+Kerala,11,2001,4,Rice,2118,4911
+Kerala,11,2002,1,Rice,815,1639
+Kerala,11,2002,2,Sesamum,1,
+Kerala,11,2002,3,Rice,2380,6992
+Kerala,11,2002,0,Arecanut,1343,1317
+Kerala,11,2002,0,Banana,2055,18389
+Kerala,11,2002,0,Bhindi,48,0
+Kerala,11,2002,0,Bitter Gourd,85,0
+Kerala,11,2002,0,Black pepper,5214,1231
+Kerala,11,2002,0,Brinjal,57,0
+Kerala,11,2002,0,Cardamom,664,78
+Kerala,11,2002,0,Cashewnut,1107,527
+Kerala,11,2002,0,Cashewnut Raw,1107,527
+Kerala,11,2002,0,Coconut ,21764,122000000
+Kerala,11,2002,0,Drum Stick,615,632
+Kerala,11,2002,0,Dry ginger,619,1536
+Kerala,11,2002,0,Jack Fruit,2903,16
+Kerala,11,2002,0,Mango,1630,13013
+Kerala,11,2002,0,Other Fresh Fruits,875,0
+Kerala,11,2002,0,other oilseeds,27,0
+Kerala,11,2002,0,Other Vegetables,5496,0
+Kerala,11,2002,0,Papaya,681,3762
+Kerala,11,2002,0,Pineapple,235,1582
+Kerala,11,2002,0,Rubber,47905,62833
+Kerala,11,2002,0,Snak Guard,59,0
+Kerala,11,2002,0,Sugarcane,95,4640
+Kerala,11,2002,0,Sweet potato,4,44
+Kerala,11,2002,0,Tapioca,7614,186265
+Kerala,11,2002,0,Tea,1348,0.1
+Kerala,11,2002,0,Turmeric,102,144
+Kerala,11,2002,4,Rice,2236,4890
+Kerala,11,2003,1,Rice,683,1437
+Kerala,11,2003,2,Sesamum,12,2
+Kerala,11,2003,3,Rice,2009,5299
+Kerala,11,2003,0,Arecanut,1488,1289
+Kerala,11,2003,0,Banana,2343,18070
+Kerala,11,2003,0,Bhindi,37,0
+Kerala,11,2003,0,Bitter Gourd,84,0
+Kerala,11,2003,0,Black pepper,5154,1356
+Kerala,11,2003,0,Brinjal,83,0
+Kerala,11,2003,0,Cardamom,664,79
+Kerala,11,2003,0,Cashewnut,1149,631
+Kerala,11,2003,0,Coconut ,21660,121000000
+Kerala,11,2003,0,Drum Stick,628,647
+Kerala,11,2003,0,Dry ginger,470,1150
+Kerala,11,2003,0,Jack Fruit,2997,15
+Kerala,11,2003,0,Mango,1684,12529
+Kerala,11,2003,0,Other Fresh Fruits,766,0
+Kerala,11,2003,0,Other Vegetables,4546,0
+Kerala,11,2003,0,Papaya,698,3853
+Kerala,11,2003,0,Pineapple,279,1798
+Kerala,11,2003,0,Snak Guard,88,0
+Kerala,11,2003,0,Sugarcane,129,6300
+Kerala,11,2003,0,Tapioca,7524,184733
+Kerala,11,2003,0,Turmeric,95,159
+Kerala,11,2003,4,Rice,2570,5905
+Kerala,11,2004,1,Rice,834,1852
+Kerala,11,2004,2,Sesamum,3,1
+Kerala,11,2004,3,Rice,1702,4699
+Kerala,11,2004,0,Arecanut,1467,1216
+Kerala,11,2004,0,Banana,2483,17659
+Kerala,11,2004,0,Black pepper,5651,1328
+Kerala,11,2004,0,Cardamom,664,82
+Kerala,11,2004,0,Cashewnut,1141,636
+Kerala,11,2004,0,Coconut ,21739,114000000
+Kerala,11,2004,0,Dry ginger,526,1358
+Kerala,11,2004,0,Sugarcane,123,6010
+Kerala,11,2004,0,Tapioca,7991,226993
+Kerala,11,2004,0,Turmeric,126,234
+Kerala,11,2004,4,Rice,1803,4233
+Kerala,11,2005,1,Rice,772,1549
+Kerala,11,2005,2,Sesamum,10,3
+Kerala,11,2005,3,Rice,955,2460
+Kerala,11,2005,0,Arecanut,1462,1637
+Kerala,11,2005,0,Banana,2583,23302
+Kerala,11,2005,0,Black pepper,5529,1419
+Kerala,11,2005,0,Cardamom,664,9
+Kerala,11,2005,0,Cashewnut,1048,528
+Kerala,11,2005,0,Coconut ,21375,119000000
+Kerala,11,2005,0,Dry ginger,632,1908
+Kerala,11,2005,0,Sugarcane,55,2020
+Kerala,11,2005,0,Sweet potato,7,77
+Kerala,11,2005,0,Tapioca,7868,255006
+Kerala,11,2005,0,Turmeric,137,263
+Kerala,11,2005,4,Rice,1564,3509
+Kerala,11,2006,1,Rice,230,550
+Kerala,11,2006,2,Sesamum,1,
+Kerala,11,2006,3,Rice,952,3128
+Kerala,11,2006,0,Arecanut,1346,1003
+Kerala,11,2006,0,Banana,2599,21447
+Kerala,11,2006,0,Black pepper,4919,1434
+Kerala,11,2006,0,Cardamom,664,8
+Kerala,11,2006,0,Cashewnut,1025,458
+Kerala,11,2006,0,Coconut ,18842,109000000
+Kerala,11,2006,0,Dry ginger,604,1797
+Kerala,11,2006,0,Sugarcane,36,1200
+Kerala,11,2006,0,Sweet potato,5,55
+Kerala,11,2006,0,Tapioca,7000,246963
+Kerala,11,2006,0,Turmeric,103,174
+Kerala,11,2006,4,Rice,1434,3423
+Kerala,11,2007,1,Rice,105,241
+Kerala,11,2007,2,Sesamum,1,
+Kerala,11,2007,3,Rice,1329,3040
+Kerala,11,2007,0,Arecanut,1212,593
+Kerala,11,2007,0,Banana,2513,20270
+Kerala,11,2007,0,Black pepper,3934,1191
+Kerala,11,2007,0,Cardamom,664,6
+Kerala,11,2007,0,Cashewnut,893,303
+Kerala,11,2007,0,Coconut ,17903,107000000
+Kerala,11,2007,0,Dry ginger,545,1777
+Kerala,11,2007,0,Sugarcane,45,440
+Kerala,11,2007,0,Sweet potato,3,33
+Kerala,11,2007,0,Tapioca,6783,253419
+Kerala,11,2007,0,Turmeric,92,167
+Kerala,11,2007,4,Rice,567,1350
+Kerala,11,2008,1,Rice,130,303
+Kerala,11,2008,3,Rice,1687,4941
+Kerala,11,2008,0,Arecanut,1082,555
+Kerala,11,2008,0,Banana,1994,15715
+Kerala,11,2008,0,Black pepper,3612,986
+Kerala,11,2008,0,Cardamom,664,12
+Kerala,11,2008,0,Cashewnut,704,253
+Kerala,11,2008,0,Coconut ,16632,111000000
+Kerala,11,2008,0,Dry ginger,166,463
+Kerala,11,2008,0,Sugarcane,14,3210
+Kerala,11,2008,0,Sweet potato,2,22
+Kerala,11,2008,0,Tapioca,6454,235436
+Kerala,11,2008,0,Turmeric,43,83
+Kerala,11,2008,4,Rice,864,2155
+Kerala,11,2009,1,Rice,185,466
+Kerala,11,2009,3,Rice,2208,5782
+Kerala,11,2009,0,Arecanut,1104,615
+Kerala,11,2009,0,Banana,2032,16860
+Kerala,11,2009,0,Black pepper,3598,850
+Kerala,11,2009,0,Cardamom,664,11
+Kerala,11,2009,0,Cashewnut,658,254
+Kerala,11,2009,0,Coconut ,16213,114000000
+Kerala,11,2009,0,Dry ginger,305,860
+Kerala,11,2009,0,Sugarcane,9,720
+Kerala,11,2009,0,Sweet potato,1,11
+Kerala,11,2009,0,Tapioca,6440,293652
+Kerala,11,2009,0,Turmeric,77,125
+Kerala,11,2009,4,Rice,603,1490
+Kerala,11,2010,1,Rice,112.56,245.28
+Kerala,11,2010,3,Rice,2393.46,5289.7
+Kerala,11,2010,0,Arecanut,1118.41,674.23
+Kerala,11,2010,0,Banana,2061.47,16321.3
+Kerala,11,2010,0,Black pepper,3420.93,782.1
+Kerala,11,2010,0,Cashewnut,596.9,204.07
+Kerala,11,2010,0,Coconut ,15626.74,112043000
+Kerala,11,2010,0,Dry ginger,323.56,985.4
+Kerala,11,2010,0,Sugarcane,23.75,1021.25
+Kerala,11,2010,0,Tapioca,6124.23,235256.85
+Kerala,11,2010,0,Turmeric,91.6,171.8
+Kerala,11,2010,4,Rice,479.99,1092.54
+Kerala,11,2011,1,Rice,45.42,96.02
+Kerala,11,2011,3,Rice,2282.25,7513.28
+Kerala,11,2011,0,Arecanut,1219.11,754.1
+Kerala,11,2011,0,Banana,1966.23,15631.45
+Kerala,11,2011,0,Black pepper,1733.21,858.93
+Kerala,11,2011,0,Cardamom,664,12
+Kerala,11,2011,0,Cashewnut,620.91,201.6
+Kerala,11,2011,0,Coconut ,16184.56,137055000
+Kerala,11,2011,0,Dry ginger,313.77,1009.04
+Kerala,11,2011,0,Potato,2,22
+Kerala,11,2011,0,Sugarcane,25.28,1119
+Kerala,11,2011,0,Tapioca,6001.19,232745.84
+Kerala,11,2011,0,Turmeric,91.16,189.39
+Kerala,11,2011,4,Rice,474.82,1380.16
+Kerala,11,2012,1,Rice,34,92
+Kerala,11,2012,3,Rice,1847,4965
+Kerala,11,2012,0,Arecanut,1197,766
+Kerala,11,2012,0,Banana,2020,15210
+Kerala,11,2012,0,Black pepper,1692,753
+Kerala,11,2012,0,Cardamom,664,24
+Kerala,11,2012,0,Cashewnut,532,161
+Kerala,11,2012,0,Coconut ,15433,110000000
+Kerala,11,2012,0,Drum Stick,441,291
+Kerala,11,2012,0,Dry ginger,294,814
+Kerala,11,2012,0,Jack Fruit,2554,
+Kerala,11,2012,0,Mango,1520,8644
+Kerala,11,2012,0,Papaya,630,6003
+Kerala,11,2012,0,Pineapple,168,1294
+Kerala,11,2012,0,Pump Kin,36,
+Kerala,11,2012,0,Sugarcane,10,44
+Kerala,11,2012,0,Tapioca,5420,214843
+Kerala,11,2012,0,Turmeric,73,135
+Kerala,11,2012,4,Rice,399,984
+Kerala,11,2013,1,Rice,8,18
+Kerala,11,2013,3,Rice,1970,6304
+Kerala,11,2013,0,Arecanut,1210,833
+Kerala,11,2013,0,Banana,2096,15265
+Kerala,11,2013,0,Black pepper,1653,738
+Kerala,11,2013,0,Cardamom,665,8
+Kerala,11,2013,0,Cashewnut,475,135
+Kerala,11,2013,0,Coconut ,15606,98000000
+Kerala,11,2013,0,Cowpea(Lobia),14,
+Kerala,11,2013,0,Drum Stick,498,329
+Kerala,11,2013,0,Dry ginger,276,834
+Kerala,11,2013,0,Mango,1714,9274
+Kerala,11,2013,0,Pump Kin,38,
+Kerala,11,2013,0,Sugarcane,16,169
+Kerala,11,2013,0,Sweet potato,1,11
+Kerala,11,2013,0,Tapioca,5082,214215
+Kerala,11,2013,0,Turmeric,73,130
+Kerala,11,2013,4,Rice,489,1232
+Kerala,11,2014,1,Rice,35,53
+Kerala,11,2014,3,Rice,2084,6214
+Kerala,11,2014,0,Arecanut,1182,840
+Kerala,11,2014,0,Banana,2182,17091
+Kerala,11,2014,0,Black pepper,1661,705
+Kerala,11,2014,0,Cardamom,665,8
+Kerala,11,2014,0,Cashewnut,455,121
+Kerala,11,2014,0,Coconut ,15803,92000000
+Kerala,11,2014,0,Cowpea(Lobia),12,
+Kerala,11,2014,0,Dry ginger,289,1044
+Kerala,11,2014,0,Pump Kin,45,
+Kerala,11,2014,0,Sugarcane,5.3,53
+Kerala,11,2014,0,Sweet potato,1,12
+Kerala,11,2014,0,Tapioca,5356,233420
+Kerala,11,2014,0,Turmeric,76,170
+Kerala,11,2014,4,Rice,473,1306
+Kerala,12,1997,0,Arecanut,1079,491
+Kerala,12,1997,0,Black pepper,5559,1492
+Kerala,12,1997,0,Cashewnut,2839,2178
+Kerala,12,1997,0,Coconut ,112601,592000
+Kerala,12,1997,0,Tapioca,39434,730475
+Kerala,12,1998,1,Rice,4798,8892
+Kerala,12,1998,2,Groundnut,2,1
+Kerala,12,1998,3,Rice,16,5
+Kerala,12,1998,0,Arecanut,827,455
+Kerala,12,1998,0,Banana,1389,15859
+Kerala,12,1998,0,Black pepper,5800,1953
+Kerala,12,1998,0,Cashewnut,2466,2417
+Kerala,12,1998,0,Coconut ,91271,555000000
+Kerala,12,1998,0,Dry chillies,3,3
+Kerala,12,1998,0,Dry ginger,80,232
+Kerala,12,1998,0,Sugarcane,2,150
+Kerala,12,1998,0,Sweet potato,40,454
+Kerala,12,1998,0,Tapioca,26631,566484
+Kerala,12,1998,0,Turmeric,70,159
+Kerala,12,1998,4,Rice,4784,8792
+Kerala,12,1999,1,Rice,3705,8206
+Kerala,12,1999,3,Rice,50,85
+Kerala,12,1999,0,Arecanut,904,467
+Kerala,12,1999,0,Banana,1599,16134
+Kerala,12,1999,0,Black pepper,5775,1377
+Kerala,12,1999,0,Cashewnut,2804,1406
+Kerala,12,1999,0,Coconut ,91362,608000000
+Kerala,12,1999,0,Dry chillies,5,5
+Kerala,12,1999,0,Dry ginger,77,254
+Kerala,12,1999,0,Sweet potato,47,533
+Kerala,12,1999,0,Tapioca,25981,530595
+Kerala,12,1999,0,Turmeric,52,118
+Kerala,12,1999,4,Rice,4214,9259
+Kerala,12,2000,1,Rice,3388,7216
+Kerala,12,2000,2,Groundnut,1,
+Kerala,12,2000,3,Rice,9,8
+Kerala,12,2000,0,Arecanut,1104,538
+Kerala,12,2000,0,Banana,2149,13668
+Kerala,12,2000,0,Black pepper,5668,1705
+Kerala,12,2000,0,Cardamom,5,
+Kerala,12,2000,0,Cashewnut,2734,1252
+Kerala,12,2000,0,Coconut ,88663,635000000
+Kerala,12,2000,0,Dry ginger,103,312
+Kerala,12,2000,0,Sugarcane,2,200
+Kerala,12,2000,0,Sweet potato,56,635
+Kerala,12,2000,0,Tapioca,27084,468213
+Kerala,12,2000,0,Turmeric,32,40
+Kerala,12,2000,4,Rice,3598,7245
+Kerala,12,2001,1,Rice,3336,7335
+Kerala,12,2001,2,Sesamum,1,1
+Kerala,12,2001,3,Rice,8,6
+Kerala,12,2001,0,Arecanut,1106,493
+Kerala,12,2001,0,Banana,2333,13637
+Kerala,12,2001,0,Black pepper,6376,1642
+Kerala,12,2001,0,Cardamom,4,
+Kerala,12,2001,0,Cashewnut,2461,988
+Kerala,12,2001,0,Coconut ,88604,627000000
+Kerala,12,2001,0,Dry ginger,121,441
+Kerala,12,2001,0,Rubber,28296,33586
+Kerala,12,2001,0,Sugarcane,1,100
+Kerala,12,2001,0,Sweet potato,35,397
+Kerala,12,2001,0,Tapioca,25085,455574
+Kerala,12,2001,0,Tea,965,124
+Kerala,12,2001,0,Turmeric,30,60
+Kerala,12,2001,4,Rice,3466,7345
+Kerala,12,2002,1,Rice,3189,7246
+Kerala,12,2002,3,Rice,3,3
+Kerala,12,2002,0,Arecanut,1216,520
+Kerala,12,2002,0,Banana,2496,16739
+Kerala,12,2002,0,Bhindi,26,0
+Kerala,12,2002,0,Bitter Gourd,128,0
+Kerala,12,2002,0,Black pepper,6569,1790
+Kerala,12,2002,0,Brinjal,27,0
+Kerala,12,2002,0,Cashewnut,2349,1097
+Kerala,12,2002,0,Cashewnut Raw,2349,1097
+Kerala,12,2002,0,Coconut ,87118,606000000
+Kerala,12,2002,0,Drum Stick,2211,3566
+Kerala,12,2002,0,Dry ginger,106,282
+Kerala,12,2002,0,Jack Fruit,6615,31
+Kerala,12,2002,0,Mango,5006,25574
+Kerala,12,2002,0,Other Fresh Fruits,601,0
+Kerala,12,2002,0,other oilseeds,47,0
+Kerala,12,2002,0,Other Vegetables,2286,0
+Kerala,12,2002,0,Papaya,1041,6855
+Kerala,12,2002,0,Pineapple,298,2207
+Kerala,12,2002,0,Rubber,28415,34206
+Kerala,12,2002,0,Snak Guard,154,0
+Kerala,12,2002,0,Sweet potato,56,635
+Kerala,12,2002,0,Tapioca,23922,392510
+Kerala,12,2002,0,Tea,966,336
+Kerala,12,2002,0,Turmeric,45,72
+Kerala,12,2002,4,Rice,3231,6870
+Kerala,12,2003,1,Rice,2551,5666
+Kerala,12,2003,2,Small millets,4,3
+Kerala,12,2003,3,Rice,18,26
+Kerala,12,2003,0,Arecanut,1220,491
+Kerala,12,2003,0,Banana,2353,18872
+Kerala,12,2003,0,Bhindi,33,0
+Kerala,12,2003,0,Bitter Gourd,77,0
+Kerala,12,2003,0,Black pepper,6915,1758
+Kerala,12,2003,0,Brinjal,9,0
+Kerala,12,2003,0,Cashewnut,2239,909
+Kerala,12,2003,0,Coconut ,85506,553000000
+Kerala,12,2003,0,Drum Stick,2227,3585
+Kerala,12,2003,0,Dry ginger,91,284
+Kerala,12,2003,0,Jack Fruit,6704,30
+Kerala,12,2003,0,Mango,4897,24264
+Kerala,12,2003,0,Other Fresh Fruits,510,0
+Kerala,12,2003,0,Other Vegetables,1986,0
+Kerala,12,2003,0,Papaya,1059,6979
+Kerala,12,2003,0,Pineapple,284,2005
+Kerala,12,2003,0,Snak Guard,104,0
+Kerala,12,2003,0,Sugarcane,2,0
+Kerala,12,2003,0,Sweet potato,34,385
+Kerala,12,2003,0,Tapioca,20621,422572
+Kerala,12,2003,0,Turmeric,38,82
+Kerala,12,2003,4,Rice,2802,5586
+Kerala,12,2004,1,Rice,2621,6423
+Kerala,12,2004,3,Rice,2,3
+Kerala,12,2004,0,Arecanut,1263,547
+Kerala,12,2004,0,Banana,2492,15803
+Kerala,12,2004,0,Black pepper,7320,2028
+Kerala,12,2004,0,Cashewnut,2061,761
+Kerala,12,2004,0,Coconut ,84073,568000000
+Kerala,12,2004,0,Dry ginger,103,306
+Kerala,12,2004,0,Sugarcane,3,
+Kerala,12,2004,0,Sweet potato,31,351
+Kerala,12,2004,0,Tapioca,19833,467006
+Kerala,12,2004,0,Turmeric,59,85
+Kerala,12,2004,4,Rice,2573,5930
+Kerala,12,2005,1,Rice,2178,5232
+Kerala,12,2005,3,Rice,14,24
+Kerala,12,2005,0,Arecanut,1249,690
+Kerala,12,2005,0,Banana,2575,17794
+Kerala,12,2005,0,Black pepper,6980,1710
+Kerala,12,2005,0,Cashewnut,1869,1087
+Kerala,12,2005,0,Coconut ,84078,665000000
+Kerala,12,2005,0,Dry ginger,127,298
+Kerala,12,2005,0,Sugarcane,2,120
+Kerala,12,2005,0,Sweet potato,45,510
+Kerala,12,2005,0,Tapioca,19619,463702
+Kerala,12,2005,0,Turmeric,65,134
+Kerala,12,2005,4,Rice,2513,5778
+Kerala,12,2006,1,Rice,1403,3602
+Kerala,12,2006,2,Jowar,1,1
+Kerala,12,2006,3,Rice,73,187
+Kerala,12,2006,0,Arecanut,1074,789
+Kerala,12,2006,0,Banana,2257,15135
+Kerala,12,2006,0,Black pepper,6295,1450
+Kerala,12,2006,0,Cashewnut,1197,582
+Kerala,12,2006,0,Coconut ,77463,603000000
+Kerala,12,2006,0,Dry ginger,89,247
+Kerala,12,2006,0,Sugarcane,1,20
+Kerala,12,2006,0,Sweet potato,23,261
+Kerala,12,2006,0,Tapioca,18122,418332
+Kerala,12,2006,0,Turmeric,28,51
+Kerala,12,2006,4,Rice,2373,6288
+Kerala,12,2007,1,Rice,1309,3243
+Kerala,12,2007,2,Groundnut,1,1
+Kerala,12,2007,2,Ragi,1,1
+Kerala,12,2007,3,Rice,77,184
+Kerala,12,2007,0,Arecanut,1077,579
+Kerala,12,2007,0,Banana,2078,13159
+Kerala,12,2007,0,Black pepper,5557,1423
+Kerala,12,2007,0,Cardamom,5,
+Kerala,12,2007,0,Cashewnut,1222,512
+Kerala,12,2007,0,Coconut ,72473,562000000
+Kerala,12,2007,0,Dry ginger,94,248
+Kerala,12,2007,0,Sugarcane,1,40
+Kerala,12,2007,0,Sweet potato,16,182
+Kerala,12,2007,0,Tapioca,16538,413181
+Kerala,12,2007,0,Turmeric,53,97
+Kerala,12,2007,4,Rice,1481,3755
+Kerala,12,2008,1,Rice,1350,3360
+Kerala,12,2008,3,Rice,116,306
+Kerala,12,2008,0,Arecanut,999,601
+Kerala,12,2008,0,Banana,2689,18858
+Kerala,12,2008,0,Black pepper,5683,1201
+Kerala,12,2008,0,Cashewnut,1024,443
+Kerala,12,2008,0,Coconut ,71675,600000000
+Kerala,12,2008,0,Dry ginger,95,291
+Kerala,12,2008,0,Sweet potato,18,204
+Kerala,12,2008,0,Tapioca,20288,525897
+Kerala,12,2008,0,Turmeric,58,124
+Kerala,12,2008,4,Rice,1529,3608
+Kerala,12,2009,1,Rice,1417,3942
+Kerala,12,2009,2,Groundnut,1,1
+Kerala,12,2009,3,Rice,163,340
+Kerala,12,2009,0,Arecanut,890,460
+Kerala,12,2009,0,Banana,2349,17250
+Kerala,12,2009,0,Black pepper,4902,1031
+Kerala,12,2009,0,Cashewnut,1001,403
+Kerala,12,2009,0,Coconut ,71376,591000000
+Kerala,12,2009,0,Dry ginger,61,152
+Kerala,12,2009,0,Sweet potato,19,216
+Kerala,12,2009,0,Tapioca,16132,424015
+Kerala,12,2009,0,Turmeric,46,84
+Kerala,12,2009,4,Rice,1360,3282
+Kerala,12,2010,1,Rice,1492.8,3593.07
+Kerala,12,2010,3,Rice,267.49,559.54
+Kerala,12,2010,0,Arecanut,922.45,555.85
+Kerala,12,2010,0,Banana,2891.63,16247.89
+Kerala,12,2010,0,Black pepper,4760.82,938.82
+Kerala,12,2010,0,Cashewnut,1067.85,390.5
+Kerala,12,2010,0,Coconut ,69668.44,499402000
+Kerala,12,2010,0,Dry ginger,69.73,180.25
+Kerala,12,2010,0,Sugarcane,0.18,
+Kerala,12,2010,0,Tapioca,14261.47,409253.45
+Kerala,12,2010,0,Turmeric,51.34,86.56
+Kerala,12,2010,4,Rice,1158.51,2770.17
+Kerala,12,2011,1,Rice,1204.98,3137.87
+Kerala,12,2011,3,Rice,112.24,268.31
+Kerala,12,2011,0,Arecanut,968.24,494.22
+Kerala,12,2011,0,Banana,1794.19,10855.74
+Kerala,12,2011,0,Black pepper,2344.39,988.51
+Kerala,12,2011,0,Cashewnut,1328.6,410.48
+Kerala,12,2011,0,Coconut ,71423.51,572372000
+Kerala,12,2011,0,Dry ginger,73.58,177.97
+Kerala,12,2011,0,Potato,18,204
+Kerala,12,2011,0,Sugarcane,0.13,
+Kerala,12,2011,0,Tapioca,14946.85,457614.43
+Kerala,12,2011,0,Turmeric,51.12,88.18
+Kerala,12,2011,4,Rice,1077.65,2732.52
+Kerala,12,2012,1,Rice,596,1471
+Kerala,12,2012,3,Rice,40,91
+Kerala,12,2012,0,Arecanut,1024,577
+Kerala,12,2012,0,Banana,3567,24290
+Kerala,12,2012,0,Black pepper,2441,873
+Kerala,12,2012,0,Blackgram,5,
+Kerala,12,2012,0,Cashewnut,1460,417
+Kerala,12,2012,0,Coconut ,70233,552000000
+Kerala,12,2012,0,Cowpea(Lobia),21,
+Kerala,12,2012,0,Drum Stick,1989,2661
+Kerala,12,2012,0,Dry ginger,67,154
+Kerala,12,2012,0,Jack Fruit,6066,
+Kerala,12,2012,0,Mango,4538,25617
+Kerala,12,2012,0,Moong(Green Gram),1,
+Kerala,12,2012,0,Papaya,1651,14443
+Kerala,12,2012,0,Pineapple,184,1306
+Kerala,12,2012,0,Pump Kin,13,
+Kerala,12,2012,0,Sweet potato,13,147
+Kerala,12,2012,0,Tapioca,13625,414271
+Kerala,12,2012,0,Turmeric,51,84
+Kerala,12,2012,4,Rice,1180,2534
+Kerala,12,2013,1,Rice,875,2468
+Kerala,12,2013,3,Rice,133,360
+Kerala,12,2013,0,Arecanut,1001,476
+Kerala,12,2013,0,Banana,2343,18753
+Kerala,12,2013,0,Black pepper,2529,909
+Kerala,12,2013,0,Blackgram,2,
+Kerala,12,2013,0,Cashewnut,1360,370
+Kerala,12,2013,0,Coconut ,71320,551000000
+Kerala,12,2013,0,Cowpea(Lobia),40,
+Kerala,12,2013,0,Drum Stick,2098,2807
+Kerala,12,2013,0,Dry ginger,65,138
+Kerala,12,2013,0,Mango,4840,28582
+Kerala,12,2013,0,Moong(Green Gram),19,
+Kerala,12,2013,0,Pump Kin,11,
+Kerala,12,2013,0,Sweet potato,7,77
+Kerala,12,2013,0,Tapioca,14210,467512
+Kerala,12,2013,0,Turmeric,56,89
+Kerala,12,2013,4,Rice,993,2498
+Kerala,12,2014,1,Rice,963,2588
+Kerala,12,2014,3,Rice,66,174
+Kerala,12,2014,0,Arecanut,1033,596
+Kerala,12,2014,0,Banana,2329,15999
+Kerala,12,2014,0,Black pepper,2401,916
+Kerala,12,2014,0,Blackgram,14,
+Kerala,12,2014,0,Cashewnut,1278,306
+Kerala,12,2014,0,Coconut ,73079,665000000
+Kerala,12,2014,0,Cowpea(Lobia),2,
+Kerala,12,2014,0,Dry ginger,75,203
+Kerala,12,2014,0,Moong(Green Gram),26,
+Kerala,12,2014,0,Pump Kin,11,
+Kerala,12,2014,0,Sugarcane,0.07,
+Kerala,12,2014,0,Sweet potato,6,66
+Kerala,12,2014,0,Tapioca,15754,586394
+Kerala,12,2014,0,Turmeric,65,122
+Kerala,12,2014,4,Rice,1064,2799
+Kerala,13,1997,0,Arecanut,6238,9140
+Kerala,13,1997,0,Black pepper,5958,1046
+Kerala,13,1997,0,Cashewnut,4658,2301
+Kerala,13,1997,0,Coconut ,75784,482000
+Kerala,13,1997,0,Tapioca,3087,76277
+Kerala,13,1998,1,Rice,10019,17623
+Kerala,13,1998,2,Sesamum,148,70
+Kerala,13,1998,3,Rice,6196,14233
+Kerala,13,1998,0,Arecanut,5450,5750
+Kerala,13,1998,0,Banana,2475,35071
+Kerala,13,1998,0,Black pepper,4369,919
+Kerala,13,1998,0,Cashewnut,4339,1796
+Kerala,13,1998,0,Coconut ,81171,534000000
+Kerala,13,1998,0,Dry chillies,18,15
+Kerala,13,1998,0,Dry ginger,92,176
+Kerala,13,1998,0,Tapioca,1809,38529
+Kerala,13,1998,0,Turmeric,87,123
+Kerala,13,1998,4,Rice,23000,42334
+Kerala,13,1999,1,Rice,11343,21488
+Kerala,13,1999,2,Groundnut,1,
+Kerala,13,1999,2,Sesamum,111,31
+Kerala,13,1999,3,Rice,7922,19589
+Kerala,13,1999,0,Arecanut,6355,6109
+Kerala,13,1999,0,Banana,2791,33729
+Kerala,13,1999,0,Black pepper,3861,563
+Kerala,13,1999,0,Cashewnut,4101,1216
+Kerala,13,1999,0,Coconut ,88307,610000000
+Kerala,13,1999,0,Dry ginger,112,284
+Kerala,13,1999,0,Sugarcane,1,100
+Kerala,13,1999,0,Tapioca,1527,34226
+Kerala,13,1999,0,Turmeric,125,177
+Kerala,13,1999,4,Rice,23622,51132
+Kerala,13,2000,1,Rice,10878,21416
+Kerala,13,2000,2,Sesamum,83,34
+Kerala,13,2000,3,Rice,6328,15668
+Kerala,13,2000,0,Arecanut,7099,6281
+Kerala,13,2000,0,Banana,2810,20138
+Kerala,13,2000,0,Black pepper,3938,526
+Kerala,13,2000,0,Cashewnut,3925,1319
+Kerala,13,2000,0,Coconut ,89472,540000000
+Kerala,13,2000,0,Dry ginger,87,133
+Kerala,13,2000,0,Sugarcane,2,200
+Kerala,13,2000,0,Sweet potato,3,32
+Kerala,13,2000,0,Tapioca,1637,41524
+Kerala,13,2000,0,Turmeric,142,174
+Kerala,13,2000,4,Rice,22178,45021
+Kerala,13,2001,1,Rice,9809,19830
+Kerala,13,2001,2,Sesamum,31,8
+Kerala,13,2001,3,Rice,6129,15861
+Kerala,13,2001,0,Arecanut,7179,6584
+Kerala,13,2001,0,Banana,2828,17361
+Kerala,13,2001,0,Black pepper,4174,589
+Kerala,13,2001,0,Cashewnut,3719,1525
+Kerala,13,2001,0,Coconut ,85480,545000000
+Kerala,13,2001,0,Dry ginger,123,353
+Kerala,13,2001,0,Rubber,13402,19762
+Kerala,13,2001,0,Sugarcane,2,200
+Kerala,13,2001,0,Sweet potato,1,11
+Kerala,13,2001,0,Tapioca,1405,27823
+Kerala,13,2001,0,Tea,530,1687
+Kerala,13,2001,0,Turmeric,97,225
+Kerala,13,2001,4,Rice,21074,48590
+Kerala,13,2002,1,Rice,9740,20021
+Kerala,13,2002,2,Sesamum,51,18
+Kerala,13,2002,3,Rice,7698,23084
+Kerala,13,2002,0,Arecanut,7526,6903
+Kerala,13,2002,0,Banana,2844,19974
+Kerala,13,2002,0,Bhindi,54,0
+Kerala,13,2002,0,Bitter Gourd,188,0
+Kerala,13,2002,0,Black pepper,4583,787
+Kerala,13,2002,0,Brinjal,32,0
+Kerala,13,2002,0,Cashewnut,3854,1982
+Kerala,13,2002,0,Cashewnut Raw,3854,1982
+Kerala,13,2002,0,Coconut ,86068,620000000
+Kerala,13,2002,0,Drum Stick,1567,2127
+Kerala,13,2002,0,Dry ginger,136,285
+Kerala,13,2002,0,Jack Fruit,5515,21
+Kerala,13,2002,0,Mango,7692,27166
+Kerala,13,2002,0,Other Fresh Fruits,1149,0
+Kerala,13,2002,0,other oilseeds,246,0
+Kerala,13,2002,0,Other Vegetables,1935,0
+Kerala,13,2002,0,Papaya,1611,7045
+Kerala,13,2002,0,Pineapple,280,2048
+Kerala,13,2002,0,Rubber,13396,19932
+Kerala,13,2002,0,Snak Guard,50,0
+Kerala,13,2002,0,Sugarcane,9,900
+Kerala,13,2002,0,Sweet potato,5,55
+Kerala,13,2002,0,Tapioca,1376,25861
+Kerala,13,2002,0,Tea,530,1466
+Kerala,13,2002,0,Turmeric,125,219
+Kerala,13,2002,4,Rice,19836,44167
+Kerala,13,2003,1,Rice,8016,18023
+Kerala,13,2003,2,Sesamum,173,15
+Kerala,13,2003,2,Small millets,6,5
+Kerala,13,2003,3,Rice,6317,18894
+Kerala,13,2003,0,Arecanut,8052,7267
+Kerala,13,2003,0,Banana,2532,18652
+Kerala,13,2003,0,Bhindi,77,0
+Kerala,13,2003,0,Bitter Gourd,263,0
+Kerala,13,2003,0,Black pepper,4959,1032
+Kerala,13,2003,0,Brinjal,24,0
+Kerala,13,2003,0,Cashewnut,3796,1827
+Kerala,13,2003,0,Coconut ,87397,632000000
+Kerala,13,2003,0,Drum Stick,1604,2181
+Kerala,13,2003,0,Dry ginger,124,150
+Kerala,13,2003,0,Jack Fruit,5595,20
+Kerala,13,2003,0,Mango,7869,28988
+Kerala,13,2003,0,Other Fresh Fruits,1328,0
+Kerala,13,2003,0,Other Vegetables,2267,0
+Kerala,13,2003,0,Papaya,1642,7176
+Kerala,13,2003,0,Pineapple,194,1623
+Kerala,13,2003,0,Snak Guard,79,0
+Kerala,13,2003,0,Sugarcane,1,100
+Kerala,13,2003,0,Sweet potato,1,11
+Kerala,13,2003,0,Tapioca,1173,23744
+Kerala,13,2003,0,Turmeric,97,129
+Kerala,13,2003,4,Rice,19825,42925
+Kerala,13,2004,1,Rice,9641,19964
+Kerala,13,2004,2,Sesamum,61,13
+Kerala,13,2004,3,Rice,8658,26886
+Kerala,13,2004,0,Arecanut,8071,7730
+Kerala,13,2004,0,Banana,2713,19946
+Kerala,13,2004,0,Black pepper,5950,1126
+Kerala,13,2004,0,Cashewnut,3541,1862
+Kerala,13,2004,0,Coconut ,85115,709000000
+Kerala,13,2004,0,Dry ginger,136,260
+Kerala,13,2004,0,Sugarcane,1,100
+Kerala,13,2004,0,Sweet potato,4,44
+Kerala,13,2004,0,Tapioca,1972,46527
+Kerala,13,2004,0,Turmeric,117,203
+Kerala,13,2004,4,Rice,18052,40613
+Kerala,13,2005,1,Rice,7421,14563
+Kerala,13,2005,2,Sesamum,58,20
+Kerala,13,2005,3,Rice,5877,19489
+Kerala,13,2005,0,Arecanut,8116,10661
+Kerala,13,2005,0,Banana,2919,25285
+Kerala,13,2005,0,Black pepper,6033,1282
+Kerala,13,2005,0,Cashewnut,3356,1687
+Kerala,13,2005,0,Coconut ,85366,726000000
+Kerala,13,2005,0,Dry ginger,157,467
+Kerala,13,2005,0,Sugarcane,2,140
+Kerala,13,2005,0,Sweet potato,4,44
+Kerala,13,2005,0,Tapioca,1417,28254
+Kerala,13,2005,0,Turmeric,126,290
+Kerala,13,2005,4,Rice,17776,38899
+Kerala,13,2006,1,Rice,5389,9847
+Kerala,13,2006,2,Other Cereals & Millets,22,18
+Kerala,13,2006,2,Sesamum,7,1
+Kerala,13,2006,3,Rice,5894,20401
+Kerala,13,2006,0,Arecanut,7279,5390
+Kerala,13,2006,0,Banana,2980,26430
+Kerala,13,2006,0,Black pepper,5623,1006
+Kerala,13,2006,0,Cashewnut,2419,960
+Kerala,13,2006,0,Coconut ,84454,608000000
+Kerala,13,2006,0,Dry ginger,111,221
+Kerala,13,2006,0,Sweet potato,5,55
+Kerala,13,2006,0,Tapioca,1454,43096
+Kerala,13,2006,0,Turmeric,141,206
+Kerala,13,2006,4,Rice,16028,34788
+Kerala,13,2007,1,Rice,4149,7378
+Kerala,13,2007,2,Sesamum,3,1
+Kerala,13,2007,3,Rice,8721,26374
+Kerala,13,2007,0,Arecanut,7069,4687
+Kerala,13,2007,0,Banana,3107,19864
+Kerala,13,2007,0,Black pepper,4766,811
+Kerala,13,2007,0,Cashewnut,2846,1425
+Kerala,13,2007,0,Coconut ,81697,575000000
+Kerala,13,2007,0,Dry ginger,75,158
+Kerala,13,2007,0,Sweet potato,3,33
+Kerala,13,2007,0,Tapioca,1521,41049
+Kerala,13,2007,0,Turmeric,81,125
+Kerala,13,2007,4,Rice,11552,25629
+Kerala,13,2008,1,Rice,4768,9439
+Kerala,13,2008,2,Sesamum,37,5
+Kerala,13,2008,3,Rice,8834,28887
+Kerala,13,2008,0,Arecanut,7209,7240
+Kerala,13,2008,0,Banana,2773,25096
+Kerala,13,2008,0,Black pepper,4829,841
+Kerala,13,2008,0,Cashewnut,2441,1049
+Kerala,13,2008,0,Coconut ,76753,531000000
+Kerala,13,2008,0,Dry ginger,59,124
+Kerala,13,2008,0,Sweet potato,9,99
+Kerala,13,2008,0,Tapioca,1117,35426
+Kerala,13,2008,0,Turmeric,90,141
+Kerala,13,2008,4,Rice,14326,33583
+Kerala,13,2009,1,Rice,3901,6922
+Kerala,13,2009,2,Sesamum,33,11
+Kerala,13,2009,3,Rice,8989,28329
+Kerala,13,2009,0,Arecanut,7163,7095
+Kerala,13,2009,0,Banana,2464,19455
+Kerala,13,2009,0,Black pepper,4898,895
+Kerala,13,2009,0,Cashewnut,2290,933
+Kerala,13,2009,0,Coconut ,77509,538000000
+Kerala,13,2009,0,Dry ginger,80,164
+Kerala,13,2009,0,Sugarcane,1,
+Kerala,13,2009,0,Sweet potato,6,66
+Kerala,13,2009,0,Tapioca,924,28236
+Kerala,13,2009,0,Turmeric,111,177
+Kerala,13,2009,4,Rice,12549,28603
+Kerala,13,2010,1,Rice,3033.46,6012.32
+Kerala,13,2010,2,Sesamum,35.28,6.03
+Kerala,13,2010,3,Rice,6361.9,20223.94
+Kerala,13,2010,0,Arecanut,6310.76,4307.83
+Kerala,13,2010,0,Banana,2283.36,17962.59
+Kerala,13,2010,0,Black pepper,4093.65,614.46
+Kerala,13,2010,0,Cashewnut,1953.28,856.62
+Kerala,13,2010,0,Coconut ,75364.43,493258000
+Kerala,13,2010,0,Dry ginger,52.63,136.42
+Kerala,13,2010,0,Sugarcane,0.11,
+Kerala,13,2010,0,Tapioca,1361.72,51157.69
+Kerala,13,2010,0,Turmeric,66.26,126.1
+Kerala,13,2010,4,Rice,10863.98,26843.21
+Kerala,13,2011,1,Rice,2740.18,5819.23
+Kerala,13,2011,2,Sesamum,4.58,1.16
+Kerala,13,2011,3,Rice,7705.17,27973.72
+Kerala,13,2011,0,Arecanut,7055.17,4700.74
+Kerala,13,2011,0,Banana,2240.37,20670.74
+Kerala,13,2011,0,Black pepper,2164.81,776.44
+Kerala,13,2011,0,Cashewnut,2504.77,692.17
+Kerala,13,2011,0,Coconut ,89676.79,607999000
+Kerala,13,2011,0,Dry ginger,48.99,124.34
+Kerala,13,2011,0,Potato,9,99
+Kerala,13,2011,0,Sugarcane,0.17,
+Kerala,13,2011,0,Tapioca,1430.99,52637.31
+Kerala,13,2011,0,Turmeric,71.97,151.53
+Kerala,13,2011,4,Rice,10726.71,28522.89
+Kerala,13,2012,1,Rice,2577,5615
+Kerala,13,2012,3,Rice,7476,26342
+Kerala,13,2012,0,Arecanut,6419,5173
+Kerala,13,2012,0,Banana,2141,20636
+Kerala,13,2012,0,Black pepper,1888,582
+Kerala,13,2012,0,Cashewnut,2148,671
+Kerala,13,2012,0,Coconut ,86476,548000000
+Kerala,13,2012,0,Drum Stick,1215,1445
+Kerala,13,2012,0,Dry ginger,46,113
+Kerala,13,2012,0,Jack Fruit,4949,
+Kerala,13,2012,0,Mango,6902,43315
+Kerala,13,2012,0,Papaya,1203,4092
+Kerala,13,2012,0,Pineapple,41,305
+Kerala,13,2012,0,Pump Kin,71,
+Kerala,13,2012,0,Sesamum,13,4
+Kerala,13,2012,0,Sugarcane,1,2
+Kerala,13,2012,0,Sweet potato,4,15
+Kerala,13,2012,0,Tapioca,1262,58693
+Kerala,13,2012,0,Turmeric,81,183
+Kerala,13,2012,4,Rice,13045,35612
+Kerala,13,2012,4,Sesamum,13,4
+Kerala,13,2013,1,Rice,1810,4153
+Kerala,13,2013,3,Rice,7884,27853
+Kerala,13,2013,0,Arecanut,6424,4268
+Kerala,13,2013,0,Banana,2388,21569
+Kerala,13,2013,0,Black pepper,1947,546
+Kerala,13,2013,0,Blackgram,2,
+Kerala,13,2013,0,Cashewnut,1892,580
+Kerala,13,2013,0,Coconut ,87177,618000000
+Kerala,13,2013,0,Drum Stick,1201,1428
+Kerala,13,2013,0,Dry ginger,39,104
+Kerala,13,2013,0,Mango,6601,35685
+Kerala,13,2013,0,Pump Kin,70,
+Kerala,13,2013,0,Sesamum,6,2
+Kerala,13,2013,0,Sugarcane,0.29,3
+Kerala,13,2013,0,Sweet potato,6,24
+Kerala,13,2013,0,Tapioca,1290,53818
+Kerala,13,2013,0,Turmeric,68,141
+Kerala,13,2013,4,Rice,12580,34647
+Kerala,13,2014,1,Rice,2864,6282
+Kerala,13,2014,3,Rice,8051,29830
+Kerala,13,2014,0,Arecanut,6351,4861
+Kerala,13,2014,0,Arhar/Tur,1,1
+Kerala,13,2014,0,Banana,2297,18980
+Kerala,13,2014,0,Black pepper,1801,502
+Kerala,13,2014,0,Cashewnut,1697,426
+Kerala,13,2014,0,Coconut ,83221,485000000
+Kerala,13,2014,0,Dry ginger,41,100
+Kerala,13,2014,0,Pump Kin,67,
+Kerala,13,2014,0,Sesamum,6,1.22
+Kerala,13,2014,0,Sugarcane,0.24,2
+Kerala,13,2014,0,Sweet potato,3,21
+Kerala,13,2014,0,Tapioca,1441,64739
+Kerala,13,2014,0,Turmeric,69,140
+Kerala,13,2014,4,Rice,13236,39904
+Kerala,14,1997,0,Arecanut,6615,8103
+Kerala,14,1997,0,Black pepper,41065,17336
+Kerala,14,1997,0,Cashewnut,1244,626
+Kerala,14,1997,0,Coconut ,5278,13000
+Kerala,14,1997,0,Tapioca,2502,72125
+Kerala,14,1998,2,Sesamum,28,4
+Kerala,14,1998,3,Rice,3599,9023
+Kerala,14,1998,0,Arecanut,4456,1478
+Kerala,14,1998,0,Banana,3726,47663
+Kerala,14,1998,0,Black pepper,40210,18175
+Kerala,14,1998,0,Cardamom,4108,201
+Kerala,14,1998,0,Cashewnut,1385,622
+Kerala,14,1998,0,Coconut ,9948,25000000
+Kerala,14,1998,0,Dry ginger,6129,22717
+Kerala,14,1998,0,Tapioca,1481,56023
+Kerala,14,1998,0,Turmeric,197,553
+Kerala,14,1998,4,Rice,12043,25666
+Kerala,14,1999,2,Jowar,1,
+Kerala,14,1999,2,Sesamum,20,5
+Kerala,14,1999,3,Rice,2750,6978
+Kerala,14,1999,0,Arecanut,5212,1736
+Kerala,14,1999,0,Banana,6342,65753
+Kerala,14,1999,0,Black pepper,44771,17332
+Kerala,14,1999,0,Cardamom,4108,245
+Kerala,14,1999,0,Cashewnut,1561,944
+Kerala,14,1999,0,Coconut ,10843,27000000
+Kerala,14,1999,0,Dry ginger,5520,21965
+Kerala,14,1999,0,Sugarcane,1,100
+Kerala,14,1999,0,Sweet potato,3,35
+Kerala,14,1999,0,Tapioca,1620,57449
+Kerala,14,1999,0,Turmeric,159,446
+Kerala,14,1999,4,Rice,14554,37783
+Kerala,14,2000,2,Sesamum,24,7
+Kerala,14,2000,3,Rice,3200,7505
+Kerala,14,2000,0,Arecanut,6033,2699
+Kerala,14,2000,0,Banana,8935,67547
+Kerala,14,2000,0,Black pepper,44908,17915
+Kerala,14,2000,0,Cardamom,4108,244
+Kerala,14,2000,0,Cashewnut,1536,768
+Kerala,14,2000,0,Coconut ,10995,43000000
+Kerala,14,2000,0,Dry ginger,5244,20984
+Kerala,14,2000,0,Sugarcane,2,200
+Kerala,14,2000,0,Sweet potato,12,140
+Kerala,14,2000,0,Tapioca,1620,54917
+Kerala,14,2000,0,Turmeric,139,262
+Kerala,14,2000,4,Rice,11800,26297
+Kerala,14,2001,2,Sesamum,18,6
+Kerala,14,2001,3,Rice,2952,7351
+Kerala,14,2001,0,Arecanut,6636,2682
+Kerala,14,2001,0,Banana,10174,75264
+Kerala,14,2001,0,Black pepper,40088,13083
+Kerala,14,2001,0,Cardamom,4106,300
+Kerala,14,2001,0,Cashewnut,1536,627
+Kerala,14,2001,0,Coconut ,11383,39000000
+Kerala,14,2001,0,Coffee,67510,54110
+Kerala,14,2001,0,Dry ginger,4192,18084
+Kerala,14,2001,0,Rubber,6450,4038
+Kerala,14,2001,0,Sugarcane,4,400
+Kerala,14,2001,0,Sweet potato,9,105
+Kerala,14,2001,0,Tapioca,1692,58724
+Kerala,14,2001,0,Tea,6049,15255
+Kerala,14,2001,0,Turmeric,137,244
+Kerala,14,2001,4,Rice,9903,24725
+Kerala,14,2002,2,Jowar,2,1
+Kerala,14,2002,2,Sesamum,10,3
+Kerala,14,2002,3,Rice,2498,6548
+Kerala,14,2002,0,Arecanut,7201,3237
+Kerala,14,2002,0,Banana,11466,77963
+Kerala,14,2002,0,Bhindi,5,0
+Kerala,14,2002,0,Bitter Gourd,133,0
+Kerala,14,2002,0,Black pepper,40839,12064
+Kerala,14,2002,0,Brinjal,10,0
+Kerala,14,2002,0,Cardamom,4107,317
+Kerala,14,2002,0,Cashewnut,1455,1283
+Kerala,14,2002,0,Cashewnut Raw,1455,1283
+Kerala,14,2002,0,Coconut ,10947,51000000
+Kerala,14,2002,0,Coffee,66973,52697
+Kerala,14,2002,0,Drum Stick,945,763
+Kerala,14,2002,0,Dry ginger,3450,15164
+Kerala,14,2002,0,Jack Fruit,10241,26
+Kerala,14,2002,0,Mango,4830,11416
+Kerala,14,2002,0,Other Fresh Fruits,650,0
+Kerala,14,2002,0,other oilseeds,1,0
+Kerala,14,2002,0,Other Vegetables,2756,0
+Kerala,14,2002,0,Papaya,399,2664
+Kerala,14,2002,0,Pineapple,37,169
+Kerala,14,2002,0,Rubber,6451,4753
+Kerala,14,2002,0,Snak Guard,1,0
+Kerala,14,2002,0,Sugarcane,5,500
+Kerala,14,2002,0,Sweet potato,13,152
+Kerala,14,2002,0,Tapioca,1915,65180
+Kerala,14,2002,0,Tea,6049,10983
+Kerala,14,2002,0,Turmeric,127,270
+Kerala,14,2002,4,Rice,10490,24778
+Kerala,14,2003,2,Jowar,4,2
+Kerala,14,2003,2,Ragi,3,2
+Kerala,14,2003,2,Sesamum,19,2
+Kerala,14,2003,2,Small millets,1,1
+Kerala,14,2003,3,Rice,2168,4872
+Kerala,14,2003,0,Arecanut,8689,4192
+Kerala,14,2003,0,Banana,11819,80162
+Kerala,14,2003,0,Bhindi,8,0
+Kerala,14,2003,0,Bitter Gourd,211,0
+Kerala,14,2003,0,Black pepper,42287,12173
+Kerala,14,2003,0,Brinjal,8,0
+Kerala,14,2003,0,Cardamom,4106,329
+Kerala,14,2003,0,Cashewnut,1346,876
+Kerala,14,2003,0,Coconut ,11098,47000000
+Kerala,14,2003,0,Drum Stick,891,722
+Kerala,14,2003,0,Dry ginger,4392,21257
+Kerala,14,2003,0,Jack Fruit,10021,29
+Kerala,14,2003,0,Mango,4604,11764
+Kerala,14,2003,0,Other Fresh Fruits,462,0
+Kerala,14,2003,0,Other Vegetables,2685,0
+Kerala,14,2003,0,Papaya,433,2888
+Kerala,14,2003,0,Pineapple,51,190
+Kerala,14,2003,0,Snak Guard,4,0
+Kerala,14,2003,0,Sugarcane,2,200
+Kerala,14,2003,0,Sweet potato,14,164
+Kerala,14,2003,0,Tapioca,1964,102609
+Kerala,14,2003,0,Turmeric,121,276
+Kerala,14,2003,4,Rice,10175,23549
+Kerala,14,2004,2,Other Cereals & Millets,6,5
+Kerala,14,2004,2,Ragi,2,1
+Kerala,14,2004,2,Sesamum,20,2
+Kerala,14,2004,3,Rice,2324,6278
+Kerala,14,2004,0,Arecanut,10204,5711
+Kerala,14,2004,0,Banana,12278,108021
+Kerala,14,2004,0,Black pepper,41573,13897
+Kerala,14,2004,0,Cardamom,4110,345
+Kerala,14,2004,0,Cashewnut,1275,892
+Kerala,14,2004,0,Coconut ,11337,40000000
+Kerala,14,2004,0,Dry ginger,5731,32376
+Kerala,14,2004,0,Sugarcane,2,200
+Kerala,14,2004,0,Sweet potato,13,152
+Kerala,14,2004,0,Tapioca,2139,91915
+Kerala,14,2004,0,Turmeric,139,367
+Kerala,14,2004,4,Rice,9007,22928
+Kerala,14,2005,2,Jowar,1,
+Kerala,14,2005,2,Sesamum,5,0.4
+Kerala,14,2005,3,Rice,2232,6353
+Kerala,14,2005,0,Arecanut,10499,6035
+Kerala,14,2005,0,Banana,12842,115160
+Kerala,14,2005,0,Black pepper,41464,11483
+Kerala,14,2005,0,Cardamom,4106,380
+Kerala,14,2005,0,Cashewnut,1235,697
+Kerala,14,2005,0,Coconut ,11517,38000000
+Kerala,14,2005,0,Dry ginger,7269,38823
+Kerala,14,2005,0,Sugarcane,2,180
+Kerala,14,2005,0,Sweet potato,11,129
+Kerala,14,2005,0,Tapioca,2348,85599
+Kerala,14,2005,0,Turmeric,251,621
+Kerala,14,2005,4,Rice,9271,22032
+Kerala,14,2006,2,Jowar,8,
+Kerala,14,2006,2,Ragi,2,1
+Kerala,14,2006,2,Sesamum,3,1
+Kerala,14,2006,3,Rice,2567,7607
+Kerala,14,2006,0,Arecanut,12737,5617
+Kerala,14,2006,0,Banana,11885,88065
+Kerala,14,2006,0,Black pepper,36488,9828
+Kerala,14,2006,0,Cardamom,4106,359
+Kerala,14,2006,0,Cashewnut,1349,877
+Kerala,14,2006,0,Coconut ,12034,47000000
+Kerala,14,2006,0,Dry ginger,5901,23385
+Kerala,14,2006,0,Sugarcane,1,30
+Kerala,14,2006,0,Sweet potato,16,188
+Kerala,14,2006,0,Tapioca,2600,94326
+Kerala,14,2006,0,Turmeric,369,996
+Kerala,14,2006,4,Rice,9265,23115
+Kerala,14,2007,2,Jowar,9,5
+Kerala,14,2007,2,Other Cereals & Millets,1,1
+Kerala,14,2007,2,Ragi,1,1
+Kerala,14,2007,2,Sesamum,1,
+Kerala,14,2007,3,Rice,2995,8606
+Kerala,14,2007,0,Arecanut,12213,4627
+Kerala,14,2007,0,Banana,12123,90427
+Kerala,14,2007,0,Black pepper,25542,4060
+Kerala,14,2007,0,Cardamom,4106,324
+Kerala,14,2007,0,Cashewnut,1133,534
+Kerala,14,2007,0,Coconut ,12292,45000000
+Kerala,14,2007,0,Dry ginger,4604,17054
+Kerala,14,2007,0,Sugarcane,1,30
+Kerala,14,2007,0,Sweet potato,16,188
+Kerala,14,2007,0,Tapioca,3068,95540
+Kerala,14,2007,0,Turmeric,270,561
+Kerala,14,2007,4,Rice,9413,23473
+Kerala,14,2008,2,Jowar,6,3
+Kerala,14,2008,2,Other Cereals & Millets,1,1
+Kerala,14,2008,2,Ragi,3,2
+Kerala,14,2008,3,Rice,2896,8154
+Kerala,14,2008,0,Arecanut,11734,5518
+Kerala,14,2008,0,Banana,10859,65238
+Kerala,14,2008,0,Black pepper,20825,4526
+Kerala,14,2008,0,Cardamom,4106,362
+Kerala,14,2008,0,Cashewnut,969,318
+Kerala,14,2008,0,Coconut ,11016,38000000
+Kerala,14,2008,0,Dry ginger,4166,19713
+Kerala,14,2008,0,Sugarcane,7,
+Kerala,14,2008,0,Sweet potato,12,141
+Kerala,14,2008,0,Tapioca,2295,94828
+Kerala,14,2008,0,Turmeric,232,508
+Kerala,14,2008,4,Rice,9850,25707
+Kerala,14,2009,2,Jowar,16,9
+Kerala,14,2009,2,Sesamum,5,
+Kerala,14,2009,3,Rice,2419,6819
+Kerala,14,2009,0,Arecanut,10862,5385
+Kerala,14,2009,0,Banana,8318,71627
+Kerala,14,2009,0,Black pepper,16571,4497
+Kerala,14,2009,0,Cardamom,4106,366
+Kerala,14,2009,0,Cashewnut,706,494
+Kerala,14,2009,0,Coconut ,10200,46000000
+Kerala,14,2009,0,Dry ginger,2446,18439
+Kerala,14,2009,0,Sugarcane,7,
+Kerala,14,2009,0,Sweet potato,9,106
+Kerala,14,2009,0,Tapioca,1698,80618
+Kerala,14,2009,0,Turmeric,189,672
+Kerala,14,2009,4,Rice,10576,26338
+Kerala,14,2010,2,Sesamum,4.55,0.55
+Kerala,14,2010,3,Rice,1834.85,5266.37
+Kerala,14,2010,0,Arecanut,10444.97,7061.85
+Kerala,14,2010,0,Banana,10466.5,87967.67
+Kerala,14,2010,0,Black pepper,16188.55,2431.28
+Kerala,14,2010,0,Cashewnut,623.42,502.01
+Kerala,14,2010,0,Coconut ,10043.34,50745000
+Kerala,14,2010,0,Dry ginger,2673.44,19413.99
+Kerala,14,2010,0,Sugarcane,2.47,17.6
+Kerala,14,2010,0,Tapioca,2265.1,118922.98
+Kerala,14,2010,0,Turmeric,160.81,516.14
+Kerala,14,2010,4,Rice,9218.78,22644.74
+Kerala,14,2011,2,Sesamum,0.28,0.02
+Kerala,14,2011,3,Rice,1336.82,3551.95
+Kerala,14,2011,0,Arecanut,11581.77,6078.91
+Kerala,14,2011,0,Banana,12358.78,107243.88
+Kerala,14,2011,0,Black pepper,8421.93,2691.7
+Kerala,14,2011,0,Cardamom,4106,362
+Kerala,14,2011,0,Cashewnut,799.46,339.54
+Kerala,14,2011,0,Coconut ,10515.38,48039000
+Kerala,14,2011,0,Dry ginger,2953.16,20028.32
+Kerala,14,2011,0,Potato,12,141
+Kerala,14,2011,0,Sugarcane,3.08,
+Kerala,14,2011,0,Tapioca,2371.45,117195.55
+Kerala,14,2011,0,Turmeric,184.47,639.72
+Kerala,14,2011,4,Rice,7658.14,19974.22
+Kerala,14,2012,3,Rice,1034,2765
+Kerala,14,2012,0,Arecanut,11553,5796
+Kerala,14,2012,0,Arhar/Tur,72,108
+Kerala,14,2012,0,Banana,12086,94955
+Kerala,14,2012,0,Black pepper,8945,3706
+Kerala,14,2012,0,Cardamom,4120,610
+Kerala,14,2012,0,Cashewnut,748,356
+Kerala,14,2012,0,Coconut ,9995,46000000
+Kerala,14,2012,0,Cowpea(Lobia),685,
+Kerala,14,2012,0,Drum Stick,417,149
+Kerala,14,2012,0,Dry ginger,1893,11846
+Kerala,14,2012,0,Horse-gram,2,
+Kerala,14,2012,0,Jack Fruit,7854,
+Kerala,14,2012,0,Jowar,6,5
+Kerala,14,2012,0,Mango,4226,10210
+Kerala,14,2012,0,Papaya,352,3045
+Kerala,14,2012,0,Pineapple,32,139
+Kerala,14,2012,0,Pump Kin,179,
+Kerala,14,2012,0,Sesamum,4,1
+Kerala,14,2012,0,Sugarcane,2,
+Kerala,14,2012,0,Sweet potato,6,94
+Kerala,14,2012,0,Tapioca,2134,95950
+Kerala,14,2012,0,Turmeric,179,525
+Kerala,14,2012,4,Rice,9196,25287
+Kerala,14,2012,4,Sesamum,4,1
+Kerala,14,2013,3,Rice,1522,4062
+Kerala,14,2013,0,Arecanut,12181,3985
+Kerala,14,2013,0,Arhar/Tur,48,72
+Kerala,14,2013,0,Banana,11579,98518
+Kerala,14,2013,0,Black pepper,9527,2751
+Kerala,14,2013,0,Cardamom,4125,650
+Kerala,14,2013,0,Cashewnut,850,266
+Kerala,14,2013,0,Coconut ,11725,65000000
+Kerala,14,2013,0,Cowpea(Lobia),1,
+Kerala,14,2013,0,Drum Stick,468,167
+Kerala,14,2013,0,Dry ginger,1992,11006
+Kerala,14,2013,0,Jowar,4,3
+Kerala,14,2013,0,Mango,5710,25581
+Kerala,14,2013,0,Pump Kin,154,
+Kerala,14,2013,0,Sugarcane,1,
+Kerala,14,2013,0,Sweet potato,6,96
+Kerala,14,2013,0,Tapioca,1323,55172
+Kerala,14,2013,0,Turmeric,168,503
+Kerala,14,2013,4,Rice,9959,26693
+Kerala,14,2014,3,Rice,1039,2844
+Kerala,14,2014,0,Arecanut,11613,6071
+Kerala,14,2014,0,Arhar/Tur,648,518
+Kerala,14,2014,0,Banana,10719,100284
+Kerala,14,2014,0,Black pepper,10064,4794
+Kerala,14,2014,0,Cardamom,4125,690
+Kerala,14,2014,0,Cashewnut,718,224
+Kerala,14,2014,0,Coconut ,10326,59000000
+Kerala,14,2014,0,Dry ginger,1925,10992
+Kerala,14,2014,0,Maize,1,
+Kerala,14,2014,0,Pump Kin,135,
+Kerala,14,2014,0,Sesamum,1,0.45
+Kerala,14,2014,0,Sugarcane,0.75,
+Kerala,14,2014,0,Sweet potato,8,127
+Kerala,14,2014,0,Tapioca,2327,99788
+Kerala,14,2014,0,Turmeric,161,481
+Kerala,14,2014,4,Rice,8651,23324
